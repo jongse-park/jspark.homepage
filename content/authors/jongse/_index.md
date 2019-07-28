@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Product Engineer, Deep Learning Acceleration Solution  
+role: Product Engineer  
 
 # Organizations/Affiliations
 organizations:
 - name: Bigstream Solutions, Inc 
-  url: ""
+  url: "https://bigstream.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests lie on the intersections of computer architecture, systems, and machine learning. 
+bio:  
 
 interests:
 - Computer Architecture 
