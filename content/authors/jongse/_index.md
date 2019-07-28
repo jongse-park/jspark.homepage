@@ -35,7 +35,7 @@ education:
   - course: MS in Computer Science 
     institution: KAIST 
     year: 2012
-  - course: BS in Computer Science and Engineering 
+  - course: BS in Computer Science  
     institution: Sogang University 
     year: 2010
 
