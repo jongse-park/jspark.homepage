@@ -54,6 +54,8 @@ social:
 statements:
 - name: Research Statement
   link: files/statement/research.pdf
+- name: Teaching Statement
+  link: files/statement/teaching.pdf
   
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -65,5 +67,4 @@ user_groups:
 - Visitors
 ---
 
-
-
+<a href="https://scholar.google.com/citations?hl=en&user=4Fw2ma4AAAAJ">Google Scholar</a>
