@@ -58,8 +58,8 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "jongse.park.pw@gmail.com"
-phone = "+1 (404) 316-8506"
+email = "[first_name].[last_name].pw at gmail.com"
+#phone = "+1 (404) 316-8506"
 address = "1975 West El Camino Real, Mountain View, 94040"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
