@@ -51,12 +51,6 @@ social:
   icon_pack: ai
   link: files/cv.pdf
 
-statements:
-- name: Research Statement
-  link: files/statement/research.pdf
-- name: Teaching Statement
-  link: files/statement/teaching.pdf
-  
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
   
