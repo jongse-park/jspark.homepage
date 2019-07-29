@@ -14,9 +14,9 @@ weight = 60
 
 +++
 
--	**CMSC 15100: Introduction to Computer Science I**
-	-	_Adam Shaw, Matthew Wachs - Fall 2017_
--	**CMSC 23010: Parallel Computing**
+	**Product Engineer**
+	-	August. 2018 - present: Deep Learning Acceleration Solution Architect, Bigstream Solution, Inc.
+	**CMSC 23010: Parallel Computing**
 	-	_Henry Hoffmann - Winter 2018_
--	**CMSC 15400: Introduction to Computer Systems**
+	**CMSC 15400: Introduction to Computer Systems**
 	-	_Matthew Wachs, Yanjing Li, Haryadi Gunawi - Spring 2018_
