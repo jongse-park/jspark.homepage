@@ -17,8 +17,15 @@ weight = 60
 -	**Product Engineer**
 	-	August. 2018 - present: Deep Learning Acceleration Solution Architect, Bigstream Solution, Inc.
 -	**Research Assistant**
-	-	Test
+	-	Jan. 2018 - Aug. 2018: Visiting Researcher, ACT Lab, CSE, UCSD
+	-	Aug. 2013 - Aug. 2018: Graduate Research Assistant, ACT Lab, CoC, GaTech
+	-	Mar. 2010 - Jul. 2013: Graduate Research Assistant, Computer Architecture Lab, CS, KAIST
 -	**Research Intern**
-	-	Test
+	-	May 2017 - Aug. 2017: Summer Intern, Architecture Research Group (ARG), NVIDIA Research
+	-	Jan. 2016 - May 2016: Spring Intern, Catapult team, Microsoft Research
 -	**Teaching Assistant**
-	-	Test
+	-	2016.Fall: CS3220 Processor Design
+	-	2014.Fall: CS3220 Processor Design
+	- 	2014.Spring: CS8803 ACT (Alternative Computing Technology)
+	-	2011.Spring: CS211 Digital System and Lab
+	-	2010.Fall: CS310 Embedded Computer Systems
