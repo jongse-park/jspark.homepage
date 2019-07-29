@@ -47,9 +47,17 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=4Fw2ma4AAAAJ&hl=en&oi=ao 
+- icon: dblp
+  icon_pack: ai
+  link: https://dblp.org/pers/hd/p/Park:Jongse 
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/jongsepark/ 
+
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
