@@ -8,10 +8,6 @@
   url = "#about"
   weight = 10
 
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
 
 [[main]]
   name = "Publications"
@@ -23,9 +19,5 @@
   url = "#contact"
   weight = 60
 
-[[main]]
-  name = "Courses"
-  url = "#courses"
-  weight = 80
 
 
