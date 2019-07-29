@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-<a href="https://scholar.google.com/citations?hl=en&user=4Fw2ma4AAAAJ">Google Scholar</a>
+<a href="statements/research.pdf">Google Scholar</a>
