@@ -14,9 +14,11 @@ weight = 60
 
 +++
 
-	**Product Engineer**
+-	**Product Engineer**
 	-	August. 2018 - present: Deep Learning Acceleration Solution Architect, Bigstream Solution, Inc.
-	**CMSC 23010: Parallel Computing**
-	-	_Henry Hoffmann - Winter 2018_
-	**CMSC 15400: Introduction to Computer Systems**
-	-	_Matthew Wachs, Yanjing Li, Haryadi Gunawi - Spring 2018_
+-	**Research Assistant**
+	-	Test
+-	**Research Intern**
+	-	Test
+-	**Teaching Assistant**
+	-	Test
