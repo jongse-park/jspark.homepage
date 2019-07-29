@@ -10,12 +10,12 @@ title = "Experiences"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 40
 
 +++
 
 -	**Product Engineer**
-	-	August. 2018 - present: Deep Learning Acceleration Solution Architect, Bigstream Solution, Inc.
+	-	Aug. 2018 - present: Deep Learning Acceleration Solution Architect, Bigstream Solution, Inc.
 -	**Research Assistant**
 	-	Jan. 2018 - Aug. 2018: Visiting Researcher, ACT Lab, CSE, UCSD
 	-	Aug. 2013 - Aug. 2018: Graduate Research Assistant, ACT Lab, CoC, GaTech
