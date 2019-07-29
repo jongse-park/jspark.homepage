@@ -67,4 +67,5 @@ user_groups:
 - Visitors
 ---
 
-<a href="statements/research.pdf">Google Scholar</a>
+<a href="files/statements/research.pdf">Research Statement</a>
+<a href="files/statements/teaching.pdf">Teaching Statement</a>
