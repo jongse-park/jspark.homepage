@@ -23,3 +23,9 @@
   url = "#contact"
   weight = 60
 
+[[main]]
+  name = "Courses"
+  url = "#courses"
+  weight = 80
+
+
