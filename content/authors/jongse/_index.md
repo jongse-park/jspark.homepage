@@ -22,7 +22,7 @@ bio:
 
 interests:
 - Computer Architecture 
-- Specialized Systems for Machine Learning 
+- Systems for Machine Learning 
 - Edge-to-Cloud Computing
 - Distributed Systems
 - Approximate Computing
