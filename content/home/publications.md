@@ -44,11 +44,11 @@ weight = 60
 
 **DnnWeaver: From High-Level Deep Network Models to FPGA Acceleration**   
 <span style="color:#666666">Hardik Sharma, <u>Jongse Park</u>, Emmanuel Amaro, Bradley Thwaites, Praneetha Kotha,  Anmol Gupta, Joon Kyung Kim, Asit Mishra, and Hadi Esmaeilzadeh</span>   
-<span style="color:#770001;"></span>CogArch, 2016 [<a href="files/paper/2016-cogarch-dnn_weaver.pdf">Paper</a>]
+<span style="color:#770001;">CogArch</span>, 2016 [<a href="files/paper/2016-cogarch-dnn_weaver.pdf">Paper</a>]
 
 **Tabla: A Unified Template-based Framework for Accelerating Statistical Machine Learning**   
 <span style="color:#666666">Divya Mahajan, <u>Jongse Park</u>, Emmanuel Amaro, Hardik Sharma, Amir Yazdanbaksh, Joon Kyung Kim, and Hadi Esmaeilzadeh</span>   
-<span style="color:#770001;"></span>HPCA, 2016 [<a href="files/paper/2016-hpca-tabla.pdf">Paper</a>]
+<span style="color:#770001;">HPCA</span>, 2016 [<a href="files/paper/2016-hpca-tabla.pdf">Paper</a>]
 
 **FlexJava: Language Support for Safe and Modular Approximate Programming**   
 <span style="color:#666666"><u>Jongse Park</u>, Hadi Esmaeilzadeh, Xin Zhang, Mayur Naik, William Harris</span>   
