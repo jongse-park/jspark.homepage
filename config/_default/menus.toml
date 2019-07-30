@@ -19,12 +19,12 @@
   weight = 60
 
 [[main]]
-  name = "HonorsandAwards"
+  name = "Honors and Awards"
   url = "#awards"
   weight = 80
 
 [[main]]
-  name = "ProfessionalServices"
+  name = "Professional Services"
   url = "#services"
   weight = 100
 
