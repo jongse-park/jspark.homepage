@@ -14,7 +14,7 @@
   {{end}}
 {{end}}
 
-<link rel="stylesheet" type="text/css" href="files/css/custom.css" />
+<link rel="stylesheet" type="text/css" href="{{.Site.BaseURL}}css/custom.css" />
 
 {{/* Header image */}}
 {{ if and .Params.header.image (not (and $featured (not .Params.image.preview_only))) }}
