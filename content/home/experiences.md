@@ -23,7 +23,7 @@ weight = 40
 -	Mar. 2010 - Jul. 2013: Graduate Research Assistant, Computer Architecture Lab, CS, KAIST
 
 #####	Research Intern
--	May 2017 - Aug. 2017: Summer Intern, Architecture Research Group (ARG), NVIDIA Research
+-	May 2017 - Aug. 2017: Summer Intern, Architecture Research Group, NVIDIA Research
 -	Jan. 2016 - May 2016: Spring Intern, Catapult team, Microsoft Research
 
 #####	Teaching Assistant
