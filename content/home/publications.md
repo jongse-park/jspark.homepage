@@ -54,24 +54,31 @@ weight = 60
 <span style="color:#666666"><u>Jongse Park</u>, Hadi Esmaeilzadeh, Xin Zhang, Mayur Naik, William Harris</span>   
 <span style="color:#770001;">FSE</span>, 2015  [<a href="files/paper/2015-fse-flexjava.pdf">Paper</a>|<a href="files/slide/2015-fse-flexjava.pdf">Talk</a>|<a href="https://jongse-park.github.io/files/flexjava/flexjava.html">Artifact</a>]
 
-**Title**   
-<span style="color:#666666"><u>Jongse Park</u></span>   
-<span style="color:#770001;"></span>, 2018  [<a href="files/paper/">Paper</a>]
+**Neural Acceleration for GPU Throughput Processors**   
+<span style="color:#666666">Amir Yazdanbakhsh, <u>Jongse Park</u>, Hardik Sharma, Pejman Lofti-Kamran, and Hadi Esmaeilzadeh</span>   
+<span style="color:#770001;">MICRO</span>, 2015  [<a href="files/paper/2015-micro-ngpu.pdf">Paper</a>]
 
-**Title**   
-<span style="color:#666666"><u>Jongse Park</u></span>   
-<span style="color:#770001;"></span>, 2018  [<a href="files/paper/">Paper</a>]
+**Axilog: Abstractions for Approximate Hardware Design and Reuse**   
+<span style="color:#666666">Divya Mahajan,  Kartik Ramkrishnan, Rudra Jariwala, Amir Yazdanbakhsh, <u>Jongse Park</u>, Bradley Thwaites, Anandhavel Nagendrakumar, Abbas Rahimi, Hadi Esmaeilzadeh, and Kia Bazargan</span>   
+<span style="color:#770001;">IEEE Micro, </span>, special issue on Alternative Computing Designs and Technologies, 2015  [<a href="files/paper/2015-ieee_micro-axilog.pdf">Paper</a>]
 
-**Title**   
-<span style="color:#666666"><u>Jongse Park</u></span>   
-<span style="color:#770001;"></span>, 2018  [<a href="files/paper/">Paper</a>]
+**Axilog: Language Support for Approximate Hardware Design**   
+<span style="color:#666666">Amir Yazdanbakhsh, Divya Mahajan, Bradley Thwaites, <u>Jongse Park</u>, Anandhavel Nagendrakumar, Sindhuja Sethuraman, Kartik Ramkrishnan, Nishanthi Ravindran, Rudra Jariwala, Abbas Rahimi, Hadi Esmaeilzadeh, and Kia Bazargan</span>   
+<span style="color:#770001;">DATE</span>, 2015  [<a href="files/paper/2015-date-axilog.pdf">Paper</a>]
 
-**Title**   
-<span style="color:#666666"><u>Jongse Park</u></span>   
-<span style="color:#770001;"></span>, 2018  [<a href="files/paper/">Paper</a>]
+**General-Purpose Code Acceleration with Limited-Precision Analog Computation**   
+<span style="color:#666666">Ren&eacute;e St. Amant, Amir Yazdanbakhsh, <u>Jongse Park</u>, Bradley Thwaites, Hadi Esmaeilzadeh, Arjang Hassibi, Luis Ceze, and Doug Burger</span>   
+<span style="color:#770001;">ISCA</span>, 2014  [<a href="files/paper/2014-isca-anpu.pdf">Paper</a>]  
+<span style="color:#2A6A97;">Honorable Mention in IEEE Micro Top Picks</span>
 
-**Title**   
-<span style="color:#666666"><u>Jongse Park</u></span>   
-<span style="color:#770001;"></span>, 2018  [<a href="files/paper/">Paper</a>]
+**Rollbak-Free Value Prediction with Approximate Loads (Short paper)**   
+<span style="color:#666666">Bradley Thwaites, Gennady Pekhimenko, Amir Yazdanbakhsh, <u>Jongse Park</u>, Girish Mururu, Hadi Esmaeilzadeh, Onur Mutlu, and Todd Mowry</span>   
+<span style="color:#770001;">PACT</span>, 2014  [<a href="files/paper/2014-pact-rfvp.pdf">Paper</a>]
 
+**Isolated Mini-domain for Trusted Cloud Computing**   
+<span style="color:#666666">Jaewon Choi, <u>Jongse Park</u>, Jinho Seol, and Seungryoul Maeng</span>   
+<span style="color:#770001;">CCGrid</span>, 2013  [<a href="files/paper/2013-ccgrid-mini.pdf">Paper</a>]
 
+**Locality-aware Dynamic VM Reconfiguration on MapReduce Clouds**   
+<span style="color:#666666"><u>Jongse Park</u>, Daewoo Lee, Bokyeong Kim, Jaehyuk Huh, and Seungryoul Maeng</span>   
+<span style="color:#770001;">HPDC</span>, 2012  [<a href="files/paper/2012-hpdc-drr.pdf">Paper</a>|<a href="files/slide/2012-hpdc-drr.pdf">Talk</a>]
