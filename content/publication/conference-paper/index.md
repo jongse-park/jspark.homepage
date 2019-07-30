@@ -1,10 +1,17 @@
 ---
-title: "An example conference paper"
+title: "A Network-Centric Hardware/Algorithm Co-Design to Accelerate Distributed Training of Deep Neural Networks"
 authors:
-- admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
-doi: ""
+- Y. Li 
+- J. Park
+- M. Alian
+- Y. Yuan
+- Q. Zheng
+- P. Pan
+- R. Wang
+- A. Schwing
+- H. Esmaeilzadeh
+- N. Kim
+doi: "10.1109/MICRO.2018.00023"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
