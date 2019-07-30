@@ -16,7 +16,5 @@ weight = 80
 
 **A Network-Centric Hardware/Algorithm Co-Design to Accelerate Distributed Training of Deep Neural Networks**   
 <span style="color:#666666">Youjie Li, <u>Jongse Park</u>, Mohammad Alian, Yifan Yuan, Zheng Qu, Peitian Pan, Ren Wang, Alexander Gerhard Schwing, Hadi Esmaeilzadeh, and Nam Sung Kim</span>   
-<span style="color:#770001;">MICRO</span>, 2018  
-<a href="files/paper/2018-micro-inceptionn.pdf"><i class="far fa-file-pdf"></i></a>
-<a href="files/slide/2018-micro-inceptionn.pdf"><i class="far fa-file-powerpoint"></i></a>
+<span style="color:#770001;">MICRO</span>, 2018  [<a href="doc/paper/2018-micro-inceptionn.pdf">Paper</a>|<a href="doc/slide/2018-micro-inceptionn.pdf">Talk</a>]
 
