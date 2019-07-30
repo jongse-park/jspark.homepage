@@ -17,5 +17,5 @@ weight = 80
 <font size='4'>A Network-Centric Hardware/Algorithm Co-Design to Accelerate Distributed Training of Deep Neural Networks</font>  
 <span style="color:#666666">Youjie Li, <u>Jongse Park</u>, Mohammad Alian, Yifan Yuan, Zheng Qu, Peitian Pan, Ren Wang, Alexander Gerhard Schwing, Hadi Esmaeilzadeh, and Nam Sung Kim</span>   
 <span style="color:#770001;">MICRO</span>, 2018
-<i class="far fa-file-pdf"></i>
+<a href="http://naver.com"><i class="far fa-file-pdf"></i></a>
 
