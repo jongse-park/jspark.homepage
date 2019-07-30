@@ -69,7 +69,7 @@ weight = 60
 **General-Purpose Code Acceleration with Limited-Precision Analog Computation**   
 <span style="color:#666666">Ren&eacute;e St. Amant, Amir Yazdanbakhsh, <u>Jongse Park</u>, Bradley Thwaites, Hadi Esmaeilzadeh, Arjang Hassibi, Luis Ceze, and Doug Burger</span>   
 <span style="color:#770001;">ISCA</span>, 2014  [<a href="files/paper/2014-isca-anpu.pdf">Paper</a>]  
-<span style="color:#2A6A97;">Honorable Mention in IEEE Micro Top Picks</span>
+<span style="color:#4F8F01;">Honorable Mention in IEEE Micro Top Picks</span>
 
 **Rollbak-Free Value Prediction with Approximate Loads (Short paper)**   
 <span style="color:#666666">Bradley Thwaites, Gennady Pekhimenko, Amir Yazdanbakhsh, <u>Jongse Park</u>, Girish Mururu, Hadi Esmaeilzadeh, Onur Mutlu, and Todd Mowry</span>   
