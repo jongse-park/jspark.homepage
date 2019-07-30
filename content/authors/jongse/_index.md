@@ -31,6 +31,7 @@ education:
   courses:
   - course: PhD in Computer Science 
     institution: Georgia Institute of Technology 
+    advisor: hadi
     year: 2018
   - course: MS in Computer Science 
     institution: KAIST 
