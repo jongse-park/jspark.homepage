@@ -18,3 +18,8 @@ weight = 60
 <span style="color:#666666">Youjie Li, <u>Jongse Park</u>, Mohammad Alian, Yifan Yuan, Zheng Qu, Peitian Pan, Ren Wang, Alexander Gerhard Schwing, Hadi Esmaeilzadeh, and Nam Sung Kim</span>   
 <span style="color:#770001;">MICRO</span>, 2018  [<a href="files/paper/2018-micro-inceptionn.pdf">Paper</a>|<a href="files/slide/2018-micro-inceptionn.pdf">Talk</a>]
 
+**From Tensors to FPGAs: Accelerating Deep Learning**   
+<span style="color:#666666">Hardik Sharma, <u>Jongse Park</u>, Balavinayagam Samynathan, Behnam Robatmili, Shahrzad Mirkhani, and Hadi Esmaeilzadeh</span>   
+<span style="color:#770001;">HotChips</span>, 2018  [<a href="files/paper/2018-hotchips-dnnweaver2.pdf">Paper</a>|<a href="files/poster/2018-hotchips-dnnweaver2.pdf">Poster</a>|<a href="https://www.youtube.com/watch?v=T7s6oMfjpBw">Demo1</a>|<a href="https://www.youtube.com/watch?v=N7vEn54Za-w">Demo2</a>]
+
+
