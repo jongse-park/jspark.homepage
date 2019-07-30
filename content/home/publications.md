@@ -14,6 +14,6 @@ weight = 80
 
 +++
 
-A Network-Centric Hardware/Algorithm Co-Design to Accelerate Distributed Training of Deep Neural Networks
-Y. Li, J. Park, M. Alian, Y. Yuan, Q. Zheng, P. Pan, R. Wang, A. Schwing, H. Esmaeilzadeh, N. Kim
+#### A Network-Centric Hardware/Algorithm Co-Design to Accelerate Distributed Training of Deep Neural Networks
+##### Y. Li, <u>J. Park</u>, M. Alian, Y. Yuan, Q. Zheng, P. Pan, R. Wang, A. Schwing, H. Esmaeilzadeh, N. Kim
 *MICRO*, 2018.
