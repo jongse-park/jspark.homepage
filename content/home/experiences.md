@@ -14,13 +14,16 @@ weight = 40
 
 +++
 
+#####	Professor	
+-	Dec. 2019: Assistant Professor, Computer Architecture Lab, SoC, KAIST
+
 #####	Product Engineer
--	Aug. 2018 - present: Deep Learning Acceleration Solution Architect, Bigstream Solution, Inc.
+-	Aug. 2018 - Nov. 2019: Deep Learning Acceleration Solution Architect, Bigstream Solution, Inc.
 
 #####	Research Assistant
 -	Jan. 2018 - Aug. 2018: Visiting Researcher, ACT Lab, CSE, UCSD
 -	Aug. 2013 - Aug. 2018: Graduate Research Assistant, ACT Lab, CoC, GaTech
--	Mar. 2010 - Jul. 2013: Graduate Research Assistant, Computer Architecture Lab, CS, KAIST
+-	Mar. 2010 - Jul. 2013: Graduate Research Assistant, Computer Architecture Lab, SoC, KAIST
 
 #####	Research Intern
 -	May 2017 - Aug. 2017: Summer Intern, Architecture Research Group, NVIDIA Research

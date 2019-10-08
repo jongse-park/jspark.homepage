@@ -16,7 +16,7 @@ baseurl = "https://jongse-park.github.io"
 copyright = "Jongse Park. All rights reserved."
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-144733944-1"
+googleAnalytics = "UA-50373934-1"
 
 ############################
 ## Advanced options below ##

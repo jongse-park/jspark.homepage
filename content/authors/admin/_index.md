@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Product Engineer  
+role: Assistant Professor 
 
 # Organizations/Affiliations
 organizations:
-- name: Bigstream Solutions, Inc 
-  url: "https://bigstream.co/"
+- name: KAIST  
+  url: "https://cs.kaist.ac.kr"
 
 # Short bio (displayed in user profile at end of posts)
 bio:  
