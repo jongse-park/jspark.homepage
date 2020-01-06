@@ -15,7 +15,7 @@ weight = 40
 +++
 
 #####	Professor	
--	Dec. 2019 - present: Assistant Professor, Computer Architecture Lab, SoC, KAIST
+-	Dec. 2019 - present: Assistant Professor, Computer Architecture and Systems Lab, SoC, KAIST
 
 #####	Product Engineer
 -	Aug. 2018 - Nov. 2019: Deep Learning Acceleration Solution Architect, Bigstream Solution, Inc.
