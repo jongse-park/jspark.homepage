@@ -6,29 +6,16 @@ widget = "custom"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Professional Services"
+title = "People"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 100 
+weight = 40
 
 +++
 
-##### Guest Editor for
-- IEEE Micro Special Issue on Machine Learning Acceleration, 2019
+#####	Students	
+-	<a href="">Dohee Kim</a> (M.S. program) 
+-	<a href="">Jinwoo Hwang</a> (M.S. program)
 
-##### Web Chair for
-- HPCA 2020
 
-##### Reviewer for
--	TC, 2019/2020
--	TOCS, 2019
--	CAL, 2019
--	ISCA, 2018
--	TOSEM, 2017
--	TPDS, 2017
--	JPDC, 2017
--	TVLSI, 2016
--	TCSVT, 2016
--	CAL, 2016
--	TETC, 2016
