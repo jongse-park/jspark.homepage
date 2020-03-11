@@ -60,7 +60,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "jspark at casys kaist ac kr"
 #phone = "+1 (404) 316-8506"
-address = "291 Daehak-ro, Eoeun-dong, Yuseong-gu, E3 #2427, Daejeon, 34141, South Korea"
+address = "291 Daehak-ro, Eoeun-dong, Yuseong-gu, E3-1 #4403, Daejeon, 34141, South Korea"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>
