@@ -15,7 +15,7 @@ weight = 40
 +++
 
 #####	Students	
--	<a href="">Dohee Kim</a> (M.S. program) 
--	<a href="">Jinwoo Hwang</a> (M.S. program)
+-	<a href="https://kdheejb7.github.io">Dohee Kim</a> (M.S. program) 
+-	<a href="https://jinuhwang.github.io/">Jinwoo Hwang</a> (M.S. program)
 
 
