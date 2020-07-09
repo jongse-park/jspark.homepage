@@ -13,12 +13,12 @@ subtitle = ""
 weight = 100 
 
 +++
-##### Organization Committee
+##### Organizing Committee
 - Publicity chair of HPCA 2021
 - Publication chair of PACT 2020
 - Web chair of HPCA 2020
 
-##### Guest Editor for
+##### Guest Editor
 - IEEE Micro Special Issue on Machine Learning Acceleration, 2019
 
 ##### External Review Committee
