@@ -40,7 +40,7 @@ education:
     advisor_homepage: http://calab.kaist.ac.kr:8080/~maeng/
     year: 2012
   - course: BS in Computer Science and Engineering 
-    institution: Sogang University 
+    institution: <a href="http://sogang.ac.kr/index.do">Sogang University</a>
     year: 2010
 
 # Social/Academic Networking
