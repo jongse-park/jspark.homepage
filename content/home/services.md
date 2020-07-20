@@ -14,13 +14,15 @@ weight = 100
 
 +++
 
-##### Guest Editor for
+##### Organizing Committee
+- Publicity chair of HPCA 2021
+- Publication chair of PACT 2020
+- Web chair of HPCA 2020
+
+##### Guest Editor
 - IEEE Micro Special Issue on Machine Learning Acceleration, 2019
 
-##### Web Chair for
-- HPCA 2020
-
-##### Reviewer for
+##### External Review Committee
 -	TC, 2019/2020
 -	TOCS, 2019
 -	CAL, 2019

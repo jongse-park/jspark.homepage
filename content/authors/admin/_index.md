@@ -31,16 +31,20 @@ education:
   courses:
   - course: PhD in Computer Science 
     institution: Georgia Institute of Technology 
+    institution_homepage: https://www.gatech.edu
     advisor: Dr. Hadi Esmaeilzadeh
     advisor_homepage: https://www.cc.gatech.edu/~Hadi.Esmaeilzadeh/
     year: 2018
   - course: MS in Computer Science 
     institution: KAIST 
+    instutution_homepage: https://www.kaist.ac.kr/kr/
     advisor: Dr. Seungryoul Maeng
     advisor_homepage: http://calab.kaist.ac.kr:8080/~maeng/
     year: 2012
   - course: BS in Computer Science and Engineering 
-    institution: Sogang University 
+    institution: <a href="http://sogang.ac.kr/index.do">Sogang University</a>
+    institution: Sogang University
+    institution_homepage: http://sogang.ac.kr/index.do
     year: 2010
 
 # Social/Academic Networking
