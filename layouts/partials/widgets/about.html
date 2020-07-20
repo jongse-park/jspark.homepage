@@ -107,6 +107,11 @@
               {{ if $institution }}
 			  <p class="course"><a href="{{ $institution_homepage}}">{{ $institution }}</a></p>
               {{ end }}
+              {{ $institution := .institution }} 
+			  {{ $institution_homepage := .institution_homepage }}
+              {{ if $institution }}
+			  <p class="course"><a href="{{ $institution_homepage}}">{{ $institution }}</a></p>
+              {{ end }}
 	      <!-- <p class="institution">{{ .institution }}</p> -->
             </div>
           </li>
