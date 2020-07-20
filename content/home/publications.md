@@ -32,7 +32,7 @@ weight = 60
 
 **Scale-Out Acceleration for Machine Learning**   
 <span style="color:#666666"><u>Jongse Park</u>, Hardik Sharma, Divya Mahajan, Joon Kyung Kim, Preston Olds, and Hadi Esmaeilzadeh</span>   
-<em><span style="color:#770001;">MICRO</span>, 2016</em>  [<a href="files/paper/2017-micro-cosmic.pdf">Paper</a>|<a href="files/slide/2017-micro-cosmic-main.pdf">Talk</a>|<a href="files/slide/2017-micro-cosmic-light.pdf">Lightening</a>]
+<em><span style="color:#770001;">MICRO</span>, 2017</em>  [<a href="files/paper/2017-micro-cosmic.pdf">Paper</a>|<a href="files/slide/2017-micro-cosmic-main.pdf">Talk</a>|<a href="files/slide/2017-micro-cosmic-light.pdf">Lightening</a>]
 
 **AxGames: Towards Crowdsourcing Quality Target Determination in Approximate Computing**   
 <span style="color:#666666"><u>Jongse Park</u>, Divya Mahajan, Bradley Thwaites, Emmanuel Amaro, and Hadi Esmaeilzadeh </span>   

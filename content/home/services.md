@@ -13,7 +13,6 @@ subtitle = ""
 weight = 100 
 
 +++
-
 ##### Organizing Committee
 - Publicity chair of HPCA 2021
 - Publication chair of PACT 2020
