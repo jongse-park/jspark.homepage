@@ -98,11 +98,16 @@
             <div class="description">
               <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
               {{ $advisor := .advisor }} 
-			  {{ $advisor_homepage := .advisor_homepage }}
+	      {{ $advisor_homepage := .advisor_homepage }}
               {{ if $advisor }}
 			  <p class="course">Advisor: <a href="{{ $advisor_homepage }}">{{ $advisor }}</a></p>
+	      {{ end }}
+	      {{ $institution := .institution }}
+	      {{ $institution_homepage := .institution_homepage }}
+              {{ if $institution }}
+			  <p class="course"><a href="{{ $institution_homepage}}">{{ $institution }}</a></p>
               {{ end }}
-              <p class="institution">{{ .institution }}</p>
+	      <!-- <p class="institution">{{ .institution }}</p> -->
             </div>
           </li>
           {{ end }}

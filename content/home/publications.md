@@ -14,6 +14,10 @@ weight = 60
 
 +++
 
+**Mixed-Signal Charge-Domain Acceleration of Deep Neural Networks through Interleaved Bit-Partitioned Arithmetic**      
+<span style="color:#666666">Soroush Ghodrati, Hardik Sharma, Sean Kinzer, Amir Yazdanbakhsh, Kambiz Samadi, <u>Jongse Park</u>, Nam Sung Kim, Doug Burger, and Hadi Esmaeilzadeh</span>   
+<em><span style="color:#770001;">PACT</span>, 2020</em> (Coming soon!) 
+
 **A Network-Centric Hardware/Algorithm Co-Design to Accelerate Distributed Training of Deep Neural Networks**      
 <span style="color:#666666">Youjie Li, <u>Jongse Park</u>, Mohammad Alian, Yifan Yuan, Zheng Qu, Peitian Pan, Ren Wang, Alexander Gerhard Schwing, Hadi Esmaeilzadeh, and Nam Sung Kim</span>   
 <em><span style="color:#770001;">MICRO</span>, 2018</em>  [<a href="files/paper/2018-micro-inceptionn.pdf">Paper</a>|<a href="files/slide/2018-micro-inceptionn.pdf">Talk</a>]
