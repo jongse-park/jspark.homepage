@@ -29,9 +29,10 @@ weight = 40
 -	May 2017 - Aug. 2017: Summer Intern, Architecture Research Group, NVIDIA Research
 -	Jan. 2016 - May 2016: Spring Intern, Catapult team, Microsoft Research
 
-#####	Teaching Assistant
+<!-- #####	Teaching Assistant
 -	2016.Fall: CS3220 Processor Design
 -	2014.Fall: CS3220 Processor Design
 - 	2014.Spring: CS8803 ACT (Alternative Computing Technology)
 -	2011.Spring: CS211 Digital System and Lab
 -	2010.Fall: CS310 Embedded Computer Systems
+-->
