@@ -14,6 +14,10 @@ weight = 60
 
 +++
 
+**Common Counters: Compressed Encryption Counters for Secure GPU Memory**
+<span style="color:#666666">Seonjin Na, Sunho Lee, Yeonjae Kim, <u>Jongse Park</u>, and Jaehyuk Huh</span>   
+<em><span style="color:#770001;">HPCA</span>, 2021</em> (Coming soon!)
+
 **Mixed-Signal Charge-Domain Acceleration of Deep Neural Networks through Interleaved Bit-Partitioned Arithmetic**      
 <span style="color:#666666">Soroush Ghodrati, Hardik Sharma, Sean Kinzer, Amir Yazdanbakhsh, Kambiz Samadi, <u>Jongse Park</u>, Nam Sung Kim, Doug Burger, and Hadi Esmaeilzadeh</span>   
 <em><span style="color:#770001;">PACT</span>, 2020</em> (Coming soon!) 
