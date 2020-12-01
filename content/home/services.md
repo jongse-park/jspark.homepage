@@ -13,6 +13,11 @@ subtitle = ""
 weight = 100 
 
 +++
+##### Program Committee
+- ISCA 2021
+- DAC 2021
+- HPC Asia 2021
+
 ##### Organizing Committee
 - Publicity chair of HPCA 2021
 - Publication chair of PACT 2020
@@ -23,14 +28,13 @@ weight = 100
 
 ##### External Review Committee
 -	ASPLOS 2021
--	TC, 2019/2020
--	TOCS, 2019
--	CAL, 2019
+-	TC 2019/2020
+-	CAL 2016/2019/2020
+-	TOCS 2019
 -	ISCA, 2018
 -	TOSEM, 2017
 -	TPDS, 2017
 -	JPDC, 2017
 -	TVLSI, 2016
 -	TCSVT, 2016
--	CAL, 2016
 -	TETC, 2016
