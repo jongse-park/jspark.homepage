@@ -14,7 +14,7 @@ weight = 60
 
 +++
 
-**Common Counters: Compressed Encryption Counters for Secure GPU Memory**
+**Common Counters: Compressed Encryption Counters for Secure GPU Memory**<br>
 <span style="color:#666666">Seonjin Na, Sunho Lee, Yeonjae Kim, <u>Jongse Park</u>, and Jaehyuk Huh</span>   
 <em><span style="color:#770001;">HPCA</span>, 2021</em> (Coming soon!)
 
