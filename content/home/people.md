@@ -14,10 +14,12 @@ weight = 40
 
 +++
 
-#####	Students	
+#####	Ph.D. Students	
+-	<a href="https://jinuhwang.github.io/">Jinwoo Hwang</a> (Ph.D. program)
+
+#####	M.S. Students	
 -	<a href="">Yoonsung Kim</a> (M.S. program) 
 -	<a href="">Minsoo Kim</a> (M.S. program) 
 -	<a href="https://kdheejb7.github.io">Dohee Kim</a> (M.S. program) 
--	<a href="https://jinuhwang.github.io/">Jinwoo Hwang</a> (Ph.D. program)
 
 
