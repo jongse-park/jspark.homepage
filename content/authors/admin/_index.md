@@ -37,7 +37,7 @@ education:
     year: 2018
   - course: MS in Computer Science 
     institution: KAIST 
-    instutution_homepage: https://www.kaist.ac.kr/kr/
+    institution_homepage: https://www.kaist.ac.kr
     advisor: Dr. Seungryoul Maeng
     advisor_homepage: http://calab.kaist.ac.kr:8080/~maeng/
     year: 2012
