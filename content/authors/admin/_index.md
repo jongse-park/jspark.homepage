@@ -33,7 +33,7 @@ education:
     institution: Georgia Institute of Technology 
     institution_homepage: https://www.gatech.edu
     advisor: Dr. Hadi Esmaeilzadeh
-    advisor_homepage: https://www.cc.gatech.edu/~Hadi.Esmaeilzadeh/
+    advisor_homepage: https://cseweb.ucsd.edu/~hadi/ 
     year: 2018
   - course: MS in Computer Science 
     institution: KAIST 
