@@ -23,9 +23,9 @@ weight = 40
 -	<a href="https://kdheejb7.github.io">Dohee Kim</a> 
 
 ##### Undergraduate Students
+-	Donghyun Lee
+-	Diyar Tulenov
 -	Yonas Kelemework
 -	Seungho Nam
--	Diyar Tulenov
--	Donghyun Lee
 
 
