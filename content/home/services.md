@@ -14,6 +14,7 @@ weight = 100
 
 +++
 ##### Program Committee
+- MLSys 2022
 - ISCA 2021
 - DAC 2021
 - HPC Asia 2021
