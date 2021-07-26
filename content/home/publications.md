@@ -16,7 +16,7 @@ weight = 60
 
 **SLO-aware Inference Scheduler for Heterogeneous Processors in Edge Platforms**<br>
 <span style="color:#666666">Wonik Seo, Sanghoon Cha, Yeonjae Kim, Jaehyuk Huh, and <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">TACO</span>, 2021</em> [<a href="">Paper</a>]
+<em><span style="color:#770001;">TACO</span>, 2021</em> [<a href="files/paper/2021-taco-edgeduler.pdf">Paper</a>]
 
 **Common Counters: Compressed Encryption Counters for Secure GPU Memory**<br>
 <span style="color:#666666">Seonjin Na, Sunho Lee, Yeonjae Kim, <u>Jongse Park</u>, and Jaehyuk Huh</span>   
