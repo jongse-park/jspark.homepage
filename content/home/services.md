@@ -14,6 +14,7 @@ weight = 100
 
 +++
 ##### Program Committee
+- DAC 2022
 - MLSys 2022
 - ISCA 2021
 - DAC 2021
