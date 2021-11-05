@@ -14,6 +14,10 @@ weight = 60
 
 +++
 
+**TNPU: Supporting Trusted Execution with Tree-less Integrity Protection for Neural Processing Unit**<br>
+<span style="color:#666666">Sunho Lee, Jungwoo Kim, Seonjin Na, <u>Jongse Park</u>, and Jaehyuk Huh</span><br>
+<em><span style="color:#770001;">HPCA</span>, 2022</em> [<a href="">Paper</a>]
+
 **SLO-aware Inference Scheduler for Heterogeneous Processors in Edge Platforms**<br>
 <span style="color:#666666">Wonik Seo, Sanghoon Cha, Yeonjae Kim, Jaehyuk Huh, and <u>Jongse Park</u></span><br>
 <em><span style="color:#770001;">TACO</span>, 2021</em> [<a href="files/paper/2021-taco-edgeduler.pdf">Paper</a>]
