@@ -12,13 +12,14 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 40
 
+
 +++
 
 #####	Ph.D. Students	
 -	<a href="https://jinuhwang.github.io/">Jinwoo Hwang</a> 
 
 #####	M.S. Students	
-# -	<a href="https://kdheejb7.github.io">Dohee Kim</a> 
+<!-- <a href="https://kdheejb7.github.io">Dohee Kim</a> -->
 -	<a href="https://yoonsung-kim.github.io/">Yoonsung Kim</a> 
 -	<a href="https://kms040411.github.io/">Minsoo Kim</a> 
 -	Guseul Heo
