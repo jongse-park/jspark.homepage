@@ -22,7 +22,7 @@ weight = 40
 -	<a href="https://yoonsung-kim.github.io/">Yoonsung Kim</a> 
 -	<a href="https://kms040411.github.io/">Minsoo Kim</a> 
 -	Guseul Heo
--	Sanghoon Lee
+-	<a href="https://canplane.netlify.app/about">Sanghoon Lee</a>
 
 ##### Undergraduate Students
 -	Banseok Woo
