@@ -22,7 +22,7 @@ weight = 40
 <!-- <a href="https://kdheejb7.github.io">Dohee Kim</a> -->
 -	<a href="https://yoonsung-kim.github.io/">Yoonsung Kim</a> 
 -	<a href="https://kms040411.github.io/">Minsoo Kim</a> 
--	Guseul Heo
+-	<a href="https://sites.google.com/view/guseul-heo/">Guseul Heo</a>
 -	<a href="https://canplane.netlify.app/about">Sanghoon Lee</a>
 
 ##### Undergraduate Students
