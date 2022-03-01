@@ -29,6 +29,7 @@ weight = 100
 - IEEE Micro Special Issue on Machine Learning Acceleration, 2019
 
 ##### External Review Committee
+-	TC Special Issue on Machine Learning Accelerators, 2022
 -	ASPLOS 2021
 -	TC 2019/2020/2021
 -	CAL 2016/2019/2020/2021
