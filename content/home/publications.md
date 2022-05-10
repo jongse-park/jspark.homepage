@@ -16,11 +16,11 @@ weight = 60
 
 **CoVA: Exploiting Compressed-Domain Analysis to Accelerate Video Analytics**<br>
 <span style="color:#666666">Jinwoo Hwang, Minsu Kim, Daeun Kim, Seungho Nam, Yoonsung Kim, Dohee Kim, Hardik Sharma, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">ATC</span>, 2022</em> [<a href="">Paper</a>]
+<em><span style="color:#770001;">USENIX ATC</span>, 2022</em> [<a href="">Paper</a>]
 
 **Serving Heterogeneous Machine Learning Models on Multi-GPU Servers with Spatio-Temporal Sharing**<br>
 <span style="color:#666666">Seungbeom Choi, Sunho Lee, Yeonjae Kim, <u>Jongse Park</u>, Youngjin Kwon, and Jaehyuk Huh</span><br>
-<em><span style="color:#770001;">ATC</span>, 2022</em> [<a href="">Paper</a>]
+<em><span style="color:#770001;">USENIX ATC</span>, 2022</em> [<a href="">Paper</a>]
 
 **TNPU: Supporting Trusted Execution with Tree-less Integrity Protection for Neural Processing Unit**<br>
 <span style="color:#666666">Sunho Lee, Jungwoo Kim, Seonjin Na, <u>Jongse Park</u>, and Jaehyuk Huh</span><br>
