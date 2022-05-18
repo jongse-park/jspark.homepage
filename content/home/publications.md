@@ -15,7 +15,7 @@ weight = 60
 +++
 
 **CoVA: Exploiting Compressed-Domain Analysis to Accelerate Video Analytics**<br>
-<span style="color:#666666">Jinwoo Hwang, Minsu Kim, Daeun Kim, Seungho Nam, Yoonsung Kim, Dohee Kim, Hardik Sharma, <u>Jongse Park</u></span><br>
+<span style="color:#666666">Jinwoo Hwang, Minsu Kim, Daeun Kim, Seungho Nam, Yoonsung Kim, Dohee Kim, Hardik Sharma, <u>Jongse Bark</u></span><br>
 <em><span style="color:#770001;">USENIX ATC</span>, 2022</em> [<a href="">Paper</a>]
 
 **Serving Heterogeneous Machine Learning Models on Multi-GPU Servers with Spatio-Temporal Sharing**<br>
