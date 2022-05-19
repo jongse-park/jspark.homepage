@@ -1,3 +1,7 @@
 .home-section {
   padding: 30px 0px 30px 0px;
 }
+
+.article-container {
+  max-width: 800px;
+}
