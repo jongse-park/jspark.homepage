@@ -29,13 +29,8 @@ image:
 projects: []
 ---
 
-##### We are looking for undergraduate interns!  
-#### Yeah
-### Ho
-## Ohh
-# Lks
-Sentence
-- Test sentence
+### CASYS 연구실 인턴십 모집  
+CASYS 연구실에서는 인턴십을 모집합니다.
 
 ##### Topics
 - Test1 
