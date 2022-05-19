@@ -40,7 +40,7 @@ Note: This internship position is for <a href="https://jongse-park.github.io/">P
 
 #### Eligibility
 - We are looking for students who have ample programming experience in C/C++. 
-- We are looking for students who have taken <i><u>[CS230] System Programming</u></i>, <i><u>[CS311] Computer Organization</u></i>, and (preferably) <i><u>[CS330] OS</u></i>.  
+- We are looking for students who have taken <i><u>[CS230] System Programming</u></i>, <i><u>[CS311] Computer Organization</u></i>, and <i><u>[CS330] OS</u></i>.  
 - Students who have taken <a href="https://cs.kaist.ac.kr/content?menu=236">artificial intelligence courses</a> (e.g., CS376) are preferred.
 - Students who have hardware development skills (e.g., Verilog) are preferred, but not required. 
 - We are looking for students who would like to commit for at least "<u>TWO</u>" semesters (e.g., Summer 2022 -- Winter 2022).    
