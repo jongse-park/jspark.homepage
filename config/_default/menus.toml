@@ -16,7 +16,7 @@
 [[main]]
   name = "People"
   url = "#people"
-  weight = 50 
+  weight = 50
 
 [[main]]
   name = "Publications"
@@ -41,6 +41,13 @@
   name = "Contact"
   url = "#contact"
   weight = 120
+
+[[main]]
+  name = "Recruitment"
+  url = "recruitment"
+  weight = 140
+
+
 
 
 
