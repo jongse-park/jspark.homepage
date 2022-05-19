@@ -41,7 +41,7 @@ Note: This internship position is for <a href="https://jongse-park.github.io/">P
 #### Eligibility
 - We are looking for students who have ample programming experience in C/C++. Students who have taken CS230, CS311, and (preferably) CS330 are preferred.  
 - Students who have taken artificial intelligence courses (e.g., CS376) and have hardware development skills (e.g., Verilog) are preferred but not required. 
-- We are looking for students who would like to commit for at least "TWO" semesters (e.g., summer - fall). 
+- We are looking for students who would like to commit for at least "TWO" semesters (e.g., Summer 2022 -- Winter 2022). 
 
 #### What's Expected
 - Every student will work on a research project: 1) your own project, or 2) on-going project.
