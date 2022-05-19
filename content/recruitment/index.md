@@ -30,7 +30,8 @@ projects: []
 ---
 
 ##### We are looking for undergraduate interns!  
+- Test sentence
 
 ##### Topics
-- Something
-- Else 
+- Test1 
+- Test2
