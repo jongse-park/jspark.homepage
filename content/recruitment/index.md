@@ -30,10 +30,14 @@ projects: []
 ---
 
 ### We are looking for highly motivated undergraduate interns!  
-Note: this internship positions are for Prof. Jongse Park's group. 
+Note: This internship position is for Prof. Jongse Park's group within CASYS Lab. 
+
 
 ##### Research Topics
 - HW/SW co-design for system software acceleration
 - Hardware acceleration for machine leraning workloads (e.g., DNN training) 
 - Acceleration of DNN-based video analytics systems 
 - Computing stack design for accelerated systems (e.g., language, compiler, runtime, and hardware)
+
+#### Requirements
+- 
