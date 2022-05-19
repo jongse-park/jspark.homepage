@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Recruitment"
+title: "Internship Positions"
 subtitle: ""
 summary: ""
 authors: []
@@ -29,4 +29,4 @@ image:
 projects: []
 ---
 
-## TBA
+##### We are looking for undergraduate interns!  
