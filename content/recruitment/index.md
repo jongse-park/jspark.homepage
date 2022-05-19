@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "CASYS 연구실 인턴십 모집"
+title: "CASYS Lab Internship Positions"
 subtitle: ""
 summary: ""
 authors: []
@@ -29,9 +29,11 @@ image:
 projects: []
 ---
 
-### CASYS 연구실 인턴십 모집  
-CASYS 연구실에서는 인턴십을 모집합니다.
+### We are looking for highly motivated undergraduate interns!  
+Note: this internship positions are for Prof. Jongse Park's group. 
 
-##### Topics
-- Test1 
-- Test2
+##### Research Topics
+- HW/SW co-design for system software acceleration
+- Hardware acceleration for machine leraning workloads (e.g., DNN training) 
+- Acceleration of DNN-based video analytics systems 
+- Computing stack design for accelerated systems (e.g., language, compiler, runtime, and hardware)
