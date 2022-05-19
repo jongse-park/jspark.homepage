@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "CASYS Lab Internship Positions"
+title: "CASYS-Park Internship Positions"
 subtitle: ""
 summary: ""
 authors: []
