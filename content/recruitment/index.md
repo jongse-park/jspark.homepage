@@ -30,7 +30,7 @@ projects: []
 ---
 
 ### We are looking for highly motivated undergraduate interns!  
-Note: This internship position is for Prof. Jongse Park's group within CASYS Lab. 
+Note: This internship position is for <a href="https://jongse-park.github.io/">Prof. Jongse Park</a>'s group within CASYS Lab. 
 
 
 ##### Research Topics
@@ -40,4 +40,4 @@ Note: This internship position is for Prof. Jongse Park's group within CASYS Lab
 - Computing stack design for accelerated systems (e.g., language, compiler, runtime, and hardware)
 
 #### Requirements
-- 
+-  
