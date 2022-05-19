@@ -46,9 +46,9 @@ Note: This internship position is for <a href="https://jongse-park.github.io/">P
 - We are looking for students who would like to commit for at least "<u>TWO</u>" semesters (e.g., Summer 2022 -- Winter 2022).    
 
 #### What's Expected
-- Every student will work on a research project: 1) your own project, or 2) on-going project.
+- Every student will work on a research project: (1) your own project, or (2) on-going project.
 - You will lead or attend a weekly meeting for the research project.
-- You will attend two weekly meet-ups of CASYS-Park group: 1) group meeting, and 2) paper reading session.
+- You will attend two weekly meet-ups of CASYS-Park group: (1) group meeting, and (2) paper reading session.
 
 #### Working Environment
 - Designated desk in the lab 
