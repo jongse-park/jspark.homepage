@@ -39,8 +39,9 @@ Note: This internship position is for <a href="https://jongse-park.github.io/">P
 - <i>Computing stack design for accelerated systems (e.g., language, compiler, runtime, and hardware)</i>
 
 #### Eligibility
-- We are looking for students who have ample programming experience in C/C++. Students who have taken <i>CS230</i>, <i>CS311</i>, and (preferably) <i>CS330</i> are preferred.  
-- Students who have taken artificial intelligence courses (e.g., <i>CS376</i>) and have hardware development skills (e.g., Verilog) are preferred but not required. 
+- We are looking for students who have ample programming experience in C/C++. 
+- Students who have taken <i>CS230 System Programming</i>, <i>CS311 Computer Organization</i>, and <i>CS330 OS</i> are preferred.  
+- Students who have taken artificial intelligence courses (e.g., <i>CS376</i>) and have hardware development skills (e.g., Verilog) are preferred, but not required. 
 - We are looking for students who would like to commit for at least "TWO" semesters (e.g., Summer 2022 -- Winter 2022). 
 
 #### What's Expected
