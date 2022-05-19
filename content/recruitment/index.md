@@ -37,7 +37,7 @@ Note: This internship position is for <a href="https://jongse-park.github.io/">P
 - <i>Acceleration for machine leraning workloads (e.g., DNN training)</i>
 - <i>DNN-based video analytics systems</i>
 - <i>Processing-in-Memory (PIM)</i>
-- <i>Accelerated system with CXL</i>
+- <i>CXL-enabled accelerated systems</i>
 - <i>Computing stack design for accelerated systems (e.g., language, compiler, runtime, and hardware)</i>
 
 #### Eligibility
