@@ -40,4 +40,8 @@ Note: This internship position is for <a href="https://jongse-park.github.io/">P
 - Computing stack design for accelerated systems (e.g., language, compiler, runtime, and hardware)
 
 #### Requirements
--  
+- We are looking for students who have ample programming experience in C/C++. Students who have taken CS230, CS311, and (preferably) CS330 are preferred.  
+- Students who have taken artificial intelligence courses (e.g., CS376) and have hardware development skills (e.g., Verilog) are preferred but not required. 
+
+
+
