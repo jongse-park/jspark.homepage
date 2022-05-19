@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Internship Positions"
+title: "CASYS 연구실 인턴십 모집"
 subtitle: ""
 summary: ""
 authors: []
