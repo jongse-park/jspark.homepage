@@ -50,7 +50,7 @@ Note: This internship position is for <a href="https://jongse-park.github.io/">P
 - You will attend two weekly meet-ups of CASYS-Park group: 1) group meeting, and 2) paper reading session.
 
 #### Working Environment
-- Designated desk in the lab (if available)
+- Designated desk in the lab 
 - Desktop and any number of monitors you need
 - Month salary depending on your contribution
 
