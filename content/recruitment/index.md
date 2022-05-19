@@ -33,10 +33,10 @@ projects: []
 Note: This internship position is for <a href="https://jongse-park.github.io/">Prof. Jongse Park</a>'s group within CASYS Lab. 
 
 ##### Research Topics
-- HW/SW co-design for system software acceleration
-- Hardware acceleration for machine leraning workloads (e.g., DNN training) 
-- Acceleration of DNN-based video analytics systems 
-- Computing stack design for accelerated systems (e.g., language, compiler, runtime, and hardware)
+- <i>HW/SW co-design for system software acceleration</i>
+- <i>Hardware acceleration for machine leraning workloads (e.g., DNN training)</i>
+- <i>Acceleration of DNN-based video analytics systems</i>
+- <i>Computing stack design for accelerated systems (e.g., language, compiler, runtime, and hardware)</i>
 
 #### Eligibility
 - We are looking for students who have ample programming experience in C/C++. Students who have taken CS230, CS311, and (preferably) CS330 are preferred.  
