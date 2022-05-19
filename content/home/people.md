@@ -26,11 +26,10 @@ weight = 40
 -	<a href="https://canplane.netlify.app/about">Sanghoon Lee</a>
 
 ##### Undergraduate Students
--	Banseok Woo
 - 	Daeun Kim
--	Yubin Lee
--	Sunho Lee
+-	Banseok Woo
 - 	Jaehong Cho
+-	Sunho Lee
 
 ##### Alumni
 -	Dohee Kim	
