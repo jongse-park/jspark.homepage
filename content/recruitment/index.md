@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "CASYS-Park Internship Positions"
+title: "CASYS-Park Internship Positions (Summer 2022 ~ )"
 subtitle: ""
 summary: ""
 authors: []
