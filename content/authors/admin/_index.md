@@ -22,11 +22,11 @@ bio:
 
 interests:
 - <i>HW/SW co-design for system software acceleration</i>
-- <i>Acceleration for machine learning workloads (e.g., DNN training)</i>
+- <i>Acceleration for machine learning training</i>
 - <i>DNN-based video analytics systems</i>
 - <i>Processing-in-Memory (PIM)</i>
 - <i>CXL-enabled accelerated systems</i>
-- <i>Computing stack design for accelerated systems (e.g., language, compiler, runtime, and hardware)</i>
+- <i>Computing stack design for accelerated systems</i>
 
 education:
   courses:
