@@ -58,6 +58,6 @@ Note: This internship position is for <a href="https://jongse-park.github.io/">P
 - Month salary depending on your contribution
 
 #### How to Apply
-- Fill out a online application form: <a href="https://forms.gle/qehhuVyFrdQeDbih8">Google Form Link</a>. 
+- Fill out a online application form (Deadline: June 3rd): <a href="https://forms.gle/qehhuVyFrdQeDbih8">Google Form Link</a>. 
 - Schedule an interview with Jongse
 - Start working together! :)
