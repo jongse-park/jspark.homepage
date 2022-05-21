@@ -34,7 +34,7 @@ Note: This internship position is for <a href="https://jongse-park.github.io/">P
 
 ##### Research Topics
 - <i>HW/SW co-design for system software acceleration</i>
-- <i>Acceleration for machine leraning workloads (e.g., DNN training)</i>
+- <i>Acceleration for machine learning workloads (e.g., DNN training)</i>
 - <i>DNN-based video analytics systems</i>
 - <i>Processing-in-Memory (PIM)</i>
 - <i>CXL-enabled accelerated systems</i>
