@@ -14,6 +14,8 @@ weight = 100
 
 +++
 ##### Program Committee
+- IISWC 2022
+- ACSMD 2022
 - DAC 2022
 - ACSMD 2021
 - ISCA 2021
