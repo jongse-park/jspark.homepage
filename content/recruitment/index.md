@@ -31,6 +31,7 @@ projects: []
 
 ### We are looking for highly motivated undergraduate interns!  
 Note: This internship position is for <a href="https://jongse-park.github.io/">Prof. Jongse Park</a>'s group within CASYS Lab. 
+Note: This internship position can be registered as an individual study or a URP. 
 
 ##### Research Topics
 - <i>HW/SW co-design for system software acceleration</i>
