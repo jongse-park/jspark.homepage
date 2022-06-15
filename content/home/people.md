@@ -27,9 +27,16 @@ weight = 40
 
 ##### Undergraduate Students
 - 	Daeun Kim
--	Banseok Woo
 - 	Jaehong Cho
--	Sunho Lee
+-	Seongryong Oh
+-	Joohyun Lee
+- 	Hyunmin Choi
+-	Jaesuh Lee
+-	Dongwoo Moon
+-	Jungwoo Son
+-	Jungha Seo
+-	Gunwoo Park
+-	Sanghyuk Ahn
 
 ##### Alumni
 -	Dohee Kim	
