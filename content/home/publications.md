@@ -16,7 +16,8 @@ weight = 60
 
 **Yin-Yang: Programming Abstraction for Cross-Domain Multi-Acceleration**<br>
 <span style="color:#666666">Joon Kyung Kim, Byung Hoon Ahn, Sean Kinzer, Soroush Ghodrati, Rohan Mahapatra, Brahmendra Yatham, Dohee Kim, Parisa Sarikhani, Babak Mahmoudi, Divya Mahajan, <u>Jongse Park</u>, Hadi Esmaeilzadeh</span><br>
-<em><span style="color:#770001;">IEEE Micro, </span> special issue on Compiling for Accelerators, 2022</em>  [<a href="files/paper/2022-ieee_micro-yinyang.pdf">Paper</a>]
+<em><span style="color:#770001;">IEEE Micro, </span> special issue on Compiling for Accelerators, 2022</em>  [<a href="">Paper</a>]
+<!--<em><span style="color:#770001;">IEEE Micro, </span> special issue on Compiling for Accelerators, 2022</em>  [<a href="files/paper/2022-ieee_micro-yinyang.pdf">Paper</a>]-->
 
 **CoVA: Exploiting Compressed-Domain Analysis to Accelerate Video Analytics**<br>
 <span style="color:#666666">Jinwoo Hwang, Minsu Kim, Daeun Kim, Seungho Nam, Yoonsung Kim, Dohee Kim, Hardik Sharma, <u>Jongse Park</u></span><br>
