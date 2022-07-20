@@ -31,15 +31,15 @@ weight = 100
 - IEEE Micro Special Issue on Machine Learning Acceleration, 2019
 
 ##### External Review Committee
--	TC Special Issue on Machine Learning Accelerators, 2022
 -	ASPLOS 2021
--	TC 2019/2020/2021
--	CAL 2016/2019/2020/2021
--	TOCS 2019/2020/2021
 -	ISCA, 2018
--	TOSEM, 2017
--	TPDS, 2017
--	JPDC, 2017
--	TVLSI, 2016
--	TCSVT, 2016
--	TETC, 2016
+-	CAL 2016/2019/2020/2021
+-	TC 2019/2020/2021/2022
+-	TOCS 2019/2020/2021
+# -	TC Special Issue on Machine Learning Accelerators, 2022
+# -	TPDS, 2017
+# -	TOSEM, 2017
+# -	JPDC, 2017
+# -	TVLSI, 2016
+# -	TCSVT, 2016
+# -	TETC, 2016
