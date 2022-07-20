@@ -34,10 +34,10 @@ weight = 100
 -	CAL 2016/2019/2020/2021
 -	TC 2019/2020/2021/2022
 -	TOCS 2019/2020/2021
-# -	TC Special Issue on Machine Learning Accelerators, 2022
-# -	TPDS, 2017
-# -	TOSEM, 2017
-# -	JPDC, 2017
-# -	TVLSI, 2016
-# -	TCSVT, 2016
-# -	TETC, 2016
+<!-- -	TC Special Issue on Machine Learning Accelerators, 2022 -->
+<!-- -	TPDS, 2017  -->  
+<!-- -	TOSEM, 2017 --> 
+<!-- -	JPDC, 2017  -->  
+<!-- -	TVLSI, 2016 --> 
+<!-- -	TCSVT, 2016 -->  
+<!-- -	TETC, 2016  -->
