@@ -15,6 +15,7 @@ weight = 70
 +++
 
 #####	Courses	
+-	CS230: System Programming (Fall 2022) 
 -	CS311: Computer Organization (Spring 2022) 
 -	CS230: System Programming (Fall 2021) 
 -	CS492: Systems for AI (Spring 2021) 
