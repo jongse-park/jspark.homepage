@@ -42,10 +42,10 @@
   url = "#contact"
   weight = 120
 
-[[main]]
-  name = "Recruitment"
-  url = "recruitment"
-  weight = 140
+#[[main]]
+#  name = "Recruitment"
+#  url = "recruitment"
+#  weight = 140
 
 
 
