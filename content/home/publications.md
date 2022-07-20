@@ -40,7 +40,7 @@ weight = 60
 <em><span style="color:#770001;">HPCA</span>, 2021</em> [<a href="files/paper/2021-hpca-commonctr.pdf">Paper</a>]
 
 **Mixed-Signal Charge-Domain Acceleration of Deep Neural Networks through Interleaved Bit-Partitioned Arithmetic**      
-<span style="color:#666666">Soroush Ghodrati, Hardik Sharma, Sean Kinzer, Amir Yazdanbakhsh, Kambiz Samadi, <u>Jongse Park</u>, Nam Sung Kim, Doug Burger, and Hadi Esmaeilzadeh</span>   
+<span style="color:#666666">Soroush Ghodrati, Hardik Sharma, Sean Kinzer, Amir Yazdanbakhsh, <u>Jongse Park</u>, Nam Sung Kim, Doug Burger, and Hadi Esmaeilzadeh</span>   
 <em><span style="color:#770001;">PACT</span>, 2020</em> [<a href="files/paper/2020-pact-bihiwe.pdf">Paper</a>] 
 
 **A Network-Centric Hardware/Algorithm Co-Design to Accelerate Distributed Training of Deep Neural Networks**      
