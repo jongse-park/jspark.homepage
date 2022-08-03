@@ -29,6 +29,7 @@ weight = 100
 - IEEE Micro Special Issue on Machine Learning Acceleration, 2019
 
 ##### External Review Committee
+-	NeurIPS 2022
 -	ASPLOS 2021
 -	ISCA, 2018
 -	CAL 2016/2019/2020/2021
