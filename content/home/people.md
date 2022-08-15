@@ -24,6 +24,7 @@ weight = 40
 -	<a href="https://kms040411.github.io/">Minsoo Kim</a> 
 -	<a href="https://sites.google.com/view/guseul-heo/">Guseul Heo</a>
 -	<a href="https://canplane.netlify.app/about">Sanghoon Lee</a>
+-	<a href="">Changhun Oh</a>
 
 ##### Undergraduate Students
 - 	Daeun Kim
