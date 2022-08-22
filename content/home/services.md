@@ -14,10 +14,9 @@ weight = 100
 
 +++
 ##### Program Committee
-- ISCA 2023
+- ISCA 2021/2023
 - IISWC 2022
 - DAC 2021/2022
-- ISCA 2021
 - ACSMD 2021/2022
 - HPC Asia 2021
 
