@@ -38,6 +38,7 @@ weight = 40
 -	Jungha Seo
 -	Gunwoo Park
 -	Sanghyuk Ahn
+-	Yoojin Seo
 
 ##### Alumni
 -	Dohee Kim	
