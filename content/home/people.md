@@ -17,17 +17,17 @@ weight = 40
 
 #####	Ph.D. Students	
 -	<a href="https://jinuhwang.github.io/">Jinwoo Hwang</a> 
+-	<a href="https://yoonsung-kim.github.io/">Yoonsung Kim</a> 
+-	<a href="https://kms040411.github.io/">Minsoo Kim</a> 
 
 #####	M.S. Students	
 <!-- <a href="https://kdheejb7.github.io">Dohee Kim</a> -->
--	<a href="https://yoonsung-kim.github.io/">Yoonsung Kim</a> 
--	<a href="https://kms040411.github.io/">Minsoo Kim</a> 
 -	<a href="https://sites.google.com/view/guseul-heo/">Guseul Heo</a>
 -	<a href="https://canplane.netlify.app/about">Sanghoon Lee</a>
--	<a href="">Changhun Oh</a>
+-	<a href="https://milchstra3e.github.io">Changhun Oh</a>
+- 	<a href="">Daeun Kim</a>
 
 ##### Undergraduate Students
-- 	Daeun Kim
 - 	Jaehong Cho
 -	Seongryong Oh
 -	Joohyun Lee
