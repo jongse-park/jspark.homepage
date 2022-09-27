@@ -16,8 +16,7 @@ weight = 60
 
 **Tunable Memory Protection for Secure Neural Processing Units**<br>
 <span style="color:#666666">Sunho Lee, Seonjin Na, Jungwoo Kim, <u>Jongse Park</u>, and Jaehyuk Huh</span><br>
-<em><span style="color:#770001;">ICCD</span>, 2022</em> [Paper|Talk]
-<!--<em><span style="color:#770001;">ICCD</span>, 2022</em> [<a href="files/paper/2022-iccd-snpu.pdf">Paper</a>|<a href="files/slide/2022-iccd-snpu.pdf">Talk</a>]-->
+<em><span style="color:#770001;">ICCD</span>, 2022</em> [<a href="files/paper/2022-iccd-snpu.pdf">Paper</a>]
 
 **Supporting Dynamic Translation Granularity for Hybrid Memory Systems**<br>
 <span style="color:#666666">Bokyeong Kim, Soojin Hwang, Sanghoon Cha, Chang Hyun Park, <u>Jongse Park</u>, and Jaehyuk Huh</span><br>
