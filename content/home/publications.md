@@ -20,8 +20,7 @@ weight = 60
 
 **Supporting Dynamic Translation Granularity for Hybrid Memory Systems**<br>
 <span style="color:#666666">Bokyeong Kim, Soojin Hwang, Sanghoon Cha, Chang Hyun Park, <u>Jongse Park</u>, and Jaehyuk Huh</span><br>
-<em><span style="color:#770001;">ICCD</span>, 2022</em> [Paper|Talk]
-<!--<em><span style="color:#770001;">ICCD</span>, 2022</em> [<a href="files/paper/2022-iccd-decoupled.pdf">Paper</a>|<a href="files/slide/2022-iccd-decoupled.pdf">Talk</a>]-->
+<em><span style="color:#770001;">ICCD</span>, 2022</em> [<a href="files/paper/2022-iccd-decoupled.pdf">Paper</a>]
 
 **Yin-Yang: Programming Abstraction for Cross-Domain Multi-Acceleration**<br>
 <span style="color:#666666">Joon Kyung Kim, Byung Hoon Ahn, Sean Kinzer, Soroush Ghodrati, Rohan Mahapatra, Brahmendra Yatham, Dohee Kim, Parisa Sarikhani, Babak Mahmoudi, Divya Mahajan, <u>Jongse Park</u>, Hadi Esmaeilzadeh</span><br>
