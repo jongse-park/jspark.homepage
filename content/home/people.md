@@ -26,6 +26,7 @@ weight = 40
 -	<a href="https://canplane.netlify.app/about">Sanghoon Lee</a>
 -	<a href="https://milchstra3e.github.io">Changhun Oh</a>
 - 	<a href="https://kimdaeun00.github.io">Daeun Kim</a>
+-	Sangyeop Lee
 
 ##### Undergraduate Students
 - 	Jaehong Cho
@@ -39,6 +40,10 @@ weight = 40
 -	Gunwoo Park
 -	Sanghyuk Ahn
 -	Yoojin Seo
+-	Yubin Lee
+-	Seyeon Cho 
+-	Yunghee Lee
+-	Jeonguk Lee
 
 ##### Alumni
 -	Dohee Kim	
