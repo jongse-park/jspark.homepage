@@ -33,6 +33,7 @@ weight = 40
 -	Seongryong Oh
 -	Joohyun Lee
 - 	Hyunmin Choi
+-	Jungha Seo
 -	Yoojin Seo
 -	Yubin Lee
 -	Seyeon Cho 
