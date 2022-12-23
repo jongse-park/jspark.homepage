@@ -14,6 +14,10 @@ weight = 60
 
 +++
 
+**HAMMER: Hardware-friendly Approximate Computing for Self-attention with Mean-redistribution and Linearization**<br>
+<span style="color:#666666">Seonho Lee, Ranggi Hwang, <u>Jongse Park</u>, and Minsoo Rhu</span><br>
+<em><span style="color:#770001;">IEEE Computer Architecture Letters (CAL)</span>, 2023</em> [Paper]
+
 **Tunable Memory Protection for Secure Neural Processing Units**<br>
 <span style="color:#666666">Sunho Lee, Seonjin Na, Jungwoo Kim, <u>Jongse Park</u>, and Jaehyuk Huh</span><br>
 <em><span style="color:#770001;">ICCD</span>, 2022</em> [<a href="files/paper/2022-iccd-snpu.pdf">Paper</a>]
