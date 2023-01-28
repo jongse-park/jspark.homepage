@@ -21,9 +21,7 @@ weight = 40
 -	<a href="https://kms040411.github.io/">Minsu Kim</a> 
 
 #####	M.S. Students	
-<!-- <a href="https://kdheejb7.github.io">Dohee Kim</a> -->
 -	<a href="https://sites.google.com/view/guseul-heo/">Guseul Heo</a>
-<!---	<a href="https://canplane.netlify.app/about">Sanghoon Lee</a>-->
 -	<a href="https://milchstra3e.github.io">Changhun Oh</a>
 - 	<a href="https://kimdaeun00.github.io">Daeun Kim</a>
 -	Sangyeop Lee
