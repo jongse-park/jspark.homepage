@@ -24,7 +24,7 @@ weight = 40
 -	<a href="https://sites.google.com/view/guseul-heo/">Guseul Heo</a>
 -	<a href="https://milchstra3e.github.io">Changhun Oh</a>
 - 	<a href="https://kimdaeun00.github.io">Daeun Kim</a>
--	Sangyeop Lee
+-	<a href="https://sangyeop-lee.github.io">Sangyeop Lee</a>
 
 ##### Undergraduate Students
 - 	Jaehong Cho
