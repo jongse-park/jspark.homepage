@@ -29,7 +29,6 @@ weight = 40
 ##### Undergraduate Students
 - 	Jaehong Cho
 -	Seongryong Oh
--	Joohyun Lee
 - 	Hyunmin Choi
 -	Yubin Lee
 -	Seyeon Cho 
