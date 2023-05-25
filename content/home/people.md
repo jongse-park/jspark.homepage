@@ -12,6 +12,14 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 40
 
+# Joohyun Lee
+# Jaesuh Lee
+# Dongwoo Moon
+# Jungwoo Son
+# Jungha Seo
+# Gunwoo Park
+# Sanghyuk Ahn
+# Yoojin Seo
 
 +++
 
