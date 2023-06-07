@@ -21,6 +21,7 @@ weight = 100
 - HPC Asia 2021
 
 ##### Organizing Committee
+- Registration chair of MICRO 2023
 - Publicity chair of HPCA 2021/2022
 - Publication chair of PACT 2020
 - Web chair of HPCA 2020
