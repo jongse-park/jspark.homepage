@@ -33,6 +33,7 @@ weight = 40
 -	<a href="https://milchstra3e.github.io">Changhun Oh</a>
 - 	<a href="https://kimdaeun00.github.io">Daeun Kim</a>
 -	<a href="https://sangyeop-lee.github.io">Sangyeop Lee</a>
+-   Wonung Kim
 
 ##### Undergraduate Students
 - 	Jaehong Cho
