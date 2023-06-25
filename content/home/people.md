@@ -43,6 +43,7 @@ weight = 40
 -	Seyeon Cho 
 -	Yunghee Lee
 -	Jeonguk Lee
+-	Hojun Kim
 
 ##### Alumni
 -	Dohee Kim	
