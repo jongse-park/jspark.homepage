@@ -23,7 +23,7 @@ bio:
 interests:
 - <i>Accelerated systems for scalable video analytics</i>
 - <i>Accelerated systems for sustainable ML training</i>
-- <i>Processing-in-Memory (PIM) enabled system for emerging applications</i>
+- <i>Processing-in-Memory (PIM) enabled system designs for emerging applications</i>
 - <i>Accelerated systems for AR/VR</i>
 
 education:
