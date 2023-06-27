@@ -21,10 +21,10 @@ organizations:
 bio:  
 
 interests:
-- <i>DNN-based video analytics systems</i>
-- <i>Acceleration for low-precision DNN training</i>
-- <i>Processing-in-Memory (PIM) based system design</i>
-- <i>HW/SW co-design for system software acceleration</i>
+- <i>Accelerated systems for scalable video analytics</i>
+- <i>Accelerated systems for sustainable ML training</i>
+- <i>Processing-in-Memory (PIM) enabled system for emerging applications</i>
+- <i>Accelerated systems for AR/VR</i>
 
 education:
   courses:
