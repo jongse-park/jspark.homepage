@@ -15,6 +15,8 @@ weight = 70
 +++
 
 #####	Courses	
+-   CS411: System for Artificial Intelligence (Fall 2023)
+-   CS510: Computer Architecture (Spring 2023)
 -	CS230: System Programming (Fall 2022) 
 -	CS311: Computer Organization (Spring 2022) 
 -	CS230: System Programming (Fall 2021) 
