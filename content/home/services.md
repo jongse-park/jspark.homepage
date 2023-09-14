@@ -15,7 +15,9 @@ weight = 100
 +++
 ##### Program Committee
 - ISCA 2021/2023
+- HPCA 2023
 - DAC 2021/2022/2023
+- MICRO 2023 SRC
 - IISWC 2022
 - ACSMD 2021/2022
 - HPC Asia 2021
