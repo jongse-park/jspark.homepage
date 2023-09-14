@@ -36,10 +36,10 @@ weight = 40
 -   <a href="https://waneon.me/">Wonung Kim</a>
 
 ##### Undergraduate Students
-- 	Jaehong Cho
 -	Seongryong Oh
-- 	Hyunmin Choi
 -	Yubin Lee
+- 	Jaehong Cho
+- 	Hyunmin Choi
 -	Seyeon Cho 
 -	Yunghee Lee
 -	Jeonguk Lee
