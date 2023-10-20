@@ -34,7 +34,7 @@ weight = 40
 - 	<a href="https://kimdaeun00.github.io">Daeun Kim</a>
 -	<a href="https://sangyeop-lee.github.io">Sangyeop Lee</a>
 -   <a href="https://waneon.me/">Wonung Kim</a>
--	<a href="">Seongryong Oh</a> (2024 Spring)
+-	<a href="https://seongryong0726.github.io/">Seongryong Oh</a> (2024 Spring)
 -	<a href="http://yblee.site/">Yubin Lee</a> (2024 Spring)
 
 ##### Undergraduate Students
