@@ -45,6 +45,8 @@ weight = 40
 -	Jeonguk Lee
 -	Hojun Kim
 -   Yunseok Jeong
+-   YeongMin Hwang
+-   Namwoo Kim
 
 ##### Alumni
 -	Dohee Kim	
