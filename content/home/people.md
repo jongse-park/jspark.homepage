@@ -45,7 +45,7 @@ weight = 40
 -	Jeonguk Lee
 -	Hojun Kim
 -   Yunseok Jeong
--   YeongMin Hwang
+-   Yeongmin Hwang
 -   Namwoo Kim
 
 ##### Alumni
