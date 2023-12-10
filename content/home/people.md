@@ -40,7 +40,6 @@ weight = 40
 ##### Undergraduate Students
 - 	Jaehong Cho
 - 	Hyunmin Choi
--	Seyeon Cho 
 -	Yunghee Lee
 -	Jeonguk Lee
 -	Hojun Kim
@@ -48,6 +47,7 @@ weight = 40
 -   Yeongmin Hwang
 -   Namwoo Kim
 -   Minjun Kang
+-    Jiyong Jung
 
 ##### Alumni
 -	Dohee Kim	
