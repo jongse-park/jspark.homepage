@@ -14,6 +14,14 @@ weight = 60
 
 +++
 
+**Tandem Processor: Grappling with Emerging Operators in Neural Networks**<br>
+<span style="color:#666666">Soroush Ghodrati, Sean Kinzer, Hanyang Xu, Rohan Mahapatra, Yoonsung, Byung Hoon Ahn, Dong Kai Wang, Lavanya Karthikeyan, Amir Yazdanbakhsh, <u>Jongse Park</u>, Nam Sung Kim, Hadi Esmaeilzadeh</span><br>
+<em><span style="color:#770001;">ASPLOS</span>, 2024</em> [Paper] (To Appear)
+
+**Hardware Hardened Sandbox Enclaves for Trusted Serverless Computing**<br>
+<span style="color:#666666">Joongun Park, Seunghyo Kang, Sanghyeon Lee, Taehoon Kim, <u>Jongse Park</u>, Youngjin Kwon, and Jaehyuk Huh</span><br>
+<em><span style="color:#770001;">IEEE Transactions on Architecture and Code Optimization (TACO)</span>, 2023</em> [<a href="files/paper/2023-taco-cloister.pdf">Paper</a>]
+
 **FlexBlock: A Flexible DNN Training Accelerator with Multi-Mode Block Floating Point Support**<br>
 <span style="color:#666666">Seock-Hwan Noh, Jahyun Koo, Seunghyun Lee, <u>Jongse Park</u>, and Jaeha Kung</span><br>
 <em><span style="color:#770001;">IEEE Transactions on Computers (TC)</span>, 2023</em> [<a href="files/paper/2023-tc-flexblock.pdf">Paper</a>]
