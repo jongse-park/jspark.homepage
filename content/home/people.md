@@ -47,7 +47,8 @@ weight = 40
 -   Yeongmin Hwang
 -   Namwoo Kim
 -   Minjun Kang
--    Jiyong Jung
+-   Jiyong Jung
+-   Woochang Jeong
 
 ##### Alumni
 -	Dohee Kim	
