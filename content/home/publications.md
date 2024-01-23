@@ -14,7 +14,7 @@ weight = 60
 
 +++
 
-**Accelerating String-key Learned Index Structures \\ via Memoization-based Incremental Training**<br>
+**Accelerating String-key Learned Index Structures via Memoization-based Incremental Training**<br>
 <span style="color:#666666">Minsu Kim, Jinwoo Hwang, Guseul Heo, Seiyeon Cho, Divya Mahajan, <u>Jongse Park</u></span><br>
 <em><span style="color:#770001;">VLDB</span>, 2024</em> [Paper] (To Appear)
 
