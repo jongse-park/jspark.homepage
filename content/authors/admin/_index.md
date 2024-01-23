@@ -21,10 +21,11 @@ organizations:
 bio:  
 
 interests:
-- <i>Accelerated systems for scalable video analytics</i>
-- <i>Accelerated systems for sustainable ML training</i>
-- <i>Processing-in-Memory (PIM) enabled system designs for emerging applications</i>
-- <i>Accelerated systems for AR/VR</i>
+- <i>Accelerated systems for large language models</i>
+- <i>Processing-in-Memory (PIM) acceleration for emerging applications</i>
+- <i>Acceleration for multi-modal on-device AI</i>
+- <i>Acceleration of multi-modal generative AI</i>
+- <i>AR/VR/XR and NeRF acceleration</i>
 
 education:
   courses:
