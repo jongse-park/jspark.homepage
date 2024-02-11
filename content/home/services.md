@@ -37,7 +37,7 @@ weight = 100
 -	NeurIPS 2022
 -	ASPLOS 2021
 -	ISCA, 2018
--	CAL 2016/2019/2020/2021
+-	CAL 2016/2019/2020/2021/2022/2023
 -	TC 2019/2020/2021/2022
 -	TOCS 2019/2020/2021
 <!-- -	TC Special Issue on Machine Learning Accelerators, 2022 -->
