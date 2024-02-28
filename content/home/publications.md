@@ -14,17 +14,21 @@ weight = 60
 
 +++
 
-**Cerberus: Triple Mode Acceleration of Sparse Matrix and Vector Multiplication**<br>
-<span style="color:#666666">Soojin Hwang, Daehyeon Baek, <u>Jongse Park</u>, Jaehyuk Huh</span><br>
-<em><span style="color:#770001;">IEEE Transactions on Architecture and Code Optimization (TACO)</span>, 2024</em> (To Appear)
+**NeuPIMs: A NPU-PIM Heterogeneous Acceleration for Batched Inference of Large Language Model**<br>
+<span style="color:#666666">Guseul Heo, Sangyeop Lee, Jaehong Cho, Hyunmin Choi, Sanghyeon Lee, Hyungkyu Ham, Gwangsun Kim, Divya Mahajan, <u>Jongse Park</u></span><br>
+<em><span style="color:#770001;">ASPLOS</span>, 2024</em> [Paper] (To Appear)
+
+**Tandem Processor: Grappling with Emerging Operators in Neural Networks**<br>
+<span style="color:#666666">Soroush Ghodrati, Sean Kinzer, Hanyang Xu, Rohan Mahapatra, Yoonsung, Byung Hoon Ahn, Dong Kai Wang, Lavanya Karthikeyan, Amir Yazdanbakhsh, <u>Jongse Park</u>, Nam Sung Kim, Hadi Esmaeilzadeh</span><br>
+<em><span style="color:#770001;">ASPLOS</span>, 2024</em> [Paper] (To Appear)
 
 **Accelerating String-key Learned Index Structures via Memoization-based Incremental Training**<br>
 <span style="color:#666666">Minsu Kim, Jinwoo Hwang, Guseul Heo, Seiyeon Cho, Divya Mahajan, <u>Jongse Park</u></span><br>
 <em><span style="color:#770001;">VLDB</span>, 2024</em> [Paper] (To Appear)
 
-**Tandem Processor: Grappling with Emerging Operators in Neural Networks**<br>
-<span style="color:#666666">Soroush Ghodrati, Sean Kinzer, Hanyang Xu, Rohan Mahapatra, Yoonsung, Byung Hoon Ahn, Dong Kai Wang, Lavanya Karthikeyan, Amir Yazdanbakhsh, <u>Jongse Park</u>, Nam Sung Kim, Hadi Esmaeilzadeh</span><br>
-<em><span style="color:#770001;">ASPLOS</span>, 2024</em> [Paper] (To Appear)
+**Cerberus: Triple Mode Acceleration of Sparse Matrix and Vector Multiplication**<br>
+<span style="color:#666666">Soojin Hwang, Daehyeon Baek, <u>Jongse Park</u>, Jaehyuk Huh</span><br>
+<em><span style="color:#770001;">IEEE Transactions on Architecture and Code Optimization (TACO)</span>, 2024</em> (To Appear)
 
 **Hardware Hardened Sandbox Enclaves for Trusted Serverless Computing**<br>
 <span style="color:#666666">Joongun Park, Seunghyo Kang, Sanghyeon Lee, Taehoon Kim, <u>Jongse Park</u>, Youngjin Kwon, and Jaehyuk Huh</span><br>
