@@ -14,6 +14,10 @@ weight = 60
 
 +++
 
+**Cerberus: Triple Mode Acceleration of Sparse Matrix and Vector Multiplication**<br>
+<span style="color:#666666">Soojin Hwang, Daehyeon Baek, <u>Jongse Park</u>, Jaehyuk Huh</span><br>
+<em><span style="color:#770001;">IEEE Transactions on Architecture and Code Optimization (TACO)</span>, 2024</em> (To Appear)
+
 **Accelerating String-key Learned Index Structures via Memoization-based Incremental Training**<br>
 <span style="color:#666666">Minsu Kim, Jinwoo Hwang, Guseul Heo, Seiyeon Cho, Divya Mahajan, <u>Jongse Park</u></span><br>
 <em><span style="color:#770001;">VLDB</span>, 2024</em> [Paper] (To Appear)
