@@ -41,9 +41,6 @@ weight = 40
 - 	Jaehong Cho
 - 	Hyunmin Choi
 -	Yunghee Lee
--	Jeonguk Lee
--	Hojun Kim
--   Yunseok Jeong
 -   Yeongmin Hwang
 -   Namwoo Kim
 -   Minjun Kang
