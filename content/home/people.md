@@ -46,6 +46,7 @@ weight = 40
 -   Minjun Kang
 -   Jiyong Jung
 -   Woochang Jeong
+-   Woong Gyu Park
 
 ##### Alumni
 -	Dohee Kim	
