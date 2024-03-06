@@ -14,7 +14,7 @@ weight = 60
 
 +++
 
-**NeuPIMs: A NPU-PIM Heterogeneous Acceleration for Batched Inference of Large Language Model**<br>
+**NeuPIMs: NPU-PIM Heterogeneous Acceleration for Batched LLM Inferencing**<br>
 <span style="color:#666666">Guseul Heo, Sangyeop Lee, Jaehong Cho, Hyunmin Choi, Sanghyeon Lee, Hyungkyu Ham, Gwangsun Kim, Divya Mahajan, <u>Jongse Park</u></span><br>
 <em><span style="color:#770001;">ASPLOS</span>, 2024</em> [Paper] (To Appear)
 
