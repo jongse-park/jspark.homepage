@@ -47,6 +47,8 @@ weight = 40
 -   Jiyong Jung
 -   Woochang Jeong
 -   Woong Gyu Park
+-   Aziz Huseynov
+-   Raymond Horley 
 
 ##### Alumni
 -	Dohee Kim	
