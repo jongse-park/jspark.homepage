@@ -22,7 +22,7 @@ bio:
 
 interests:
 - <i>Accelerated systems for generative AI</i>
-- <i>Accelerated systems for autonomous systems</i>
+- <i>Accelerated systems for autonomous devices</i>
 - <i>Accelerated systems for AR/VR/MR/XR</i>
 - <i>Processing-in-Memory (PIM) accelerated systems</i>
 
