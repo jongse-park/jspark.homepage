@@ -19,7 +19,7 @@ weight = 60
 <em><span style="color:#770001;">ASPLOS</span>, 2024</em> [Paper] (To Appear)
 
 **Tandem Processor: Grappling with Emerging Operators in Neural Networks**<br>
-<span style="color:#666666">Soroush Ghodrati, Sean Kinzer, Hanyang Xu, Rohan Mahapatra, Yoonsung, Byung Hoon Ahn, Dong Kai Wang, Lavanya Karthikeyan, Amir Yazdanbakhsh, <u>Jongse Park</u>, Nam Sung Kim, Hadi Esmaeilzadeh</span><br>
+<span style="color:#666666">Soroush Ghodrati, Sean Kinzer, Hanyang Xu, Rohan Mahapatra, Yoonsung Kim, Byung Hoon Ahn, Dong Kai Wang, Lavanya Karthikeyan, Amir Yazdanbakhsh, <u>Jongse Park</u>, Nam Sung Kim, Hadi Esmaeilzadeh</span><br>
 <em><span style="color:#770001;">ASPLOS</span>, 2024</em> [Paper] (To Appear)
 
 **Accelerating String-key Learned Index Structures via Memoization-based Incremental Training**<br>
