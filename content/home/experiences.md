@@ -15,8 +15,8 @@ weight = 40
 +++
 
 #####	Professor	
--	Mar. 2024 - present: Associate Professor, Computer Architecture and Systems Lab (CASys), SoC, KAIST
--	Dec. 2019 - Feb. 2024: Assistant Professor, Computer Architecture and Systems Lab (CASys), SoC, KAIST
+-	Mar. 2024 - present: Associate Professor, CASys Lab, SoC, KAIST
+-	Dec. 2019 - Feb. 2024: Assistant Professor, CASys Lab, SoC, KAIST
 
 #####	Product Engineer
 -	Aug. 2018 - Nov. 2019: Deep Learning Acceleration Solution Architect, Bigstream Solution, Inc.
