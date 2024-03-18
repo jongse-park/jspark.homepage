@@ -31,13 +31,13 @@ education:
   - course: PhD in Computer Science 
     institution: Georgia Institute of Technology 
     institution_homepage: https://www.gatech.edu
-    advisor: Dr. Hadi Esmaeilzadeh
+    advisor: Prof. Hadi Esmaeilzadeh
     advisor_homepage: https://cseweb.ucsd.edu/~hadi/ 
     year: 2018
   - course: MS in Computer Science 
     institution: KAIST 
     institution_homepage: https://www.kaist.ac.kr
-    advisor: Dr. Seungryoul Maeng
+    advisor: Prof. Seungryoul Maeng
     advisor_homepage: http://calab.kaist.ac.kr:8080/~maeng/
     year: 2012
   - course: BS in Computer Science and Engineering 
