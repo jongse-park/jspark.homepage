@@ -32,7 +32,7 @@ weight = 60
 
 **Cerberus: Triple Mode Acceleration of Sparse Matrix and Vector Multiplication**<br>
 <span style="color:#666666">Soojin Hwang, Daehyeon Baek, <u>Jongse Park</u>, Jaehyuk Huh</span><br>
-<em><span style="color:#770001;">IEEE Transactions on Architecture and Code Optimization (TACO)</span>, 2024</em> (To Appear)
+<em><span style="color:#770001;">IEEE Transactions on Architecture and Code Optimization (TACO)</span>, 2024</em> [<a href="https://dl.acm.org/doi/10.1145/3653020">Paper</a>]
 
 **Hardware Hardened Sandbox Enclaves for Trusted Serverless Computing**<br>
 <span style="color:#666666">Joongun Park, Seunghyo Kang, Sanghyeon Lee, Taehoon Kim, <u>Jongse Park</u>, Youngjin Kwon, and Jaehyuk Huh</span><br>
