@@ -117,7 +117,7 @@ weight = 60
 **Tabla: A Unified Template-based Framework for Accelerating Statistical Machine Learning**   
 <span style="color:#666666">Divya Mahajan, <u>Jongse Park</u>, Emmanuel Amaro, Hardik Sharma, Amir Yazdanbaksh, Joon Kyung Kim, and Hadi Esmaeilzadeh</span>   
 <em><span style="color:#770001;">HPCA</span>, 2016</em> [<a href="files/paper/2016-hpca-tabla.pdf">Paper</a>|<a href="files/slide/2016-hpca-tabla.pdf">Talk</a>]
-<strong><em><span style="color:#4F8F01;">Distinguished Paper Aware</span></em></strong>
+<strong><em><span style="color:#4F8F01;">Distinguished Paper Award</span></em></strong>
 
 **FlexJava: Language Support for Safe and Modular Approximate Programming**   
 <span style="color:#666666"><u>Jongse Park</u>, Hadi Esmaeilzadeh, Xin Zhang, Mayur Naik, William Harris</span>   
