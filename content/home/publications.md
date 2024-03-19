@@ -28,7 +28,7 @@ weight = 60
 
 **Accelerating String-key Learned Index Structures via Memoization-based Incremental Training**<br>
 <span style="color:#666666">Minsu Kim, Jinwoo Hwang, Guseul Heo, Seiyeon Cho, Divya Mahajan, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">VLDB</span>, 2024</em> [Paper] (To Appear)
+<em><span style="color:#770001;">VLDB</span>, 2024</em> [<a href="https://arxiv.org/abs/2403.11472">Paper</a>] (To Appear)
 
 **Cerberus: Triple Mode Acceleration of Sparse Matrix and Vector Multiplication**<br>
 <span style="color:#666666">Soojin Hwang, Daehyeon Baek, <u>Jongse Park</u>, Jaehyuk Huh</span><br>
