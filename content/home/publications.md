@@ -14,9 +14,9 @@ weight = 60
 
 +++
 
-<!--**DaCapo: Accelerating Continuous Learning in Autonomous Systems for Video Analytics**<br>
+**DaCapo: Accelerating Continuous Learning in Autonomous Systems for Video Analytics**<br>
 <span style="color:#666666">Yoonsung Kim, Changhun Oh, Jinwoo Hwang, Wonung Kim, Seongryong Oh, Yubin Lee, Hardik Sharma, Amir Yazdanbakhsh, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">ISCA</span>, 2024</em> [Paper] (To Appear)-->
+<em><span style="color:#770001;">ISCA</span>, 2024</em> [Paper] (To Appear)
 
 **NeuPIMs: NPU-PIM Heterogeneous Acceleration for Batched LLM Inferencing**<br>
 <span style="color:#666666">Guseul Heo, Sangyeop Lee, Jaehong Cho, Hyunmin Choi, Sanghyeon Lee, Hyungkyu Ham, Gwangsun Kim, Divya Mahajan, <u>Jongse Park</u></span><br>
