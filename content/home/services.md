@@ -33,6 +33,7 @@ weight = 100
 - IEEE Micro Special Issue on Machine Learning Acceleration, 2019
 
 ##### External Review Committee
+-   MICRO 2024
 -   ICML 2023
 -	NeurIPS 2022
 -	ASPLOS 2021
