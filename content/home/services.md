@@ -23,21 +23,12 @@ weight = 100
 - ACSMD 2021/2022
 - HPC Asia 2021
 
-##### Organizing Committee
-- Registration chair of MICRO 2023
-- Publicity chair of HPCA 2021/2022
-- Publication chair of PACT 2020
-- Web chair of HPCA 2020
-
-##### Guest Editor
-- IEEE Micro Special Issue on Machine Learning Acceleration, 2019
-
 ##### External Review Committee
 -   MICRO 2024
 -   ICML 2023
 -	NeurIPS 2022
 -	ASPLOS 2021
--	ISCA, 2018
+-	ISCA 2018
 -	CAL 2016/2019/2020/2021/2022/2023
 -	TC 2019/2020/2021/2022
 -	TOCS 2019/2020/2021
@@ -48,3 +39,14 @@ weight = 100
 <!-- -	TVLSI, 2016 --> 
 <!-- -	TCSVT, 2016 -->  
 <!-- -	TETC, 2016  -->
+
+##### Organizing Committee
+- Registration chair of MICRO 2023
+- Publicity chair of HPCA 2021/2022
+- Publication chair of PACT 2020
+- Web chair of HPCA 2020
+
+##### Guest Editor
+- IEEE Micro Special Issue on Machine Learning Acceleration, 2019
+
+
