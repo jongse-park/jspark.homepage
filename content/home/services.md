@@ -17,19 +17,19 @@ weight = 100
 - ISCA 2021/2023/2024
 - ASPLOS 2025
 - HPCA 2023
-<!--- MICRO 2023 SRC-->
 - DAC 2021/2022/2023
 - IISWC 2022
+<!--- MICRO 2023 SRC-->
 <!--- ACSMD 2021/2022-->
 <!--- HPC Asia 2021-->
 
 ##### External Review Committee
 -   MICRO 2024
-<!---   ICML 2023-->
-<!-- -	NeurIPS 2022-->
 -	ASPLOS 2021
 -	ISCA 2018
 -	CAL 2016/2019/2020/2021/2022/2023
+<!---   ICML 2023-->
+<!-- -	NeurIPS 2022-->
 <!---	TC 2019/2020/2021/2022-->
 <!---	TOCS 2019/2020/2021-->
 <!-- -	TC Special Issue on Machine Learning Accelerators, 2022 -->
