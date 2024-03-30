@@ -43,8 +43,8 @@ weight = 100
 ##### Organizing Committee
 - Registration chair of MICRO 2023
 - Publicity chair of HPCA 2021/2022
-- Publication chair of PACT 2020
 - Web chair of HPCA 2020
+- Publication chair of PACT 2020
 
 ##### Guest Editor
 - IEEE Micro Special Issue on Machine Learning Acceleration, 2019
