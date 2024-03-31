@@ -37,12 +37,12 @@ weight = 60
 **Bit Fusion: Bit-Level Dynamically Composable Architecture for Accelerating Deep Neural Network**<br>
 <span style="color:#666666">Hardik Sharma, <u>Jongse Park</u>, Naveen Suda, Liangzhen Lai, Benson Chau, Vikas Chandra, Hadi Esmaeilzadeh</span>   
 <em><span style="color:#770001;">ISCA</span>, 2023</em>  [<a href="files/paper/2023-isca_retrospective-bitfusion.pdf">Retrospective</a>]<br>
-<strong><em><span style="color:#4F8F01;">Selected for inclusion in ISCA@50 25-year Retrospective 1996-2020</span></em></strong>
+<strong><em><span style="color:#4F8F01;">Selected for Inclusion in ISCA@50 25-year Retrospective 1996-2020</span></em></strong>
 
 **General-Purpose Code Acceleration with Limited-Precision Analog Computation**<br>
 <span style="color:#666666">Ren&eacute;e St. Amant, Amir Yazdanbakhsh, <u>Jongse Park</u>, Bradley Thwaites, Hadi Esmaeilzadeh, Arjang Hassibi, Luis Ceze, and Doug Burger</span>  
 <em><span style="color:#770001;">ISCA</span>, 2023</em>  [<a href="files/paper/2023-isca_retrospective-anpu.pdf">Retrospective</a>]<br>
-<strong><em><span style="color:#4F8F01;">Selected for inclusion in ISCA@50 25-year Retrospective 1996-2020</span></em></strong>
+<strong><em><span style="color:#4F8F01;">Selected for Inclusion in ISCA@50 25-year Retrospective 1996-2020</span></em></strong>
 
 **Hardware Hardened Sandbox Enclaves for Trusted Serverless Computing**<br>
 <span style="color:#666666">Joongun Park, Seunghyo Kang, Sanghyeon Lee, Taehoon Kim, <u>Jongse Park</u>, Youngjin Kwon, and Jaehyuk Huh</span><br>
