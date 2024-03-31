@@ -36,12 +36,12 @@ weight = 60
 
 **Bit Fusion: Bit-Level Dynamically Composable Architecture for Accelerating Deep Neural Network**<br>
 <span style="color:#666666">Hardik Sharma, <u>Jongse Park</u>, Naveen Suda, Liangzhen Lai, Benson Chau, Vikas Chandra, Hadi Esmaeilzadeh</span>   
-<em><span style="color:#770001;">ISCA</span>, 2023</em>  [<a href="files/paper/2023-isca_retrospective-bitfusion.pdf">Retrospective</a>]
+<em><span style="color:#770001;">ISCA</span>, 2023</em>  [<a href="files/paper/2023-isca_retrospective-bitfusion.pdf">Retrospective</a>]<br>
 <strong><em><span style="color:#4F8F01;">Selected for inclusion in ISCA@50 25-year Retrospective 1996-2020</span></em></strong>
 
 **General-Purpose Code Acceleration with Limited-Precision Analog Computation**<br>
 <span style="color:#666666">Ren&eacute;e St. Amant, Amir Yazdanbakhsh, <u>Jongse Park</u>, Bradley Thwaites, Hadi Esmaeilzadeh, Arjang Hassibi, Luis Ceze, and Doug Burger</span>  
-<em><span style="color:#770001;">ISCA</span>, 2023</em>  [<a href="files/paper/2023-isca_retrospective-anpu.pdf">Retrospective</a>]
+<em><span style="color:#770001;">ISCA</span>, 2023</em>  [<a href="files/paper/2023-isca_retrospective-anpu.pdf">Retrospective</a>]<br>
 <strong><em><span style="color:#4F8F01;">Selected for inclusion in ISCA@50 25-year Retrospective 1996-2020</span></em></strong>
 
 **Hardware Hardened Sandbox Enclaves for Trusted Serverless Computing**<br>
@@ -126,7 +126,7 @@ weight = 60
 
 **Tabla: A Unified Template-based Framework for Accelerating Statistical Machine Learning**   
 <span style="color:#666666">Divya Mahajan, <u>Jongse Park</u>, Emmanuel Amaro, Hardik Sharma, Amir Yazdanbaksh, Joon Kyung Kim, and Hadi Esmaeilzadeh</span>   
-<em><span style="color:#770001;">HPCA</span>, 2016</em> [<a href="files/paper/2016-hpca-tabla.pdf">Paper</a>|<a href="files/slide/2016-hpca-tabla.pdf">Talk</a>]
+<em><span style="color:#770001;">HPCA</span>, 2016</em> [<a href="files/paper/2016-hpca-tabla.pdf">Paper</a>|<a href="files/slide/2016-hpca-tabla.pdf">Talk</a>]<br>
 <strong><em><span style="color:#4F8F01;">Best Paper Award</span></em></strong>
 
 **FlexJava: Language Support for Safe and Modular Approximate Programming**   
