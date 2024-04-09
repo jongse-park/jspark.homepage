@@ -14,6 +14,10 @@ weight = 60
 
 +++
 
+**Accelerating String-key Learned Index Structures via Memoization-based Incremental Training**<br>
+<span style="color:#666666">Minsu Kim, Jinwoo Hwang, Guseul Heo, Seiyeon Cho, Divya Mahajan, <u>Jongse Park</u></span><br>
+<em><span style="color:#770001;">VLDB</span>, 2024</em> [<a href="https://arxiv.org/abs/2403.11472">Paper</a>] (To Appear)
+
 **DaCapo: Accelerating Continuous Learning in Autonomous Systems for Video Analytics**<br>
 <span style="color:#666666">Yoonsung Kim, Changhun Oh, Jinwoo Hwang, Wonung Kim, Seongryong Oh, Yubin Lee, Hardik Sharma, Amir Yazdanbakhsh, <u>Jongse Park</u></span><br>
 <em><span style="color:#770001;">ISCA</span>, 2024</em> [<a href="https://arxiv.org/abs/2403.14353">Paper</a>] (To Appear)
@@ -29,10 +33,6 @@ weight = 60
 **Tandem Processor: Grappling with Emerging Operators in Neural Networks**<br>
 <span style="color:#666666">Soroush Ghodrati, Sean Kinzer, Hanyang Xu, Rohan Mahapatra, Yoonsung Kim, Byung Hoon Ahn, Dong Kai Wang, Lavanya Karthikeyan, Amir Yazdanbakhsh, <u>Jongse Park</u>, Nam Sung Kim, Hadi Esmaeilzadeh</span><br>
 <em><span style="color:#770001;">ASPLOS</span>, 2024</em> [Paper] (To Appear)
-
-**Accelerating String-key Learned Index Structures via Memoization-based Incremental Training**<br>
-<span style="color:#666666">Minsu Kim, Jinwoo Hwang, Guseul Heo, Seiyeon Cho, Divya Mahajan, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">VLDB</span>, 2024</em> [<a href="https://arxiv.org/abs/2403.11472">Paper</a>] (To Appear)
 
 **Cerberus: Triple Mode Acceleration of Sparse Matrix and Vector Multiplication**<br>
 <span style="color:#666666">Soojin Hwang, Daehyeon Baek, <u>Jongse Park</u>, Jaehyuk Huh</span><br>
