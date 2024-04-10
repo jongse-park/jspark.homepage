@@ -61,7 +61,7 @@ social:
   link: files/cv.pdf
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/jongsepark/ 
+  link: https://www.linkedin.com/in/jongse-park-6a6929245/ 
 
 
 
