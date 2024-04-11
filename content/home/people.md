@@ -38,8 +38,8 @@ weight = 40
 -	<a href="http://yblee.site/">Yubin Lee</a> 
 
 ##### Undergraduate Students
-- 	Jaehong Cho
-- 	Hyunmin Choi
+- 	<a href="https://jaehongcs20.github.io/">Jaehong Cho</a>
+- 	<a href="https://hyuenmin-choi.github.io/">Hyunmin Choi</a>
 -	Yunghee Lee
 -   Yeongmin Hwang
 -   Namwoo Kim
