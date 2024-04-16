@@ -38,17 +38,17 @@ weight = 40
 -	<a href="http://yblee.site/">Yubin Lee</a> 
 
 ##### Undergraduate Students
-- 	<a href="https://jaehongcs20.github.io/">Jaehong Cho</a>
-- 	<a href="https://hyuenmin-choi.github.io/">Hyunmin Choi</a>
--	Yunghee Lee
--   Yeongmin Hwang
--   Namwoo Kim
--   Minjun Kang
--   Jiyong Jung
--   Woochang Jeong
--   Woong Gyu Park
--   Aziz Huseynov
--   Raymond Horley
+- 	<a href="https://jaehongcs20.github.io/">Jaehong Cho</a> (Summer 2022)
+- 	<a href="https://hyuenmin-choi.github.io/">Hyunmin Choi</a> (Summer 2022)
+-	Yunghee Lee (Winter 2022)
+-   Yeongmin Hwang (Winter 2024)
+-   Namwoo Kim (Winter 2024)
+-   Minjun Kang (Winter 2024)
+-   Jiyong Jung (Winter 2024)
+-   Woochang Jeong (Spring 2024)
+-   Woong Gyu Park (Spring 2024)
+-   Aziz Huseynov (Spring 2024)
+-   Raymond Horley (Spring 2024)
 
 ##### Alumni (M.S.)
 -	Dohee Kim (Gradudated in Spring 2022)
