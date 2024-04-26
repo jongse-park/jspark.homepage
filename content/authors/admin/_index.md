@@ -38,7 +38,7 @@ education:
     institution: Korea Advanced Institute of Science and Technology 
     institution_homepage: https://www.kaist.ac.kr
     advisor: Prof. Seungryoul Maeng
-    advisor_homepage: http://calab.kaist.ac.kr:8080/~maeng/
+    advisor_homepage: https://casyslab.kaist.ac.kr/maeng
     year: 2012
   - course: BS in Computer Science and Engineering 
     institution: Sogang University
