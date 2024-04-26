@@ -35,7 +35,7 @@ education:
     advisor_homepage: https://cseweb.ucsd.edu/~hadi/ 
     year: 2018
   - course: MS in Computer Science 
-    institution: Korea Advanced Institute of Science and Technology 
+    institution: KAIST
     institution_homepage: https://www.kaist.ac.kr
     advisor: Prof. Seungryoul Maeng
     advisor_homepage: https://casyslab.kaist.ac.kr/maeng
