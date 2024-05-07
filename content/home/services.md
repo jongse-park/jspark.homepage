@@ -41,6 +41,7 @@ weight = 100
 <!-- -	TETC, 2016  -->
 
 ##### Organizing Committee
+- Sponsorship chair of HPCA 2025
 - Registration chair of MICRO 2023
 - Publicity chair of HPCA 2021/2022
 - Web chair of HPCA 2020
