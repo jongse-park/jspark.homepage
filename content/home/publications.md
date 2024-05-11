@@ -28,7 +28,7 @@ weight = 60
 
 **NeuPIMs: NPU-PIM Heterogeneous Acceleration for Batched LLM Inferencing**<br>
 <span style="color:#666666">Guseul Heo, Sangyeop Lee, Jaehong Cho, Hyunmin Choi, Sanghyeon Lee, Hyungkyu Ham, Gwangsun Kim, Divya Mahajan, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">ASPLOS</span>, 2024</em> [<a href="files/paper/2024-asplos-neupims.pdf">Paper</a>] (To Appear)
+<em><span style="color:#770001;">ASPLOS</span>, 2024</em> [<a href="files/paper/2024-asplos-neupims.pdf">Paper</a>] 
 
 **Tandem Processor: Grappling with Emerging Operators in Neural Networks**<br>
 <span style="color:#666666">Soroush Ghodrati, Sean Kinzer, Hanyang Xu, Rohan Mahapatra, Yoonsung Kim, Byung Hoon Ahn, Dong Kai Wang, Lavanya Karthikeyan, Amir Yazdanbakhsh, <u>Jongse Park</u>, Nam Sung Kim, Hadi Esmaeilzadeh</span><br>
