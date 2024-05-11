@@ -18,8 +18,8 @@ weight = 40
 -	Mar. 2024 - present: Associate Professor, CASys Lab, SoC, KAIST
 -	Dec. 2019 - Feb. 2024: Assistant Professor, CASys Lab, SoC, KAIST
 
-#####	Product Engineer
--	Aug. 2018 - Nov. 2019: Deep Learning Acceleration Solution Architect, Bigstream Solution, Inc.
+#####	Engineer
+-	Aug. 2018 - Nov. 2019: Acceleration Solution Architect, Bigstream Solution, Inc.
 
 #####	Research Assistant
 -	Jan. 2018 - Aug. 2018: Visiting Researcher, ACT Lab, CSE, UCSD
