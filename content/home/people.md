@@ -28,9 +28,9 @@ weight = 40
 -	<a href="https://yoonsung-kim.github.io/">Yoonsung Kim</a> 
 -	<a href="https://kms040411.github.io/">Minsu Kim</a> 
 -	<a href="https://sites.google.com/view/guseul-heo/">Guseul Heo</a>
+-	<a href="https://milchstra3e.github.io">Changhun Oh</a>
 
 #####	M.S. Students	
--	<a href="https://milchstra3e.github.io">Changhun Oh</a>
 - 	<a href="https://kimdaeun00.github.io">Daeun Kim</a>
 -	<a href="https://sangyeop-lee.github.io">Sangyeop Lee</a>
 -   <a href="https://waneon.me/">Wonung Kim</a>
