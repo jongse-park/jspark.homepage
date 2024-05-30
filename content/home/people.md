@@ -36,11 +36,10 @@ weight = 40
 -   <a href="https://waneon.me/">Wonung Kim</a>
 -	<a href="https://seongryong0726.github.io/">Seongryong Oh</a> 
 -	<a href="http://yblee.site/">Yubin Lee</a> 
+- 	<a href="https://jaehongcs20.github.io/">Jaehong Cho</a> 
+- 	<a href="https://hyuenmin-choi.github.io/">Hyunmin Choi</a> 
 
 ##### Undergraduate Students
-- 	<a href="https://jaehongcs20.github.io/">Jaehong Cho</a> (Summer 2022)
-- 	<a href="https://hyuenmin-choi.github.io/">Hyunmin Choi</a> (Summer 2022)
--	Yunghee Lee (Winter 2022)
 -   Yeongmin Hwang (Winter 2023)
 -   Namwoo Kim (Winter 2023)
 -   Minjun Kang (Winter 2023)
@@ -54,6 +53,7 @@ weight = 40
 -	Dohee Kim (Gradudated in Spring 2022)
 
 ##### Alumni (Undergraduate Interns)
+-	Yunghee Lee (Winter 2022)
 -   Yunseok Jeong (Fall 2023)
 -	Hojun Kim (Summer 2023)
 -	Jeonguk Lee (Winter 2022)
