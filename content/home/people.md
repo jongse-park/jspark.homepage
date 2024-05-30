@@ -42,8 +42,8 @@ weight = 40
 ##### Undergraduate Students
 -   Yeongmin Hwang (Winter 2023)
 -   Namwoo Kim (Winter 2023)
--   Minjun Kang (Winter 2023)
 -   Jiyong Jung (Winter 2023)
+-   Minjun Kang (Winter 2023)
 -   Woochang Jeong (Spring 2024)
 -   Woong Gyu Park (Spring 2024)
 -   Aziz Huseynov (Spring 2024)
