@@ -14,6 +14,10 @@ weight = 60
 
 +++
 
+<!-- **LPU: A Latency-optimized and Highly Scalable Processor for Large Language Model Inference**<br>
+<span style="color:#666666">Seungjae Moon, Seongmin Hong, Minsu Kim, Dongjin Seo, Jung-Hoon Kim, Ryeowook Ko, Soongyu Choi, Junseo Cha, Junsoo Kim, Sukbin Lim, Hunjong Lee, Hyunjun Park, Gyubin Choi, Jongho Kim, Jinwon Lee, <u>Jongse Park</u>, Joo-Young Kim</span><br>
+<em><span style="color:#770001;">IEEE Micro, </span> special issue on Contemporary Industry Products, 2024</em>  (To Appear) -->
+
 **Accelerating String-key Learned Index Structures via Memoization-based Incremental Training**<br>
 <span style="color:#666666">Minsu Kim, Jinwoo Hwang, Guseul Heo, Seiyeon Cho, Divya Mahajan, <u>Jongse Park</u></span><br>
 <em><span style="color:#770001;">VLDB</span>, 2024</em> [<a href="files/paper/2024-vldb-sia.pdf">Paper</a>] (To Appear)
@@ -21,6 +25,10 @@ weight = 60
 **DaCapo: Accelerating Continuous Learning in Autonomous Systems for Video Analytics**<br>
 <span style="color:#666666">Yoonsung Kim, Changhun Oh, Jinwoo Hwang, Wonung Kim, Seongryong Oh, Yubin Lee, Hardik Sharma, Amir Yazdanbakhsh, <u>Jongse Park</u></span><br>
 <em><span style="color:#770001;">ISCA</span>, 2024</em> [<a href="files/paper/2024-isca-dacapo.pdf">Paper</a>] (To Appear)
+
+<!-- **LLMServingSim: A Simulation Infrastructure for LLM Inference Serving System**<br>
+<span style="color:#666666">Jaehong Cho, Minsu Kim, Hyunmin Choi, <u>Jongse Park</u></span><br>
+<em><span style="color:#770001;">MLArchSys</span>, 2024</em> (To Appear) -->
 
 **LVS: A Learned Video Storage for Fast and Efficient Video Understanding**<br>
 <span style="color:#666666">Yunghee Lee, <u>Jongse Park</u></span><br>
