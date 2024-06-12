@@ -41,18 +41,18 @@ weight = 40
 
 ##### Undergraduate Students
 -   Yeongmin Hwang (Winter 2023)
--   Namwoo Kim (Winter 2023)
 -   Jiyong Jung (Winter 2023)
+-   Namwoo Kim (Winter 2023)
 -   Minjun Kang (Winter 2023)
--   Woong Gyu Park (Spring 2024)
 -   Aziz Huseynov (Spring 2024)
--   Raymond Horley (Spring 2024)
+-   Woong Gyu Park (Spring 2024)
 
 ##### Alumni (M.S.)
 -	Dohee Kim (Gradudated in Spring 2022)
 
 ##### Alumni (Undergraduate Interns)
 -   Woochang Jeong (Spring 2024)
+-   Raymond Horley (Spring 2024)
 -	Yunghee Lee (Winter 2022)
 -   Yunseok Jeong (Fall 2023)
 -	Hojun Kim (Summer 2023)
