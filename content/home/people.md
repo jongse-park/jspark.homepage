@@ -44,7 +44,6 @@ weight = 40
 -   Namwoo Kim (Winter 2023)
 -   Jiyong Jung (Winter 2023)
 -   Minjun Kang (Winter 2023)
--   Woochang Jeong (Spring 2024)
 -   Woong Gyu Park (Spring 2024)
 -   Aziz Huseynov (Spring 2024)
 -   Raymond Horley (Spring 2024)
@@ -53,6 +52,7 @@ weight = 40
 -	Dohee Kim (Gradudated in Spring 2022)
 
 ##### Alumni (Undergraduate Interns)
+-   Woochang Jeong (Spring 2024)
 -	Yunghee Lee (Winter 2022)
 -   Yunseok Jeong (Fall 2023)
 -	Hojun Kim (Summer 2023)
