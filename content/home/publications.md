@@ -28,7 +28,7 @@ weight = 60
 
 **LLMServingSim: A Simulation Infrastructure for LLM Inference Serving Systems**<br>
 <span style="color:#666666">Jaehong Cho, Minsu Kim, Hyunmin Choi, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">MLArchSys</span>, 2024</em> (To Appear) 
+<em><span style="color:#770001;">Workshop on ML for Computer Architecture and Systems (MLArchSys) in conjunction with ISCA</span>, 2024</em> [<a href="files/paper/2024-mlarchsys-llmservingsim.pdf">Paper</a>] (To Appear)
 
 **LVS: A Learned Video Storage for Fast and Efficient Video Understanding**<br>
 <span style="color:#666666">Yunghee Lee, <u>Jongse Park</u></span><br>
@@ -40,7 +40,7 @@ weight = 60
 
 **Tandem Processor: Grappling with Emerging Operators in Neural Networks**<br>
 <span style="color:#666666">Soroush Ghodrati, Sean Kinzer, Hanyang Xu, Rohan Mahapatra, Yoonsung Kim, Byung Hoon Ahn, Dong Kai Wang, Lavanya Karthikeyan, Amir Yazdanbakhsh, <u>Jongse Park</u>, Nam Sung Kim, Hadi Esmaeilzadeh</span><br>
-<em><span style="color:#770001;">ASPLOS</span>, 2024</em> [<a href="files/paper/2024-asplos-tandem_processor.pdf">Paper</a>] (To Appear)
+<em><span style="color:#770001;">ASPLOS</span>, 2024</em> [<a href="files/paper/2024-asplos-tandem_processor.pdf">Paper</a>] 
 
 **Cerberus: Triple Mode Acceleration of Sparse Matrix and Vector Multiplication**<br>
 <span style="color:#666666">Soojin Hwang, Daehyeon Baek, <u>Jongse Park</u>, Jaehyuk Huh</span><br>
