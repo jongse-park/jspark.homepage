@@ -14,9 +14,9 @@ weight = 60
 
 +++
 
-<!-- **LPU: A Latency-optimized and Highly Scalable Processor for Large Language Model Inference**<br>
+**LPU: A Latency-optimized and Highly Scalable Processor for Large Language Model Inference**<br>
 <span style="color:#666666">Seungjae Moon, Seongmin Hong, Minsu Kim, Dongjin Seo, Jung-Hoon Kim, Ryeowook Ko, Soongyu Choi, Junseo Cha, Junsoo Kim, Sukbin Lim, Hunjong Lee, Hyunjun Park, Gyubin Choi, Jongho Kim, Jinwon Lee, <u>Jongse Park</u>, Joo-Young Kim</span><br>
-<em><span style="color:#770001;">IEEE Micro, </span> special issue on Contemporary Industry Products, 2024</em>  (To Appear) -->
+<em><span style="color:#770001;">IEEE Micro, </span> special issue on Contemporary Industry Products, 2024</em> [Paper] (To Appear) 
 
 **Accelerating String-key Learned Index Structures via Memoization-based Incremental Training**<br>
 <span style="color:#666666">Minsu Kim, Jinwoo Hwang, Guseul Heo, Seiyeon Cho, Divya Mahajan, <u>Jongse Park</u></span><br>
