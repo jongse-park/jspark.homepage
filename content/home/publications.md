@@ -32,7 +32,7 @@ weight = 60
 
 **LVS: A Learned Video Storage for Fast and Efficient Video Understanding**<br>
 <span style="color:#666666">Yunghee Lee, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">CVPR Workshop on Efficient Deep Learning for Computer Vision (ECV)</span>, 2024</em> [<a href="files/paper/2024-ecv-lvs.pdf">Paper</a>] (To Appear)
+<em><span style="color:#770001;">CVPR Workshop on Efficient Deep Learning for Computer Vision (ECV)</span>, 2024</em> [<a href="files/paper/2024-ecv-lvs.pdf">Paper</a>|<a href="files/slide/2024-cvpr_ecv-lvs.pdf">Talk</a>]
 
 **NeuPIMs: NPU-PIM Heterogeneous Acceleration for Batched LLM Inferencing**<br>
 <span style="color:#666666">Guseul Heo, Sangyeop Lee, Jaehong Cho, Hyunmin Choi, Sanghyeon Lee, Hyungkyu Ham, Gwangsun Kim, Divya Mahajan, <u>Jongse Park</u></span><br>
