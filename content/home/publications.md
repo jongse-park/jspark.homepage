@@ -25,6 +25,7 @@ weight = 60
 **DaCapo: Accelerating Continuous Learning in Autonomous Systems for Video Analytics**<br>
 <span style="color:#666666">Yoonsung Kim, Changhun Oh, Jinwoo Hwang, Wonung Kim, Seongryong Oh, Yubin Lee, Hardik Sharma, Amir Yazdanbakhsh, <u>Jongse Park</u></span><br>
 <em><span style="color:#770001;">ISCA</span>, 2024</em> [<a href="files/paper/2024-isca-dacapo.pdf">Paper</a>] (To Appear)
+<strong><em><span style="color:#4F8F01;">Distinguished Artifact Award</span></em></strong>
 
 **LLMServingSim: A Simulation Infrastructure for LLM Inference Serving Systems**<br>
 <span style="color:#666666">Jaehong Cho, Minsu Kim, Hyunmin Choi, <u>Jongse Park</u></span><br>
