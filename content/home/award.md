@@ -14,8 +14,9 @@ weight = 80
 
 +++
 
--	Two ISCA 25-year retrosepctive 1996-2020 inclusions, 2023
-- 	Best paper award, HPCA, 2016
+-   Distinguished Artifact Award, ISCA, 2024
+-	Two ISCA 25-year Retrosepctive 1996-2020 Inclusions, 2023
+- 	Distinguished Paper Award, HPCA, 2016
 -	Honorable Mention in IEEE Micro Top Picks, 2015
 -	Kwanjeong Graduate Fellowship, Kwanjeong Educational Foundation, 2013-2017	
 - 	National Full Scholarship, KAIST, 2010-2012

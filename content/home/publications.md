@@ -24,7 +24,7 @@ weight = 60
 
 **DaCapo: Accelerating Continuous Learning in Autonomous Systems for Video Analytics**<br>
 <span style="color:#666666">Yoonsung Kim, Changhun Oh, Jinwoo Hwang, Wonung Kim, Seongryong Oh, Yubin Lee, Hardik Sharma, Amir Yazdanbakhsh, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">ISCA</span>, 2024</em> [<a href="files/paper/2024-isca-dacapo.pdf">Paper</a>] (To Appear)
+<em><span style="color:#770001;">ISCA</span>, 2024</em> [<a href="files/paper/2024-isca-dacapo.pdf">Paper</a>]<br>
 <strong><em><span style="color:#4F8F01;">Distinguished Artifact Award</span></em></strong>
 
 **LLMServingSim: A Simulation Infrastructure for LLM Inference Serving Systems**<br>
@@ -140,7 +140,7 @@ weight = 60
 **Tabla: A Unified Template-based Framework for Accelerating Statistical Machine Learning**   
 <span style="color:#666666">Divya Mahajan, <u>Jongse Park</u>, Emmanuel Amaro, Hardik Sharma, Amir Yazdanbaksh, Joon Kyung Kim, and Hadi Esmaeilzadeh</span>   
 <em><span style="color:#770001;">HPCA</span>, 2016</em> [<a href="files/paper/2016-hpca-tabla.pdf">Paper</a>|<a href="files/slide/2016-hpca-tabla.pdf">Talk</a>]<br>
-<strong><em><span style="color:#4F8F01;">Best Paper Award</span></em></strong>
+<strong><em><span style="color:#4F8F01;">Distinguished Paper Award</span></em></strong>
 
 **FlexJava: Language Support for Safe and Modular Approximate Programming**   
 <span style="color:#666666"><u>Jongse Park</u>, Hadi Esmaeilzadeh, Xin Zhang, Mayur Naik, William Harris</span>   
