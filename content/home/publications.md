@@ -27,9 +27,11 @@ weight = 60
 <em><span style="color:#770001;">ISCA</span>, 2024</em> [<a href="files/paper/2024-isca-dacapo.pdf">Paper</a>]<br>
 <strong><em><span style="color:#4F8F01;">Distinguished Artifact Award</span></em></strong>
 
+<!--
 **LLMServingSim: A Simulation Infrastructure for LLM Inference Serving Systems**<br>
 <span style="color:#666666">Jaehong Cho, Minsu Kim, Hyunmin Choi, <u>Jongse Park</u></span><br>
 <em><span style="color:#770001;">ISCA Workshop on ML for Computer Architecture and Systems (MLArchSys)</span>, 2024</em> [<a href="files/paper/2024-mlarchsys-llmservingsim.pdf">Paper</a>] (To Appear)
+-->
 
 **LVS: A Learned Video Storage for Fast and Efficient Video Understanding**<br>
 <span style="color:#666666">Yunghee Lee, <u>Jongse Park</u></span><br>
