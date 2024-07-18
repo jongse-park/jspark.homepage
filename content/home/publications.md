@@ -14,7 +14,7 @@ weight = 60
 
 +++
 
-**LLMServingSim: A HW/SW Co-Simulation Infrastructure for LLM Inference Serving Systems at Scale**<br>
+**LLMServingSim: A HW/SW Co-Simulation Infrastructure for LLM Inference Serving at Scale**<br>
 <span style="color:#666666">Jaehong Cho, Minsu Kim, Hyunmin Choi, Guseul Heo, <u>Jongse Park</u></span><br>
 <em><span style="color:#770001;">IISWC</span>, 2024</em> [Paper] (To Appear)
 
