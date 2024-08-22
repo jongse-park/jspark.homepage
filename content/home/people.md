@@ -29,23 +29,27 @@ weight = 40
 -	<a href="https://kms040411.github.io/">Minsu Kim</a> 
 -	<a href="https://sites.google.com/view/guseul-heo/">Guseul Heo</a>
 -	<a href="https://milchstra3e.github.io">Changhun Oh</a>
-
-#####	M.S. Students	
 - 	<a href="https://kimdaeun00.github.io">Daeun Kim</a>
 -	<a href="https://sangyeop-lee.github.io">Sangyeop Lee</a>
+
+#####	M.S. Students	
 -   <a href="https://waneon.me/">Wonung Kim</a>
 -	<a href="https://seongryong0726.github.io/">Seongryong Oh</a> 
 -	<a href="http://yblee.site/">Yubin Lee</a> 
 - 	<a href="https://jaehongcs20.github.io/">Jaehong Cho</a> 
 - 	<a href="https://hyuenmin-choi.github.io/">Hyunmin Choi</a> 
+-   <a href="">Namwoo Kim</a>
+-   <a href="">Jiyong Jung</a>
+-   <a href="">Yeongmin Hwang</a>
 
 ##### Undergraduate Students
--   Yeongmin Hwang (Winter 2023)
--   Jiyong Jung (Winter 2023)
--   Namwoo Kim (Winter 2023)
 -   Minjun Kang (Winter 2023)
 -   Aziz Huseynov (Spring 2024)
 -   Woong Gyu Park (Spring 2024)
+-	Yongwon Park (Fall 2024)
+-	Wonjun Jang (Fall 2024)
+-	Tadiwos Meaza (Fall 2024)
+-	Le Manh Khuong (Fall 2024)
 
 ##### Alumni (M.S.)
 -	Dohee Kim (Gradudated in Spring 2022)
