@@ -21,12 +21,12 @@ Systems**<br>
 
 **LLMServingSim: A HW/SW Co-Simulation Infrastructure for LLM Inference Serving at Scale**<br>
 <span style="color:#666666">Jaehong Cho, Minsu Kim, Hyunmin Choi, Guseul Heo, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">IISWC</span>, 2024</em> [<a href="files/paper/2024-iiswc-llmservingsim.pdf">Paper</a] (To Appear) <br>
+<em><span style="color:#770001;">IISWC</span>, 2024</em> [<a href="files/paper/2024-iiswc-llmservingsim.pdf">Paper</a>|Talk] (To Appear) <br>
 <strong><em><span style="color:#4F8F01;">Best Paper Nominee</span></em></strong>
 
 **Accelerating String-key Learned Index Structures via Memoization-based Incremental Training**<br>
 <span style="color:#666666">Minsu Kim, Jinwoo Hwang, Guseul Heo, Seiyeon Cho, Divya Mahajan, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">VLDB</span>, 2024</em> [<a href="files/paper/2024-vldb-sia.pdf">Paper</a>] (To Appear)
+<em><span style="color:#770001;">VLDB</span>, 2024</em> [<a href="files/paper/2024-vldb-sia.pdf">Paper</a>|Talk] (To Appear)
 
 **LPU: A Latency-optimized and Highly Scalable Processor for Large Language Model Inference**<br>
 <span style="color:#666666">Seungjae Moon, Jung-Hoon Kim, Junsoo Kim, Seongmin Hong, Junseo Cha, Minsu Kim, Sukbin Lim, Gyubin Choi, Dongjin Seo, Jongho Kim, Hunjong Lee, Hyunjun Park, Ryeowook Ko, Soongyu Choi, <u>Jongse Park</u>, Jinwon Lee, Joo-Young Kim</span><br>
@@ -39,7 +39,7 @@ Systems**<br>
 
 **LLMServingSim: A Simulation Infrastructure for LLM Inference Serving Systems**<br>
 <span style="color:#666666">Jaehong Cho, Minsu Kim, Hyunmin Choi, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">ISCA Workshop on ML for Computer Architecture and Systems (MLArchSys)</span>, 2024</em> [<a href="files/paper/2024-mlarchsys-llmservingsim.pdf">Paper</a>|Talk] 
+<em><span style="color:#770001;">ISCA Workshop on ML for Computer Architecture and Systems (MLArchSys)</span>, 2024</em> [<a href="files/paper/2024-mlarchsys-llmservingsim.pdf">Paper</a>|<a href="files/slide/2024-mlarchsys-llmservingsim.pdf">Talk</a>] 
 
 **LVS: A Learned Video Storage for Fast and Efficient Video Understanding**<br>
 <span style="color:#666666">Yunghee Lee, <u>Jongse Park</u></span><br>
