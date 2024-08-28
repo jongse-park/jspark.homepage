@@ -26,7 +26,7 @@ Systems**<br>
 
 **Accelerating String-key Learned Index Structures via Memoization-based Incremental Training**<br>
 <span style="color:#666666">Minsu Kim, Jinwoo Hwang, Guseul Heo, Seiyeon Cho, Divya Mahajan, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">VLDB</span>, 2024</em> [<a href="files/paper/2024-vldb-sia.pdf">Paper</a>|Talk] (To Appear)
+<em><span style="color:#770001;">VLDB</span>, 2024</em> [<a href="files/paper/2024-vldb-sia.pdf">Paper</a>|<a href="files/slide/2024-vldb-sia.pdf">Talk</a>] 
 
 **LPU: A Latency-optimized and Highly Scalable Processor for Large Language Model Inference**<br>
 <span style="color:#666666">Seungjae Moon, Jung-Hoon Kim, Junsoo Kim, Seongmin Hong, Junseo Cha, Minsu Kim, Sukbin Lim, Gyubin Choi, Dongjin Seo, Jongho Kim, Hunjong Lee, Hyunjun Park, Ryeowook Ko, Soongyu Choi, <u>Jongse Park</u>, Jinwon Lee, Joo-Young Kim</span><br>
