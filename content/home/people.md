@@ -12,15 +12,6 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 40
 
-# Joohyun Lee
-# Jaesuh Lee
-# Dongwoo Moon
-# Jungwoo Son
-# Jungha Seo
-# Gunwoo Park
-# Sanghyuk Ahn
-# Yoojin Seo
-
 +++
 
 #####	Ph.D. Students	
@@ -38,9 +29,9 @@ weight = 40
 -	<a href="http://yblee.site/">Yubin Lee</a> 
 - 	<a href="https://jaehongcs20.github.io/">Jaehong Cho</a> 
 - 	<a href="https://hyuenmin-choi.github.io/">Hyunmin Choi</a> 
--   <a href="">Namwoo Kim</a>
--   <a href="">Jiyong Jung</a>
--   <a href="">Yeongmin Hwang</a>
+-   <a href="https://tr2-k.github.io/">Namwoo Kim</a>
+-   <a href="https://jiyong-j.github.io/">Jiyong Jung</a>
+-   <a href="https://hymin13.github.io/about.html">Yeongmin Hwang</a>
 
 ##### Undergraduate Students
 -   Minjun Kang (Winter 2023)
@@ -49,7 +40,6 @@ weight = 40
 -	Yongwon Park (Fall 2024)
 -	Wonjun Jang (Fall 2024)
 -	Tadiwos Meaza (Fall 2024)
--	Le Manh Khuong (Fall 2024)
 
 ##### Alumni (M.S.)
 -	Dohee Kim (Gradudated in Spring 2022)
