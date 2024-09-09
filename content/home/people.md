@@ -40,6 +40,7 @@ weight = 40
 -	Yongwon Park (Fall 2024)
 -	Wonjun Jang (Fall 2024)
 -	Tadiwos Meaza (Fall 2024)
+-	Jihwan Oh (Fall 2024)
 
 ##### Alumni (M.S.)
 -	Dohee Kim (Gradudated in Spring 2022)
