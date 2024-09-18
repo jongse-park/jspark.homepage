@@ -22,7 +22,6 @@ Systems**<br>
 **LLMServingSim: A HW/SW Co-Simulation Infrastructure for LLM Inference Serving at Scale**<br>
 <span style="color:#666666">Jaehong Cho, Minsu Kim, Hyunmin Choi, Guseul Heo, <u>Jongse Park</u></span><br>
 <em><span style="color:#770001;">IISWC</span>, 2024</em> [<a href="files/paper/2024-iiswc-llmservingsim.pdf">Paper</a>|<a href="files/paper/2024-iiswc-llmservingsim.pdf">Talk</a>|<a href="https://github.com/casys-kaist/LLMServingSim">Code</a>] <br>
-<!--<img src="files/icon/award.png" alt="icon" style="width: 16px; height: 16px; vertical-align: middle;">-->
 <strong><em><span style="color:#4F8F01;"><b>Best Paper Award and Distinguished Artifact Award</b></span></em></strong> <br>
 
 **Accelerating String-key Learned Index Structures via Memoization-based Incremental Training**<br>
