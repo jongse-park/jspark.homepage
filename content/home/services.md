@@ -14,7 +14,7 @@ weight = 100
 
 +++
 ##### Program Committee
-- ISCA 2021/2023/2024
+- ISCA 2021/2023/2024/2025
 - ASPLOS 2025
 - HPCA 2023/2025
 - DAC 2021/2022/2023
