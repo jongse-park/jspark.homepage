@@ -15,6 +15,7 @@ weight = 70
 +++
 
 #####	Courses	
+-	CS230: System Programming (Fall 2024) 
 -   CS610: Parallel Processing (Spring 2024)
 -   CS311: Computer Organization (Spring 2024)
 -   CS411: System for AI (Fall 2023)
