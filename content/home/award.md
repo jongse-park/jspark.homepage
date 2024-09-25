@@ -14,7 +14,7 @@ weight = 80
 
 +++
 
--	Best Paper Award & Distinguished Artifact Award, IISWC, 2024
+-	Best Paper Award &amp; Distinguished Artifact Award, IISWC, 20244
 -   Distinguished Artifact Award, ISCA, 2024
 -	Two ISCA 25-year Retrosepctive 1996-2020 Inclusions, 2023
 - 	Distinguished Paper Award, HPCA, 2016
