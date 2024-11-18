@@ -42,6 +42,8 @@ weight = 40
 -	Wonjun Jang (Fall 2024)
 -	Tadiwos Meaza (Fall 2024)
 -	Jihwan Oh (Fall 2024)
+-	Jeongmin Oh (Winter 2024)
+-	Hyeonbin Bae (Winter 2024)
 
 ##### Alumni (M.S.)
 -	Dohee Kim (Gradudated in Spring 2022)
