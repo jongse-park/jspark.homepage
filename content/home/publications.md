@@ -16,7 +16,7 @@ weight = 60
 
 **ONNXim: A Fast, Cycle-level Multi-core NPU Simulator**<br>
 <span style="color:#666666">Hyungkyu Ham*, Wonhyuk Yang*, Yunseon Shin, Okkyun Woo, Guseul Heo, Sangyeop Lee, <u>Jongse Park</u>, Gwangsun Kim</span><br>
-<em><span style="color:#770001;">IEEE Computer Architecture Letters (CAL)</span>, 2024</em> [Paper] (To Appear)
+<em><span style="color:#770001;">IEEE Computer Architecture Letters (CAL)</span>, 2024</em> [Paper]
 
 **Interference-Aware DNN Serving on Heterogeneous Processors in Edge
 Systems**<br>
