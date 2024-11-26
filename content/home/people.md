@@ -45,6 +45,7 @@ weight = 40
 -	Jeongmin Oh (Winter 2024)
 -	Hyeonbin Bae (Winter 2024)
 -	Yoonhyeong Lee (Winter 2024)
+- 	Yeongwook Kim (Winter 2024)
 
 ##### Alumni (M.S.)
 -	Dohee Kim (Gradudated in Spring 2022)
