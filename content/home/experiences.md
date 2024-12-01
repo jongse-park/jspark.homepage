@@ -16,8 +16,8 @@ weight = 40
 
 #####	Professor	
 -	Jan. 2025 - present: Visiting Professor, <a href="https://ppl.stanford.edu/">Pervasive Parallelism Lab</a>, Stanford University
--	Mar. 2024 - present: Associate Professor, CASys Lab, SoC, KAIST
--	Dec. 2019 - Feb. 2024: Assistant Professor, CASys Lab, SoC, KAIST
+-	Mar. 2024 - present: Associate Professor, CASYS Lab, SoC, KAIST
+-	Dec. 2019 - Feb. 2024: Assistant Professor, CASYS Lab, SoC, KAIST
 
 #####	Engineer
 -	Aug. 2018 - Nov. 2019: Acceleration Solution Architect, Bigstream Solution, Inc.
