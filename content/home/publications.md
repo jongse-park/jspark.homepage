@@ -89,6 +89,9 @@ Systems**<br>
 <span style="color:#666666">Seonho Lee, Ranggi Hwang, <u>Jongse Park</u>, and Minsoo Rhu</span><br>
 <em><span style="color:#770001;">IEEE Computer Architecture Letters (CAL)</span>, 2023</em> [<a href="files/paper/2023-cal-hammer.pdf">Paper</a>]
 
+**2022**  
+---
+
 **Tunable Memory Protection for Secure Neural Processing Units**<br>
 <span style="color:#666666">Sunho Lee, Seonjin Na, Jungwoo Kim, <u>Jongse Park</u>, and Jaehyuk Huh</span><br>
 <em><span style="color:#770001;">ICCD</span>, 2022</em> [<a href="files/paper/2022-iccd-snpu.pdf">Paper</a>]
@@ -113,6 +116,9 @@ Systems**<br>
 <span style="color:#666666">Sunho Lee, Jungwoo Kim, Seonjin Na, <u>Jongse Park</u>, and Jaehyuk Huh</span><br>
 <em><span style="color:#770001;">HPCA</span>, 2022</em> [<a href="files/paper/2022-hpca-tnpu.pdf">Paper</a>|<a href="files/slide/2022-hpca-tnpu.pdf">Talk</a>]
 
+**2021**  
+---
+
 **SLO-aware Inference Scheduler for Heterogeneous Processors in Edge Platforms**<br>
 <span style="color:#666666">Wonik Seo, Sanghoon Cha, Yeonjae Kim, Jaehyuk Huh, and <u>Jongse Park</u></span><br>
 <em><span style="color:#770001;">TACO</span>, 2021</em> [<a href="files/paper/2021-taco-edgeduler.pdf">Paper</a>]
@@ -121,9 +127,15 @@ Systems**<br>
 <span style="color:#666666">Seonjin Na, Sunho Lee, Yeonjae Kim, <u>Jongse Park</u>, and Jaehyuk Huh</span>   
 <em><span style="color:#770001;">HPCA</span>, 2021</em> [<a href="files/paper/2021-hpca-commonctr.pdf">Paper</a>|<a href="files/slide/2021-hpca-commoncounters.pdf">Talk</a>]
 
+**2020**  
+---
+
 **Mixed-Signal Charge-Domain Acceleration of Deep Neural Networks through Interleaved Bit-Partitioned Arithmetic**      
 <span style="color:#666666">Soroush Ghodrati, Hardik Sharma, Sean Kinzer, Amir Yazdanbakhsh, <u>Jongse Park</u>, Nam Sung Kim, Doug Burger, and Hadi Esmaeilzadeh</span>   
 <em><span style="color:#770001;">PACT</span>, 2020</em> [<a href="files/paper/2020-pact-bihiwe.pdf">Paper</a>|<a href="files/slide/2020-pact-bihiwe.pdf">Talk</a>] 
+
+**2018 or earlier**  
+---
 
 **A Network-Centric Hardware/Algorithm Co-Design to Accelerate Distributed Training of Deep Neural Networks**      
 <span style="color:#666666">Youjie Li, <u>Jongse Park</u>, Mohammad Alian, Yifan Yuan, Zheng Qu, Peitian Pan, Ren Wang, Alexander Gerhard Schwing, Hadi Esmaeilzadeh, and Nam Sung Kim</span>   
