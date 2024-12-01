@@ -15,6 +15,7 @@ weight = 40
 +++
 
 #####	Professor	
+-	Jan. 2025 - Jan. 2026: Visiting Associate Professor, Pervasive Parallelism Lab, Stanford University
 -	Mar. 2024 - present: Associate Professor, CASys Lab, SoC, KAIST
 -	Dec. 2019 - Feb. 2024: Assistant Professor, CASys Lab, SoC, KAIST
 
