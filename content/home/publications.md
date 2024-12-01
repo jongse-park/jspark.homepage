@@ -162,6 +162,8 @@ Systems**<br>
 <span style="color:#666666"><u>Jongse Park</u>, Daewoo Lee, Bokyeong Kim, Jaehyuk Huh, and Seungryoul Maeng</span>   
 <em><span style="color:#770001;">HPDC</span>, 2012</em>  [<a href="files/paper/2012-hpdc-drr.pdf">Paper</a>|<a href="files/slide/2012-hpdc-drr.pdf">Talk</a>]
 
+<br>
+
 ## **Journal**    
 ---
 
@@ -212,6 +214,8 @@ Systems**<br>
 **Axilog: Abstractions for Approximate Hardware Design and Reuse**   
 <span style="color:#666666">Divya Mahajan,  Kartik Ramkrishnan, Rudra Jariwala, Amir Yazdanbakhsh, <u>Jongse Park</u>, Bradley Thwaites, Anandhavel Nagendrakumar, Abbas Rahimi, Hadi Esmaeilzadeh, and Kia Bazargan</span>   
 <em><span style="color:#770001;">IEEE Micro, </span>, special issue on Alternative Computing Designs and Technologies, 2015</em>  [<a href="files/paper/2015-ieee_micro-axilog.pdf">Paper</a>]
+
+<br>
 
 ## **Workshop**    
 ---
