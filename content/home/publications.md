@@ -41,7 +41,7 @@ Systems**<br>
 
 **NeuPIMs: NPU-PIM Heterogeneous Acceleration for Batched LLM Inferencing**<br>
 <span style="color:#666666">Guseul Heo, Sangyeop Lee, Jaehong Cho, Hyunmin Choi, Sanghyeon Lee, Hyungkyu Ham, Gwangsun Kim, Divya Mahajan, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">ASPLOS</span>, 2024</em> [<a href="files/paper/2024-asplos-neupims.pdf" style="color: #1D90FF;">Paper</a>|<a href="files/slide/2024-asplos-neupims-main.pdf" style="color: #FF8C00;">Talk</a>|<a href="files/slide/2024-asplos-neupims-lightening.pdf">Lightening</a>|<a href="https://github.com/casys-kaist/NeuPIMs" style="color: #009193;">Code</a>] 
+<em><span style="color:#770001;">ASPLOS</span>, 2024</em> [<a href="files/paper/2024-asplos-neupims.pdf" style="color: #1D90FF;">Paper</a>|<a href="files/slide/2024-asplos-neupims-main.pdf" style="color: #FF8C00;">Talk</a>|<a href="files/slide/2024-asplos-neupims-lightening.pdf" style="color: #FF8C00;">Lightening</a>|<a href="https://github.com/casys-kaist/NeuPIMs" style="color: #009193;">Code</a>] 
 
 **Tandem Processor: Grappling with Emerging Operators in Neural Networks**<br>
 <span style="color:#666666">Soroush Ghodrati, Sean Kinzer, Hanyang Xu, Rohan Mahapatra, Yoonsung Kim, Byung Hoon Ahn, Dong Kai Wang, Lavanya Karthikeyan, Amir Yazdanbakhsh, <u>Jongse Park</u>, Nam Sung Kim, Hadi Esmaeilzadeh</span><br>
@@ -106,7 +106,7 @@ Systems**<br>
 
 **From Tensors to FPGAs: Accelerating Deep Learning**   
 <span style="color:#666666">Hardik Sharma, <u>Jongse Park</u>, Balavinayagam Samynathan, Behnam Robatmili, Shahrzad Mirkhani, and Hadi Esmaeilzadeh</span>   
-<em><span style="color:#770001;">HotChips</span>, 2018</em>  [<a href="files/paper/2018-hotchips-dnnweaver2.pdf" style="color: #1D90FF;">Paper</a>|<a href="files/poster/2018-hotchips-dnnweaver2.pdf">Poster</a>|<a href="https://www.youtube.com/watch?v=T7s6oMfjpBw">Demo1</a>|<a href="https://www.youtube.com/watch?v=N7vEn54Za-w">Demo2</a>]
+<em><span style="color:#770001;">HotChips</span>, 2018</em>  [<a href="files/paper/2018-hotchips-dnnweaver2.pdf" style="color: #1D90FF;">Paper</a>|<a href="files/poster/2018-hotchips-dnnweaver2.pdf" style="color: #FF8C00;">Poster</a>|<a href="https://www.youtube.com/watch?v=T7s6oMfjpBw" style="color: #FF8C00;">Demo1</a>|<a href="https://www.youtube.com/watch?v=N7vEn54Za-w" style="color: #FF8C00;">Demo2</a>]
 
 **Bit Fusion: Bit-Level Dynamically Composable Architecture for Accelerating Deep Neural Networks**   
 <span style="color:#666666">Hardik Sharma, <u>Jongse Park</u>, Naveen Suda, Liangzhen Lai, Benson Chau, Vikas Chandra, Hadi Esmaeilzadeh</span>   
@@ -114,11 +114,11 @@ Systems**<br>
 
 **Scale-Out Acceleration for Machine Learning**   
 <span style="color:#666666"><u>Jongse Park</u>, Hardik Sharma, Divya Mahajan, Joon Kyung Kim, Preston Olds, and Hadi Esmaeilzadeh</span>   
-<em><span style="color:#770001;">MICRO</span>, 2017</em>  [<a href="files/paper/2017-micro-cosmic.pdf" style="color: #1D90FF;">Paper</a>|<a href="files/slide/2017-micro-cosmic-main.pdf" style="color: #FF8C00;">Talk</a>|<a href="files/slide/2017-micro-cosmic-light.pdf">Lightening</a>]
+<em><span style="color:#770001;">MICRO</span>, 2017</em>  [<a href="files/paper/2017-micro-cosmic.pdf" style="color: #1D90FF;">Paper</a>|<a href="files/slide/2017-micro-cosmic-main.pdf" style="color: #FF8C00;">Talk</a>|<a href="files/slide/2017-micro-cosmic-light.pdf" style="color: #FF8C00;">Lightening</a>]
 
 **AxGames: Towards Crowdsourcing Quality Target Determination in Approximate Computing**   
 <span style="color:#666666"><u>Jongse Park</u>, Divya Mahajan, Bradley Thwaites, Emmanuel Amaro, and Hadi Esmaeilzadeh </span>   
-<em><span style="color:#770001;">ASPLOS</span>, 2016</em>  [<a href="files/paper/2016-asplos-axgames.pdf" style="color: #1D90FF;">Paper</a>|<a href="files/slide/2016-asplos-axgames-main.pdf" style="color: #FF8C00;">Talk</a>|<a href="files/slide/2016-asplos-axgames-light.pdf">Lightening</a>]
+<em><span style="color:#770001;">ASPLOS</span>, 2016</em>  [<a href="files/paper/2016-asplos-axgames.pdf" style="color: #1D90FF;">Paper</a>|<a href="files/slide/2016-asplos-axgames-main.pdf" style="color: #FF8C00;">Talk</a>|<a href="files/slide/2016-asplos-axgames-light.pdf" style="color: #FF8C00;">Lightening</a>]
 
 **From High-Level Deep Neural Models to FPGAs**   
 <span style="color:#666666">Hardik Sharma, <u>Jongse Park</u>, Divya Mahajan, Emmanuel Amaro, Joon Kyung Kim, Chenkai Shao, Asit Mishra, and Hadi Esmaeilzadeh</span>   
@@ -135,7 +135,7 @@ Systems**<br>
 
 **FlexJava: Language Support for Safe and Modular Approximate Programming**   
 <span style="color:#666666"><u>Jongse Park</u>, Hadi Esmaeilzadeh, Xin Zhang, Mayur Naik, William Harris</span>   
-<em><span style="color:#770001;">FSE</span>, 2015</em>  [<a href="files/paper/2015-fse-flexjava.pdf" style="color: #1D90FF;">Paper</a>|<a href="files/slide/2015-fse-flexjava.pdf" style="color: #FF8C00;">Talk</a>|<a href="https://jongse-park.github.io/files/flexjava/flexjava.html">Artifact</a>]
+<em><span style="color:#770001;">FSE</span>, 2015</em>  [<a href="files/paper/2015-fse-flexjava.pdf" style="color: #1D90FF;">Paper</a>|<a href="files/slide/2015-fse-flexjava.pdf" style="color: #FF8C00;">Talk</a>|<a href="https://jongse-park.github.io/files/flexjava/flexjava.html" style="color: #9437FF;">Artifact</a>]
 
 **Neural Acceleration for GPU Throughput Processors**   
 <span style="color:#666666">Amir Yazdanbakhsh, <u>Jongse Park</u>, Hardik Sharma, Pejman Lofti-Kamran, and Hadi Esmaeilzadeh</span>   
