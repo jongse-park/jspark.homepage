@@ -21,7 +21,6 @@ organizations:
 bio:  
 
 interests:
-- <i>Computer Systems and Architecture</i>
 - <i>Architecture and Systems for Generative AI</i>
 - <i>Processing-in-Memory (PIM) Accelerated Systems</i>
 - <i>Acceleration of Autonomous Systems</i>
