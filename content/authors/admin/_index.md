@@ -21,10 +21,11 @@ organizations:
 bio:  
 
 interests:
-- <i>Accelerated Systems for Generative AI</i>
-- <i>Accelerated Systems for Autonomous Machines</i>
-- <i>Accelerated Systems for AR/VR</i>
+- <i>Computer Systems and Architecture</i>
+- <i>Architecture and Systems for Generative AI</i>
 - <i>Processing-in-Memory (PIM) Accelerated Systems</i>
+- <i>Acceleration of Autonomous Systems</i>
+- <i>On-Device AI Systems for AR/VR</i>
 
 education:
   courses:
