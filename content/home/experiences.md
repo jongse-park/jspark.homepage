@@ -15,10 +15,10 @@ weight = 40
 +++
 
 #####	Professor	
-##### 	KAIST
+**KAIST**
 -	Mar. 2024 - present: Associate Professor, CASYS Lab, School of Computing
 -	Dec. 2019 - Feb. 2024: Assistant Professor, CASYS Lab, School of Computing
-#####	Stanford University
+**Stanford University**
 -	Jan. 2025 - Jan. 2026: Visiting Professor, Pervasive Parallelism Lab
 
 #####	Engineer
