@@ -23,41 +23,41 @@ weight = 60
 **Interference-Aware DNN Serving on Heterogeneous Processors in Edge
 Systems**<br>
 <span style="color:#666666">Yeonjae Kim, Igjae Kim, Kwanghoon Choi, Jeongseob Ahn, <u>Jongse Park</u>, Jaehyuk Huh</span><br>
-<em><span style="color:#770001;">ICCD</span>, 2024</em> [<a href="files/paper/2024-iccd-interference.pdf" style="color: #228B22;">Paper</a>] 
+<em><span style="color:#770001;">ICCD</span>, 2024</em> [<a href="files/paper/2024-iccd-interference.pdf" style="color: #1B3460;">Paper</a>] 
 
 **LLMServingSim: A HW/SW Co-Simulation Infrastructure for LLM Inference Serving at Scale**<br>
 <span style="color:#666666">Jaehong Cho, Minsu Kim, Hyunmin Choi, Guseul Heo, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">IISWC</span>, 2024</em> [<a href="files/paper/2024-iiswc-llmservingsim.pdf">Paper</a>|<a href="files/paper/2024-iiswc-llmservingsim.pdf">Talk</a>|<a href="https://github.com/casys-kaist/LLMServingSim">Code</a>] <br>
+<em><span style="color:#770001;">IISWC</span>, 2024</em> [<a href="files/paper/2024-iiswc-llmservingsim.pdf"  style="color: #1B3460;">Paper</a>|<a href="files/paper/2024-iiswc-llmservingsim.pdf">Talk</a>|<a href="https://github.com/casys-kaist/LLMServingSim">Code</a>] <br>
 <strong><em><span style="color:#4F8F01;"><b>Best Paper Award &amp; Distinguished Artifact Award</b></span></em></strong> <br>
 
 **Accelerating String-key Learned Index Structures via Memoization-based Incremental Training**<br>
 <span style="color:#666666">Minsu Kim, Jinwoo Hwang, Guseul Heo, Seiyeon Cho, Divya Mahajan, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">VLDB</span>, 2024</em> [<a href="files/paper/2024-vldb-sia.pdf">Paper</a>|<a href="files/slide/2024-vldb-sia.pdf">Talk</a>|<a href="https://github.com/casys-kaist/sia">Code</a>] 
+<em><span style="color:#770001;">VLDB</span>, 2024</em> [<a href="files/paper/2024-vldb-sia.pdf" style="color: #1B3460;">Paper</a>|<a href="files/slide/2024-vldb-sia.pdf">Talk</a>|<a href="https://github.com/casys-kaist/sia">Code</a>] 
 
 **DaCapo: Accelerating Continuous Learning in Autonomous Systems for Video Analytics**<br>
 <span style="color:#666666">Yoonsung Kim, Changhun Oh, Jinwoo Hwang, Wonung Kim, Seongryong Oh, Yubin Lee, Hardik Sharma, Amir Yazdanbakhsh, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">ISCA</span>, 2024</em> [<a href="files/paper/2024-isca-dacapo.pdf">Paper</a>|<a href="files/slide/2024-isca-dacapo.pdf">Talk</a>|<a href="https://github.com/casys-kaist/DaCapo">Code</a>]<br>
+<em><span style="color:#770001;">ISCA</span>, 2024</em> [<a href="files/paper/2024-isca-dacapo.pdf" style="color: #1B3460;">Paper</a>|<a href="files/slide/2024-isca-dacapo.pdf">Talk</a>|<a href="https://github.com/casys-kaist/DaCapo">Code</a>]<br>
 <strong><em><span style="color:#4F8F01;">Distinguished Artifact Award</span></em></strong>
 
 **NeuPIMs: NPU-PIM Heterogeneous Acceleration for Batched LLM Inferencing**<br>
 <span style="color:#666666">Guseul Heo, Sangyeop Lee, Jaehong Cho, Hyunmin Choi, Sanghyeon Lee, Hyungkyu Ham, Gwangsun Kim, Divya Mahajan, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">ASPLOS</span>, 2024</em> [<a href="files/paper/2024-asplos-neupims.pdf">Paper</a>|<a href="files/slide/2024-asplos-neupims-main.pdf">Talk</a>|<a href="files/slide/2024-asplos-neupims-lightening.pdf">Lightening</a>|<a href="https://github.com/casys-kaist/NeuPIMs">Code</a>] 
+<em><span style="color:#770001;">ASPLOS</span>, 2024</em> [<a href="files/paper/2024-asplos-neupims.pdf" style="color: #1B3460;">Paper</a>|<a href="files/slide/2024-asplos-neupims-main.pdf">Talk</a>|<a href="files/slide/2024-asplos-neupims-lightening.pdf">Lightening</a>|<a href="https://github.com/casys-kaist/NeuPIMs">Code</a>] 
 
 **Tandem Processor: Grappling with Emerging Operators in Neural Networks**<br>
 <span style="color:#666666">Soroush Ghodrati, Sean Kinzer, Hanyang Xu, Rohan Mahapatra, Yoonsung Kim, Byung Hoon Ahn, Dong Kai Wang, Lavanya Karthikeyan, Amir Yazdanbakhsh, <u>Jongse Park</u>, Nam Sung Kim, Hadi Esmaeilzadeh</span><br>
-<em><span style="color:#770001;">ASPLOS</span>, 2024</em> [<a href="files/paper/2024-asplos-tandem_processor.pdf">Paper</a>] 
+<em><span style="color:#770001;">ASPLOS</span>, 2024</em> [<a href="files/paper/2024-asplos-tandem_processor.pdf" style="color: #1B3460;">Paper</a>] 
 
 <span style="font-size: 0.8em;">2023</span>  
 ---
 
 **Bit Fusion: Bit-Level Dynamically Composable Architecture for Accelerating Deep Neural Network**<br>
 <span style="color:#666666">Hardik Sharma, <u>Jongse Park</u>, Naveen Suda, Liangzhen Lai, Benson Chau, Vikas Chandra, Hadi Esmaeilzadeh</span>   
-<em><span style="color:#770001;">ISCA</span>, 2023</em>  [<a href="files/paper/2023-isca_retrospective-bitfusion.pdf">Retrospective</a>]<br>
+<em><span style="color:#770001;">ISCA</span>, 2023</em>  [<a href="files/paper/2023-isca_retrospective-bitfusion.pdf" style="color: #1B3460;">Retrospective</a>]<br>
 <strong><em><span style="color:#4F8F01;">Selected for Inclusion in ISCA 25-year Retrospective 1996-2020</span></em></strong>
 
 **General-Purpose Code Acceleration with Limited-Precision Analog Computation**<br>
 <span style="color:#666666">Ren&eacute;e St. Amant, Amir Yazdanbakhsh, <u>Jongse Park</u>, Bradley Thwaites, Hadi Esmaeilzadeh, Arjang Hassibi, Luis Ceze, and Doug Burger</span>  
-<em><span style="color:#770001;">ISCA</span>, 2023</em>  [<a href="files/paper/2023-isca_retrospective-anpu.pdf">Retrospective</a>]<br>
+<em><span style="color:#770001;" style="color: #1B3460;">ISCA</span>, 2023</em>  [<a href="files/paper/2023-isca_retrospective-anpu.pdf">Retrospective</a>]<br>
 <strong><em><span style="color:#4F8F01;">Selected for Inclusion in ISCA 25-year Retrospective 1996-2020</span></em></strong>
 
 <span style="font-size: 0.8em;">2022</span>  
@@ -65,23 +65,23 @@ Systems**<br>
 
 **Tunable Memory Protection for Secure Neural Processing Units**<br>
 <span style="color:#666666">Sunho Lee, Seonjin Na, Jungwoo Kim, <u>Jongse Park</u>, and Jaehyuk Huh</span><br>
-<em><span style="color:#770001;">ICCD</span>, 2022</em> [<a href="files/paper/2022-iccd-snpu.pdf">Paper</a>]
+<em><span style="color:#770001;" style="color: #1B3460;">ICCD</span>, 2022</em> [<a href="files/paper/2022-iccd-snpu.pdf">Paper</a>]
 
 **Supporting Dynamic Translation Granularity for Hybrid Memory Systems**<br>
 <span style="color:#666666">Bokyeong Kim, Soojin Hwang, Sanghoon Cha, Chang Hyun Park, <u>Jongse Park</u>, and Jaehyuk Huh</span><br>
-<em><span style="color:#770001;">ICCD</span>, 2022</em> [<a href="files/paper/2022-iccd-decoupled.pdf">Paper</a>]
+<em><span style="color:#770001;" style="color: #1B3460;">ICCD</span>, 2022</em> [<a href="files/paper/2022-iccd-decoupled.pdf">Paper</a>]
 
 **CoVA: Exploiting Compressed-Domain Analysis to Accelerate Video Analytics**<br>
 <span style="color:#666666">Jinwoo Hwang, Minsu Kim, Daeun Kim, Seungho Nam, Yoonsung Kim, Dohee Kim, Hardik Sharma, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">USENIX ATC</span>, 2022</em> [<a href="files/paper/2022-atc-cova.pdf">Paper</a>|<a href="files/slide/2022-atc-cova.pdf">Talk</a>]
+<em><span style="color:#770001;" style="color: #1B3460;">USENIX ATC</span>, 2022</em> [<a href="files/paper/2022-atc-cova.pdf">Paper</a>|<a href="files/slide/2022-atc-cova.pdf">Talk</a>]
 
 **Serving Heterogeneous Machine Learning Models on Multi-GPU Servers with Spatio-Temporal Sharing**<br>
 <span style="color:#666666">Seungbeom Choi, Sunho Lee, Yeonjae Kim, <u>Jongse Park</u>, Youngjin Kwon, and Jaehyuk Huh</span><br>
-<em><span style="color:#770001;">USENIX ATC</span>, 2022</em> [<a href="files/paper/2022-atc-gpulet.pdf">Paper</a>|<a href="files/slide/2022-atc-gpulet.pdf">Talk</a>]
+<em><span style="color:#770001;" style="color: #1B3460;">USENIX ATC</span>, 2022</em> [<a href="files/paper/2022-atc-gpulet.pdf">Paper</a>|<a href="files/slide/2022-atc-gpulet.pdf">Talk</a>]
 
 **TNPU: Supporting Trusted Execution with Tree-less Integrity Protection for Neural Processing Unit**<br>
 <span style="color:#666666">Sunho Lee, Jungwoo Kim, Seonjin Na, <u>Jongse Park</u>, and Jaehyuk Huh</span><br>
-<em><span style="color:#770001;">HPCA</span>, 2022</em> [<a href="files/paper/2022-hpca-tnpu.pdf">Paper</a>|<a href="files/slide/2022-hpca-tnpu.pdf">Talk</a>]
+<em><span style="color:#770001;" style="color: #1B3460;">HPCA</span>, 2022</em> [<a href="files/paper/2022-hpca-tnpu.pdf">Paper</a>|<a href="files/slide/2022-hpca-tnpu.pdf">Talk</a>]
 
 <span style="font-size: 0.8em;">2021</span>  
 ---
