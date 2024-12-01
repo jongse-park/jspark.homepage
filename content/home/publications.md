@@ -17,7 +17,7 @@ weight = 60
 ## **Conference**    
 ---
 
-2024
+<span style="font-size: 1.2em; font-weight: bold;">2024</span>  
 ---
 
 **Interference-Aware DNN Serving on Heterogeneous Processors in Edge
