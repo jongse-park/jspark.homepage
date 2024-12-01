@@ -23,7 +23,7 @@ weight = 60
 **Interference-Aware DNN Serving on Heterogeneous Processors in Edge
 Systems**<br>
 <span style="color:#666666">Yeonjae Kim, Igjae Kim, Kwanghoon Choi, Jeongseob Ahn, <u>Jongse Park</u>, Jaehyuk Huh</span><br>
-<em><span style="color:#770001;">ICCD</span>, 2024</em> [<a href="files/paper/2024-iccd-interference.pdf">Paper</a>] 
+<em><span style="color:#770001;">ICCD</span>, 2024</em> [<a href="files/paper/2024-iccd-interference.pdf" style="color: #2164B5;>Paper</a>] 
 
 **LLMServingSim: A HW/SW Co-Simulation Infrastructure for LLM Inference Serving at Scale**<br>
 <span style="color:#666666">Jaehong Cho, Minsu Kim, Hyunmin Choi, Guseul Heo, <u>Jongse Park</u></span><br>
