@@ -14,6 +14,9 @@ weight = 60
 
 +++
 
+**2024**  
+---
+
 **ONNXim: A Fast, Cycle-level Multi-core NPU Simulator**<br>
 <span style="color:#666666">Hyungkyu Ham*, Wonhyuk Yang*, Yunseon Shin, Okkyun Woo, Guseul Heo, Sangyeop Lee, <u>Jongse Park</u>, Gwangsun Kim</span><br>
 <em><span style="color:#770001;">IEEE Computer Architecture Letters (CAL)</span>, 2024</em> [<a href="files/paper/2024-cal-onnxim.pdf">Paper</a>|<a href="https://github.com/PSAL-POSTECH/ONNXim">Code</a>]
@@ -60,6 +63,9 @@ Systems**<br>
 **Cerberus: Triple Mode Acceleration of Sparse Matrix and Vector Multiplication**<br>
 <span style="color:#666666">Soojin Hwang, Daehyeon Baek, <u>Jongse Park</u>, Jaehyuk Huh</span><br>
 <em><span style="color:#770001;">IEEE Transactions on Architecture and Code Optimization (TACO)</span>, 2024</em> [<a href="files/paper/2024-taco-cerberus.pdf">Paper</a>]
+
+**2023**  
+---
 
 **Bit Fusion: Bit-Level Dynamically Composable Architecture for Accelerating Deep Neural Network**<br>
 <span style="color:#666666">Hardik Sharma, <u>Jongse Park</u>, Naveen Suda, Liangzhen Lai, Benson Chau, Vikas Chandra, Hadi Esmaeilzadeh</span>   
