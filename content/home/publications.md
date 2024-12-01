@@ -106,7 +106,7 @@ Systems**<br>
 
 **From Tensors to FPGAs: Accelerating Deep Learning**   
 <span style="color:#666666">Hardik Sharma, <u>Jongse Park</u>, Balavinayagam Samynathan, Behnam Robatmili, Shahrzad Mirkhani, and Hadi Esmaeilzadeh</span>   
-<em><span style="color:#770001;">HotChips</span>, 2018</em>  [<a href="files/paper/2018-hotchips-dnnweaver2.pdf" style="color: #1D90FF;">Paper</a>|<a href="files/poster/2018-hotchips-dnnweaver2.pdf">Poster</a>|<a href="https://www.youtube.com/watch?v=T7s6oMfjpBw" style="color: #945200;">Demo1</a>|<a href="https://www.youtube.com/watch?v=N7vEn54Za-w" style="color: #945200;">Demo2</a>]
+<em><span style="color:#770001;">HotChips</span>, 2018</em>  [<a href="files/paper/2018-hotchips-dnnweaver2.pdf" style="color: #1D90FF;">Paper</a>|<a href="files/poster/2018-hotchips-dnnweaver2.pdf">Poster</a>|<a href="https://www.youtube.com/watch?v=T7s6oMfjpBw" style="color: #9437FF;">Demo1</a>|<a href="https://www.youtube.com/watch?v=N7vEn54Za-w" style="color: #9437FF;">Demo2</a>]
 
 **Bit Fusion: Bit-Level Dynamically Composable Architecture for Accelerating Deep Neural Networks**   
 <span style="color:#666666">Hardik Sharma, <u>Jongse Park</u>, Naveen Suda, Liangzhen Lai, Benson Chau, Vikas Chandra, Hadi Esmaeilzadeh</span>   
@@ -135,7 +135,7 @@ Systems**<br>
 
 **FlexJava: Language Support for Safe and Modular Approximate Programming**   
 <span style="color:#666666"><u>Jongse Park</u>, Hadi Esmaeilzadeh, Xin Zhang, Mayur Naik, William Harris</span>   
-<em><span style="color:#770001;">FSE</span>, 2015</em>  [<a href="files/paper/2015-fse-flexjava.pdf" style="color: #1D90FF;">Paper</a>|<a href="files/slide/2015-fse-flexjava.pdf" style="color: #FF8C00;">Talk</a>|<a href="https://jongse-park.github.io/files/flexjava/flexjava.html">Artifact</a>]
+<em><span style="color:#770001;">FSE</span>, 2015</em>  [<a href="files/paper/2015-fse-flexjava.pdf" style="color: #1D90FF;">Paper</a>|<a href="files/slide/2015-fse-flexjava.pdf" style="color: #FF8C00;">Talk</a>|<a href="https://jongse-park.github.io/files/flexjava/flexjava.html" style="color: #9437FF;">Artifact</a>]
 
 **Neural Acceleration for GPU Throughput Processors**   
 <span style="color:#666666">Amir Yazdanbakhsh, <u>Jongse Park</u>, Hardik Sharma, Pejman Lofti-Kamran, and Hadi Esmaeilzadeh</span>   
