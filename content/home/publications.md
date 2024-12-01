@@ -57,7 +57,7 @@ Systems**<br>
 
 **General-Purpose Code Acceleration with Limited-Precision Analog Computation**<br>
 <span style="color:#666666">Ren&eacute;e St. Amant, Amir Yazdanbakhsh, <u>Jongse Park</u>, Bradley Thwaites, Hadi Esmaeilzadeh, Arjang Hassibi, Luis Ceze, and Doug Burger</span>  
-<em><span style="color:#770001;" style="color: #1D90FF;">ISCA</span>, 2023</em>  [<a href="files/paper/2023-isca_retrospective-anpu.pdf">Retrospective</a>]<br>
+<em><span style="color:#770001;" style="color: #1D90FF;">ISCA</span>, 2023</em>  [<a href="files/paper/2023-isca_retrospective-anpu.pdf" style="color: #1D90FF;">Retrospective</a>]<br>
 <strong><em><span style="color:#4F8F01;">Selected for Inclusion in ISCA 25-year Retrospective 1996-2020</span></em></strong>
 
 <span style="font-size: 0.8em;">2022</span>  
@@ -65,44 +65,44 @@ Systems**<br>
 
 **Tunable Memory Protection for Secure Neural Processing Units**<br>
 <span style="color:#666666">Sunho Lee, Seonjin Na, Jungwoo Kim, <u>Jongse Park</u>, and Jaehyuk Huh</span><br>
-<em><span style="color:#770001;" style="color: #1D90FF;">ICCD</span>, 2022</em> [<a href="files/paper/2022-iccd-snpu.pdf">Paper</a>]
+<em><span style="color:#770001;">ICCD</span>, 2022</em> [<a href="files/paper/2022-iccd-snpu.pdf" style="color: #1D90FF;">Paper</a>]
 
 **Supporting Dynamic Translation Granularity for Hybrid Memory Systems**<br>
 <span style="color:#666666">Bokyeong Kim, Soojin Hwang, Sanghoon Cha, Chang Hyun Park, <u>Jongse Park</u>, and Jaehyuk Huh</span><br>
-<em><span style="color:#770001;" style="color: #1D90FF;">ICCD</span>, 2022</em> [<a href="files/paper/2022-iccd-decoupled.pdf">Paper</a>]
+<em><span style="color:#770001;">ICCD</span>, 2022</em> [<a href="files/paper/2022-iccd-decoupled.pdf" style="color: #1D90FF;">Paper</a>]
 
 **CoVA: Exploiting Compressed-Domain Analysis to Accelerate Video Analytics**<br>
 <span style="color:#666666">Jinwoo Hwang, Minsu Kim, Daeun Kim, Seungho Nam, Yoonsung Kim, Dohee Kim, Hardik Sharma, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;" style="color: #1D90FF;">USENIX ATC</span>, 2022</em> [<a href="files/paper/2022-atc-cova.pdf">Paper</a>|<a href="files/slide/2022-atc-cova.pdf" style="color: #FF8C00;">Talk</a>]
+<em><span style="color:#770001;">USENIX ATC</span>, 2022</em> [<a href="files/paper/2022-atc-cova.pdf" style="color: #1D90FF;">Paper</a>|<a href="files/slide/2022-atc-cova.pdf" style="color: #FF8C00;">Talk</a>]
 
 **Serving Heterogeneous Machine Learning Models on Multi-GPU Servers with Spatio-Temporal Sharing**<br>
 <span style="color:#666666">Seungbeom Choi, Sunho Lee, Yeonjae Kim, <u>Jongse Park</u>, Youngjin Kwon, and Jaehyuk Huh</span><br>
-<em><span style="color:#770001;" style="color: #1D90FF;">USENIX ATC</span>, 2022</em> [<a href="files/paper/2022-atc-gpulet.pdf">Paper</a>|<a href="files/slide/2022-atc-gpulet.pdf" style="color: #FF8C00;">Talk</a>]
+<em><span style="color:#770001;">USENIX ATC</span>, 2022</em> [<a href="files/paper/2022-atc-gpulet.pdf" style="color: #1D90FF;">Paper</a>|<a href="files/slide/2022-atc-gpulet.pdf" style="color: #FF8C00;">Talk</a>]
 
 **TNPU: Supporting Trusted Execution with Tree-less Integrity Protection for Neural Processing Unit**<br>
 <span style="color:#666666">Sunho Lee, Jungwoo Kim, Seonjin Na, <u>Jongse Park</u>, and Jaehyuk Huh</span><br>
-<em><span style="color:#770001;" style="color: #1D90FF;">HPCA</span>, 2022</em> [<a href="files/paper/2022-hpca-tnpu.pdf">Paper</a>|<a href="files/slide/2022-hpca-tnpu.pdf" style="color: #FF8C00;">Talk</a>]
+<em><span style="color:#770001;">HPCA</span>, 2022</em> [<a href="files/paper/2022-hpca-tnpu.pdf" style="color: #1D90FF;">Paper</a>|<a href="files/slide/2022-hpca-tnpu.pdf" style="color: #FF8C00;">Talk</a>]
 
 <span style="font-size: 0.8em;">2021</span>  
 ---
 
 **Common Counters: Compressed Encryption Counters for Secure GPU Memory**<br>
 <span style="color:#666666">Seonjin Na, Sunho Lee, Yeonjae Kim, <u>Jongse Park</u>, and Jaehyuk Huh</span>   
-<em><span style="color:#770001;" style="color: #1D90FF;">HPCA</span>, 2021</em> [<a href="files/paper/2021-hpca-commonctr.pdf">Paper</a>|<a href="files/slide/2021-hpca-commoncounters.pdf" style="color: #FF8C00;">Talk</a>]
+<em><span style="color:#770001;">HPCA</span>, 2021</em> [<a href="files/paper/2021-hpca-commonctr.pdf" style="color: #1D90FF;">Paper</a>|<a href="files/slide/2021-hpca-commoncounters.pdf" style="color: #FF8C00;">Talk</a>]
 
 <span style="font-size: 0.8em;">2020</span>  
 ---
 
 **Mixed-Signal Charge-Domain Acceleration of Deep Neural Networks through Interleaved Bit-Partitioned Arithmetic**      
 <span style="color:#666666">Soroush Ghodrati, Hardik Sharma, Sean Kinzer, Amir Yazdanbakhsh, <u>Jongse Park</u>, Nam Sung Kim, Doug Burger, and Hadi Esmaeilzadeh</span>   
-<em><span style="color:#770001;" style="color: #1D90FF;">PACT</span>, 2020</em> [<a href="files/paper/2020-pact-bihiwe.pdf">Paper</a>|<a href="files/slide/2020-pact-bihiwe.pdf" style="color: #FF8C00;">Talk</a>] 
+<em><span style="color:#770001;">PACT</span>, 2020</em> [<a href="files/paper/2020-pact-bihiwe.pdf" style="color: #1D90FF;">Paper</a>|<a href="files/slide/2020-pact-bihiwe.pdf" style="color: #FF8C00;">Talk</a>] 
 
 <span style="font-size: 0.8em;">2018 or earlier</span>  
 ---
 
 **A Network-Centric Hardware/Algorithm Co-Design to Accelerate Distributed Training of Deep Neural Networks**      
 <span style="color:#666666">Youjie Li, <u>Jongse Park</u>, Mohammad Alian, Yifan Yuan, Zheng Qu, Peitian Pan, Ren Wang, Alexander Gerhard Schwing, Hadi Esmaeilzadeh, and Nam Sung Kim</span>   
-<em><span style="color:#770001;" style="color: #1D90FF;">MICRO</span>, 2018</em>  [<a href="files/paper/2018-micro-inceptionn.pdf">Paper</a>|<a href="files/slide/2018-micro-inceptionn.pdf" style="color: #FF8C00;">Talk</a>]
+<em><span style="color:#770001;">MICRO</span>, 2018</em>  [<a href="files/paper/2018-micro-inceptionn.pdf" style="color: #1D90FF;">Paper</a>|<a href="files/slide/2018-micro-inceptionn.pdf" style="color: #FF8C00;">Talk</a>]
 
 **From Tensors to FPGAs: Accelerating Deep Learning**   
 <span style="color:#666666">Hardik Sharma, <u>Jongse Park</u>, Balavinayagam Samynathan, Behnam Robatmili, Shahrzad Mirkhani, and Hadi Esmaeilzadeh</span>   
@@ -110,27 +110,27 @@ Systems**<br>
 
 **Bit Fusion: Bit-Level Dynamically Composable Architecture for Accelerating Deep Neural Networks**   
 <span style="color:#666666">Hardik Sharma, <u>Jongse Park</u>, Naveen Suda, Liangzhen Lai, Benson Chau, Vikas Chandra, Hadi Esmaeilzadeh</span>   
-<em><span style="color:#770001;" style="color: #1D90FF;">ISCA</span>, 2018</em>  [<a href="files/paper/2018-isca-bitfusion.pdf">Paper</a>|<a href="files/slide/2018-isca-bitfusion.pdf" style="color: #FF8C00;">Talk</a>]
+<em><span style="color:#770001;">ISCA</span>, 2018</em>  [<a href="files/paper/2018-isca-bitfusion.pdf" style="color: #1D90FF;">Paper</a>|<a href="files/slide/2018-isca-bitfusion.pdf" style="color: #FF8C00;">Talk</a>]
 
 **Scale-Out Acceleration for Machine Learning**   
 <span style="color:#666666"><u>Jongse Park</u>, Hardik Sharma, Divya Mahajan, Joon Kyung Kim, Preston Olds, and Hadi Esmaeilzadeh</span>   
-<em><span style="color:#770001;" style="color: #1D90FF;">MICRO</span>, 2017</em>  [<a href="files/paper/2017-micro-cosmic.pdf">Paper</a>|<a href="files/slide/2017-micro-cosmic-main.pdf" style="color: #FF8C00;">Talk</a>|<a href="files/slide/2017-micro-cosmic-light.pdf">Lightening</a>]
+<em><span style="color:#770001;">MICRO</span>, 2017</em>  [<a href="files/paper/2017-micro-cosmic.pdf" style="color: #1D90FF;">Paper</a>|<a href="files/slide/2017-micro-cosmic-main.pdf" style="color: #FF8C00;">Talk</a>|<a href="files/slide/2017-micro-cosmic-light.pdf">Lightening</a>]
 
 **AxGames: Towards Crowdsourcing Quality Target Determination in Approximate Computing**   
 <span style="color:#666666"><u>Jongse Park</u>, Divya Mahajan, Bradley Thwaites, Emmanuel Amaro, and Hadi Esmaeilzadeh </span>   
-<em><span style="color:#770001;" style="color: #1D90FF;">ASPLOS</span>, 2016</em>  [<a href="files/paper/2016-asplos-axgames.pdf">Paper</a>|<a href="files/slide/2016-asplos-axgames-main.pdf" style="color: #FF8C00;">Talk</a>|<a href="files/slide/2016-asplos-axgames-light.pdf">Lightening</a>]
+<em><span style="color:#770001;">ASPLOS</span>, 2016</em>  [<a href="files/paper/2016-asplos-axgames.pdf" style="color: #1D90FF;">Paper</a>|<a href="files/slide/2016-asplos-axgames-main.pdf" style="color: #FF8C00;">Talk</a>|<a href="files/slide/2016-asplos-axgames-light.pdf">Lightening</a>]
 
 **From High-Level Deep Neural Models to FPGAs**   
 <span style="color:#666666">Hardik Sharma, <u>Jongse Park</u>, Divya Mahajan, Emmanuel Amaro, Joon Kyung Kim, Chenkai Shao, Asit Mishra, and Hadi Esmaeilzadeh</span>   
-<em><span style="color:#770001;" style="color: #1D90FF;">MICRO</span>, 2016</em>  [<a href="files/paper/2016-micro-dnn_weaver.pdf">Paper</a>|<a href="files/slide/2016-micro-dnn_weaver.pdf" style="color: #FF8C00;">Talk</a>]
+<em><span style="color:#770001;">MICRO</span>, 2016</em>  [<a href="files/paper/2016-micro-dnn_weaver.pdf" style="color: #1D90FF;">Paper</a>|<a href="files/slide/2016-micro-dnn_weaver.pdf" style="color: #FF8C00;">Talk</a>]
 
 **Towards Statistical Guarantees in Controlling Quality Tradeoffs in Approximate Acceleration**   
 <span style="color:#666666">Divya Mahajan, Amir Yazdanbaksh, <u>Jongse Park</u>, Bradley Thwaites, and Hadi Esmaeilzadeh</span>   
-<em><span style="color:#770001;" style="color: #1D90FF;">ISCA</span>, 2016</em>  [<a href="files/paper/2016-isca-mithra.pdf">Paper</a>|<a href="files/slide/2016-isca-mithra.pdf" style="color: #FF8C00;">Talk</a>]
+<em><span style="color:#770001;">ISCA</span>, 2016</em>  [<a href="files/paper/2016-isca-mithra.pdf" style="color: #1D90FF;">Paper</a>|<a href="files/slide/2016-isca-mithra.pdf" style="color: #FF8C00;">Talk</a>]
 
 **Tabla: A Unified Template-based Framework for Accelerating Statistical Machine Learning**   
 <span style="color:#666666">Divya Mahajan, <u>Jongse Park</u>, Emmanuel Amaro, Hardik Sharma, Amir Yazdanbaksh, Joon Kyung Kim, and Hadi Esmaeilzadeh</span>   
-<em><span style="color:#770001;" style="color: #1D90FF;">HPCA</span>, 2016</em> [<a href="files/paper/2016-hpca-tabla.pdf">Paper</a>|<a href="files/slide/2016-hpca-tabla.pdf">Talk</a>]<br>
+<em><span style="color:#770001;">HPCA</span>, 2016</em> [<a href="files/paper/2016-hpca-tabla.pdf" style="color: #1D90FF;">Paper</a>|<a href="files/slide/2016-hpca-tabla.pdf">Talk</a>]<br>
 <strong><em><span style="color:#4F8F01;">Distinguished Paper Award</span></em></strong>
 
 **FlexJava: Language Support for Safe and Modular Approximate Programming**   
@@ -200,7 +200,7 @@ Systems**<br>
 
 **Yin-Yang: Programming Abstraction for Cross-Domain Multi-Acceleration**<br>
 <span style="color:#666666">Joon Kyung Kim, Byung Hoon Ahn, Sean Kinzer, Soroush Ghodrati, Rohan Mahapatra, Brahmendra Yatham, Dohee Kim, Parisa Sarikhani, Babak Mahmoudi, Divya Mahajan, <u>Jongse Park</u>, Hadi Esmaeilzadeh</span><br>
-<em><span style="color:#770001;" style="color: #1D90FF;">IEEE Micro, </span> special issue on Compiling for Accelerators, 2022</em>  [<a href="files/paper/2022-ieee_micro-yinyang.pdf">Paper</a>]
+<em><span style="color:#770001;" style="color: #1D90FF;">IEEE Micro, </span> special issue on Compiling for Accelerators, 2022</em>  [<a href="files/paper/2022-ieee_micro-yinyang.pdf" style="color: #1D90FF;">Paper</a>]
 
 <span style="font-size: 0.8em;">2021 or earlier</span>  
 ---
