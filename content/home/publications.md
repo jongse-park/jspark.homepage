@@ -162,7 +162,7 @@ Systems**<br>
 <span style="color:#666666"><u>Jongse Park</u>, Daewoo Lee, Bokyeong Kim, Jaehyuk Huh, and Seungryoul Maeng</span>   
 <em><span style="color:#770001;">HPDC</span>, 2012</em>  [<a href="files/paper/2012-hpdc-drr.pdf">Paper</a>|<a href="files/slide/2012-hpdc-drr.pdf">Talk</a>]
 
-<br>
+<br><br><br><br><br>
 
 ## **Journal**    
 ---
