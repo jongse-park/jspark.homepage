@@ -14,6 +14,8 @@ weight = 60
 
 +++
 
+*Conference*
+
 **2024**  
 ---
 
@@ -164,10 +166,6 @@ Systems**<br>
 **Towards Statistical Guarantees in Controlling Quality Tradeoffs in Approximate Acceleration**   
 <span style="color:#666666">Divya Mahajan, Amir Yazdanbaksh, <u>Jongse Park</u>, Bradley Thwaites, and Hadi Esmaeilzadeh</span>   
 <em><span style="color:#770001;">ISCA</span>, 2016</em>  [<a href="files/paper/2016-isca-mithra.pdf">Paper</a>|<a href="files/slide/2016-isca-mithra.pdf">Talk</a>]
-
-**DnnWeaver: From High-Level Deep Network Models to FPGA Acceleration**   
-<span style="color:#666666">Hardik Sharma, <u>Jongse Park</u>, Emmanuel Amaro, Bradley Thwaites, Praneetha Kotha,  Anmol Gupta, Joon Kyung Kim, Asit Mishra, and Hadi Esmaeilzadeh</span>   
-<em><span style="color:#770001;">CogArch</span>, 2016</em> [<a href="files/paper/2016-cogarch-dnn_weaver.pdf">Paper</a>]
 
 **Tabla: A Unified Template-based Framework for Accelerating Statistical Machine Learning**   
 <span style="color:#666666">Divya Mahajan, <u>Jongse Park</u>, Emmanuel Amaro, Hardik Sharma, Amir Yazdanbaksh, Joon Kyung Kim, and Hadi Esmaeilzadeh</span>   
