@@ -160,7 +160,7 @@ Systems**<br>
 
 **Locality-aware Dynamic VM Reconfiguration on MapReduce Clouds**   
 <span style="color:#666666"><u>Jongse Park</u>, Daewoo Lee, Bokyeong Kim, Jaehyuk Huh, and Seungryoul Maeng</span>   
-<em><span style="color:#770001;">HPDC</span>, 2012</em>  [<a href="files/paper/2012-hpdc-drr.pdf" style="color: #1D90FF;">Paper</a>|<a href="files/slide/2012-hpdc-drr.pdf" style="color: #FF8C00;">Talk</a>]<br>
+<em><span style="color:#770001;">HPDC</span>, 2012</em>  [<a href="files/paper/2012-hpdc-drr.pdf" style="color: #1D90FF;">Paper</a>|<a href="files/slide/2012-hpdc-drr.pdf" style="color: #FF8C00;">Talk</a>]<br><br>
 
 ## **Journal**    
 ---
@@ -211,7 +211,7 @@ Systems**<br>
 
 **Axilog: Abstractions for Approximate Hardware Design and Reuse**   
 <span style="color:#666666">Divya Mahajan,  Kartik Ramkrishnan, Rudra Jariwala, Amir Yazdanbakhsh, <u>Jongse Park</u>, Bradley Thwaites, Anandhavel Nagendrakumar, Abbas Rahimi, Hadi Esmaeilzadeh, and Kia Bazargan</span>   
-<em><span style="color:#770001;">IEEE Micro, </span>, special issue on Alternative Computing Designs and Technologies, 2015</em>  [<a href="files/paper/2015-ieee_micro-axilog.pdf" style="color: #1D90FF;">Paper</a>]<br>
+<em><span style="color:#770001;">IEEE Micro, </span>, special issue on Alternative Computing Designs and Technologies, 2015</em>  [<a href="files/paper/2015-ieee_micro-axilog.pdf" style="color: #1D90FF;">Paper</a>]<br><br>
 
 ## **Workshop**    
 ---
