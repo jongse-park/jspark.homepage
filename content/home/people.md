@@ -35,13 +35,9 @@ weight = 40
 -   <a href="https://kimddong0069.github.io/">Dongha Kim</a>
 
 ##### Undergraduate Students
--   Minjun Kang (Winter 2023)
 -   Aziz Huseynov (Spring 2024)
--   Woong Gyu Park (Spring 2024)
 -	Yongwon Park (Fall 2024)
--	Wonjun Jang (Fall 2024)
 -	Tadiwos Meaza (Fall 2024)
--	Jihwan Oh (Fall 2024)
 -	Jeongmin Oh (Winter 2024)
 -	Hyeonbin Bae (Winter 2024)
 -	Yoonhyeong Lee (Winter 2024)
