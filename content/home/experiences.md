@@ -1,5 +1,5 @@
-+++
 # Custom widget.
++++
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"  # Do not modify this line!
@@ -19,7 +19,7 @@ weight = 40
 	-	Mar. 2024 - present: Associate Professor, CASYS Lab, SoC
 	-	Dec. 2019 - Feb. 2024: Assistant Professor, CASYS Lab, SoC
 -	*Stanford University*
-	-	(Upcoming) Jan. 2025 - Jan. 2026: Visiting Professor, Pervasive Parallelism Lab, EE and CS
+	-	Jan. 2025 - Jan. 2026: Visiting Associate Professor, Pervasive Parallelism Lab, EE and CS
 
 #####	Engineer
 -	Aug. 2018 - Nov. 2019: Acceleration Solution Architect, Bigstream Solution, Inc.
