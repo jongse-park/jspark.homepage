@@ -207,7 +207,7 @@ Systems**<br>
 
 **SLO-aware Inference Scheduler for Heterogeneous Processors in Edge Platforms**<br>
 <span style="color:#666666">Wonik Seo, Sanghoon Cha, Yeonjae Kim, Jaehyuk Huh, and <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">TACO</span>, 2021</em> [<a href="files/paper/2021-taco-edgeduler.pdf" style="color: #1D90FF;">Paper</a>] 
+<em><span style="color:#770001;">IEEE Transactions on Architecture and Code Optimization (TACO)</span>, 2021</em> [<a href="files/paper/2021-taco-edgeduler.pdf" style="color: #1D90FF;">Paper</a>] 
 
 **Axilog: Abstractions for Approximate Hardware Design and Reuse**   
 <span style="color:#666666">Divya Mahajan,  Kartik Ramkrishnan, Rudra Jariwala, Amir Yazdanbakhsh, <u>Jongse Park</u>, Bradley Thwaites, Anandhavel Nagendrakumar, Abbas Rahimi, Hadi Esmaeilzadeh, and Kia Bazargan</span>   
