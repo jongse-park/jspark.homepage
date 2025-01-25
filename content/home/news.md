@@ -16,4 +16,4 @@ weight = 30
 
 ### **2025**
 
-- [**January 2025**] Wonwoong has won the Gold Prize at the Samsung HumanTech Paper Award. Congratulations!<br>
+- [**January 2025**] Wonwoong has won the Gold Prize at the Samsung Humantech Paper Award (삼성휴먼테크논문대상). Congratulations!<br>
