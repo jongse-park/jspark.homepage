@@ -16,4 +16,5 @@ weight = 30
 
 ### **2025**
 
-- [**January 2025**] Wonwoong has won the Gold Prize at the Samsung Humantech Paper Award (삼성휴먼테크논문대상). Congratulations!<br>
+- [January 24] Our group has won the **Gold Prize (1st place in the Computer Science and Engineering track)** in the prestigious **Samsung Humantech Paper Award**. Congratulations Wonung!<br>
+- [January 21] Prof. Park has joined Stanford EE as a visiting associate professor. 
