@@ -17,4 +17,4 @@ weight = 30
 ### **2025**
 
 - [January 24] Our group has won the **Gold Prize (1st place in the Computer Science and Engineering track)** in the prestigious **Samsung Humantech Paper Award**. Congratulations Wonung!<br>
-- [January 21] Prof. Park has joined Stanford EE as a visiting associate professor. 
+- [January 21] Prof. Park has joined Stanford EECS as a visiting associate professor. 
