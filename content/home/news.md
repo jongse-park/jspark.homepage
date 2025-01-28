@@ -35,7 +35,7 @@ weight = 30
 - [June 18] Yubin's proposal on **"On-Device LLM Inference Acceleration with Block Floating Point Quantization"** awarded funding under the **NRF Master’s Student Research Encouragement Grant (석사과정생연구장려금)** grant. Congratulations, Yubin!
 - [June 16] A paper is accepted to **IISWC'24**. Congrats to Jaehong, Minsu, Hyunmin, and Guseul!
 - [April 23] Our group's proposal on **"Accelerating Multimodal LLM with HW/SW Co-Design"** awarded funding under **NRF Young Researcher Program (우수신진)** grant. 
-- [April 8] Our proposal on **"DRAM PIM Architecture for LLM Inferencing"** awarded funding under the **IITP Core Technologies for PIM AI Semiconductors (PIM인공지능반도체핵심기술개발)** grant. This project is a collaborative effort with **KAIST, Korea University, POSTECH, and Yongsei University**. 
+- [April 8] Our proposal on **"DRAM PIM Architecture for LLM Inferencing"** awarded funding under the **IITP Core Technologies for PIM AI Semiconductors (PIM인공지능반도체핵심기술개발)** grant. This project is a collaborative effort with **KAIST, Korea University, POSTECH, and Yonsei University**. 
 - [March 19] A paper is accepted to **ISCA'24**. Congrats to Yoonsung, Changhun, Jinwoo, Wonung, Seongryong, Yubin, and our collaborators at Google. 
 - [March 17] A paper is accepted to **VLDB'24**. Congrats to Minsu, Jinwoo, Guseul, and our collaborators at Georgia Tech!
 - [March 1] I promoted to **Associate Professor**.
@@ -53,8 +53,8 @@ weight = 30
 
 - [September 13] A paper is accepted to **IEEE CAL**. Congrats to all the authors!
 - [August 22] Two papers are accepted to **ICCD'22**. Congrats to all the authors!
-- [April 29] Two paperes are accepted to **USENIX ATC'22**. Congrats to Jinwoo, Minsu, Daeun, Seungho, Yoonsung, Dohee, and our collaborators at KAIST and Google! 
-- [April 14] Our proposal on **"High-Performance DRAM-based PIM Memory Semiconductor Technology"** awarded funding under **IITP Core Technologies for PIM AI Semiconductors (PIM인공지능반도체핵심기술개발)** grant. This project is a collaborative effort with **KAIST, UNIST, Kyungbook National University, Kwangwoon University, and UXFactory**. 
+- [April 29] Two papers are accepted to **USENIX ATC'22**. Congrats to Jinwoo, Minsu, Daeun, Seungho, Yoonsung, Dohee, and our collaborators at KAIST and Google! 
+- [April 14] Our proposal on **"High-Performance DRAM-based PIM Memory Semiconductor Technology"** awarded funding under **IITP Core Technologies for PIM AI Semiconductors (PIM인공지능반도체핵심기술개발)** grant. This project is a collaborative effort with **KAIST, UNIST, Kyungpook National University, Kwangwoon University, and UXFactory**. 
 - [March 17] Our group will be joining the **"Memory-Centric Next-Generation Computing System Architectures"** project funded under **IITP Core Technology Development Program for the Software Computing Industry (SW컴퓨팅산업원천기술개발사업)**. This project is a collaborative effort with **ETRI, DGIST, UNIST, Telatec, Gluesys, and KTNF**.
 - [March 19] A paper is accepted to **IEEE Micro**. Congrats to all the authors!
 
@@ -65,7 +65,7 @@ weight = 30
 
 ### **2020**
 
-- [October 27] A paper is accepted to **HPCA'21**
+- [October 27] A paper is accepted to **HPCA'21**.
 - [August 30] Our group's proposal on **"Acceleration of DNN-based Video Query Processing"** awarded funding under **NRF Mid-Career Researcher Program (중견)** grant. 
 - [July 15] A paper is accepted to **PACT'20**!
 - [May 15] Our proposal on **"High-Reliability, High-Availability Big Data Platforms and Analytics/Prediction Service Technologies for Edge Cloud"** awarded funding under **IITP-ITRC** grant. This project is a collaborative effort with **KAIST, Yonsei University, and Chonbuk National University**. 
