@@ -21,9 +21,10 @@ organizations:
 bio:  
 
 interests:
-- <i>Architecture and Systems for GenAI Seving</i>
-- <i>Processing-in-Memory (PIM) Acceleration</i>
-- <i>On-Device AI Systems</i>
+- <i>Accelerating GenAI Serving Systems</i>
+- <i>Enabling On-Device AI Systems</i>
+- <i>Leveraging Processing-in-Memory (PIM) for AI Systems</i>
+- <i>Designing Flexible and Programmable AI Compiler Framework</i> 
 
 education:
   courses:
