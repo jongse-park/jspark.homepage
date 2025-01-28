@@ -3,7 +3,7 @@
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"  # Do not modify this line!
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Professional Services"
@@ -19,6 +19,7 @@ weight = 100
 - HPCA 2023/2025
 - DAC 2021/2022/2023
 - IISWC 2022/2024
+- ISPASS 2025
 <!--- MICRO 2023 SRC-->
 <!--- ACSMD 2021/2022-->
 <!--- HPC Asia 2021-->
