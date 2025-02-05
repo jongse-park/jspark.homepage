@@ -16,6 +16,7 @@ weight = 30
 
 ### **2025**
 
+- [February 5] I have won the **Teaching Innovation Award Excellence Prize (교수학습혁신상 우수상) at KAIST** in recognition of my contributions to advancing education.
 - [January 24] Our group has won the **Gold Prize (1st place in the Computer Science and Engineering track)** in the prestigious **Samsung Humantech Paper Award**. Congratulations Wonung, Yubin, Yoonsung, Jinwoo, Seongryong, Jiyong, and Aziz!
 - [January 21] I have joined **Pervasive Parallelism Lab, Stanford EECS** as a **Visiting Associate Professor**. 
 
