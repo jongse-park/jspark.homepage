@@ -16,6 +16,7 @@ weight = 30
 
 ### **2025**
 
+- [February 7] ASPLOS'24 Tandem Processor paper has been selected as an **Honorable Mention in the IEEE Micro special issue on Top Picks from Computer Architecture Conferences of 2024**. 
 - [February 5] I have won the **Teaching Innovation Award Excellence Prize (교수학습혁신상 우수상) at KAIST** in recognition of my contributions to advancing education.
 - [January 24] Our group has won the **Gold Prize (1st place in the Computer Science and Engineering track)** in the prestigious **Samsung Humantech Paper Award**. Congratulations Wonung, Yubin, Yoonsung, Jinwoo, Seongryong, Jiyong, and Aziz!
 - [January 21] I have joined **Pervasive Parallelism Lab, Stanford EECS** as a **Visiting Associate Professor**. 
