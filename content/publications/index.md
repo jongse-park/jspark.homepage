@@ -46,6 +46,7 @@ Systems**<br>
 **Tandem Processor: Grappling with Emerging Operators in Neural Networks**<br>
 <span style="color:#666666">Soroush Ghodrati, Sean Kinzer, Hanyang Xu, Rohan Mahapatra, Yoonsung Kim, Byung Hoon Ahn, Dong Kai Wang, Lavanya Karthikeyan, Amir Yazdanbakhsh, <u>Jongse Park</u>, Nam Sung Kim, Hadi Esmaeilzadeh</span><br>
 <em><span style="color:#770001;">ASPLOS</span>, 2024</em> [<a href="../files/paper/2024-asplos-tandem_processor.pdf" style="color: #1D90FF;">Paper</a>] 
+<strong><em><span style="color:#4F8F01;">Honorable Mention in IEEE Micro Top Picks</span></em></strong>
 
 <span style="font-size: 0.8em;">2023</span>  
 ---
