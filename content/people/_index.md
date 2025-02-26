@@ -36,7 +36,6 @@ weight = 40
 
 ##### Undergraduate Students
 -   Aziz Huseynov (Spring 2024)
--	Yongwon Park (Fall 2024)
 -	Tadiwos Meaza (Fall 2024)
 -	Jeongmin Oh (Winter 2024)
 -	Hyeonbin Bae (Winter 2024)
