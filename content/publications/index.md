@@ -17,14 +17,15 @@ weight = 60
 ## **Conference**    
 ---
 
-<span style="font-size: 0.8em;">2024</span>  
+<span style="font-size: 0.8em;">2025</span>  
 ---
-
-
 
 **Oaken: Fast and Efficient LLM Serving with Online-Offline Hybrid KV Cache Quantization**<br>
 <span style="color:#666666">Minsu Kim, Seongmin Hong, RyeoWook Ko, Soongyu Choi, Hunjong Lee, Junsoo Kim, Joo-Young Kim, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">ISCA</span>, 2024</em> [Paper] (To Appear)
+<em><span style="color:#770001;">ISCA</span>, 2025</em> [Paper] (To Appear)
+
+<span style="font-size: 0.8em;">2024</span>  
+---
 
 **Interference-Aware DNN Serving on Heterogeneous Processors in Edge
 Systems**<br>
