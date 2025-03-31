@@ -22,7 +22,7 @@ weight = 60
 
 **Oaken: Fast and Efficient LLM Serving with Online-Offline Hybrid KV Cache Quantization**<br>
 <span style="color:#666666">Minsu Kim, Seongmin Hong, RyeoWook Ko, Soongyu Choi, Hunjong Lee, Junsoo Kim, Joo-Young Kim, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">ISCA</span>, 2025</em> [Paper] (To Appear)
+<em><span style="color:#770001;">ISCA</span>, 2025</em> [<a href="http://arxiv.org/abs/2503.18599">Paper</a>] (To Appear)
 
 <span style="font-size: 0.8em;">2024</span>  
 ---
