@@ -21,7 +21,7 @@ weight = 30
 - [March 22] A paper is accepted to **ISCA'25**. Congrats to Minsu and our collaborators at HyperAccel. 
 - [February 7] Tandem Processor (ASPLOS'24) has been recognized as an **IEEE Micro Top Picks Honorable Mention**. Congratulations to all the authors from UCSD, UIUC, Google Deepmind, and KAIST!
 - [February 5] I have won the **Teaching Innovation Award Excellence Prize (교수학습혁신상 우수상) at KAIST** in recognition of my contributions to advancing education.
-- [January 24] Our group has won the **Gold Prize (1st place in the Computer Science and Engineering track)** in the prestigious **Samsung Humantech Paper Award**. Congratulations Wonung, Yubin, Yoonsung, Jinwoo, Seongryong, Jiyong, and Aziz!
+- [January 24] Our group has won the **Gold Prize (1st place in the Computer Science and Engineering track)** in the prestigious **Samsung Humantech Paper Award**. Congratulations Wonung, Yubin, Yoonsung, Jinwoo, Seongryong, and Jiyong!
 - [January 21] I have joined **Pervasive Parallelism Lab, Stanford EECS** as a **Visiting Associate Professor**. 
 
 ### **2024**
