@@ -196,7 +196,7 @@ Systems**<br>
 
 **Axilog: Abstractions for Approximate Hardware Design and Reuse**   
 <span style="color:#666666">Divya Mahajan,  Kartik Ramkrishnan, Rudra Jariwala, Amir Yazdanbakhsh, <u>Jongse Park</u>, Bradley Thwaites, Anandhavel Nagendrakumar, Abbas Rahimi, Hadi Esmaeilzadeh, and Kia Bazargan</span>   
-<em><span style="color:#770001;">IEEE Micro, </span>, special issue on Alternative Computing Designs and Technologies, 2015</em>  [<a href="../files/paper/2015-ieee_micro-axilog.pdf" style="color: #1D90FF;">Paper</a>]<br><br>
+<em><span style="color:#770001;">IEEE Micro, </span>, special issue on Alternative Computing Designs and Technologies, 2015</em>  [<a href="../files/paper/2015-ieee_micro-axilog.pdf" style="color: #1D90FF;">Paper</a>]
 
 **General-Purpose Code Acceleration with Limited-Precision Analog Computation**   
 <span style="color:#666666">Ren&eacute;e St. Amant, Amir Yazdanbakhsh, <u>Jongse Park</u>, Bradley Thwaites, Hadi Esmaeilzadeh, Arjang Hassibi, Luis Ceze, and Doug Burger</span>   
