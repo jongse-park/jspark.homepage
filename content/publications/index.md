@@ -173,6 +173,13 @@ Systems**<br>
 ## **Journal**    
 ---
 
+<span style="font-size: 0.8em;">2025</span>  
+---
+
+**MixDiT: Accelerating Image Diffusion Transformer Inference with Mixed-Precision MX Quantization**<br>
+<span style="color:#666666">Daeun Kim, Jinwoo Hwang, Changhun Oh, <u>Jongse Park</u></span><br>
+<em><span style="color:#770001;">IEEE Computer Architecture Letters (CAL)</span>, 2025</em> [Paper] (To Appear)
+
 <span style="font-size: 0.8em;">2024</span>  
 ---
 
