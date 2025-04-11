@@ -14,16 +14,15 @@ weight = 60
 
 +++
 
+## **Conference**    
+---
+
 <span style="font-size: 0.8em;">2025</span>  
 ---
 
 **Oaken: Fast and Efficient LLM Serving with Online-Offline Hybrid KV Cache Quantization**<br>
 <span style="color:#666666">Minsu Kim, Seongmin Hong, RyeoWook Ko, Soongyu Choi, Hunjong Lee, Junsoo Kim, Joo-Young Kim, <u>Jongse Park</u></span><br>
 <em><span style="color:#770001;">ISCA</span>, 2025</em> [<a href="http://arxiv.org/abs/2503.18599" style="color: #1D90FF;">Paper</a>] (To Appear)
-
-**MixDiT: Accelerating Image Diffusion Transformer Inference with Mixed-Precision MX Quantization**<br>
-<span style="color:#666666">Daeun Kim, Jinwoo Hwang, Changhun Oh, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">IEEE Computer Architecture Letters (CAL)</span>, 2025</em> [Paper] (To Appear)
 
 <span style="font-size: 0.8em;">2024</span>  
 ---
@@ -47,14 +46,6 @@ Systems**<br>
 <em><span style="color:#770001;">ISCA</span>, 2024</em> [<a href="../files/paper/2024-isca-dacapo.pdf" style="color: #1D90FF;">Paper</a>|<a href="files/slide/2024-isca-dacapo.pdf" style="color: #FF8C00;">Talk</a>|<a href="https://github.com/casys-kaist/DaCapo" style="color: #009193;">Code</a>]<br>
 <strong><em><span style="color:#4F8F01;">Distinguished Artifact Award</span></em></strong>
 
-**LLMServingSim: A Simulation Infrastructure for LLM Inference Serving Systems**<br>
-<span style="color:#666666">Jaehong Cho, Minsu Kim, Hyunmin Choi, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">ISCA Workshop on ML for Computer Architecture and Systems (MLArchSys)</span>, 2024</em> [<a href="../files/paper/2024-mlarchsys-llmservingsim.pdf" style="color: #1D90FF;">Paper</a>|<a href="../files/slide/2024-mlarchsys-llmservingsim.pdf" style="color: #FF8C00;">Talk</a>] 
-
-**LVS: A Learned Video Storage for Fast and Efficient Video Understanding**<br>
-<span style="color:#666666">Yunghee Lee, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">CVPR Workshop on Efficient Deep Learning for Computer Vision (ECV)</span>, 2024</em> [<a href="../files/paper/2024-ecv-lvs.pdf" style="color: #1D90FF;">Paper</a>|<a href="../files/slide/2024-cvpr_ecv-lvs.pdf" style="color: #FF8C00;">Talk</a>]
-
 **NeuPIMs: NPU-PIM Heterogeneous Acceleration for Batched LLM Inferencing**<br>
 <span style="color:#666666">Guseul Heo, Sangyeop Lee, Jaehong Cho, Hyunmin Choi, Sanghyeon Lee, Hyungkyu Ham, Gwangsun Kim, Divya Mahajan, <u>Jongse Park</u></span><br>
 <em><span style="color:#770001;">ASPLOS</span>, 2024</em> [<a href="../files/paper/2024-asplos-neupims.pdf" style="color: #1D90FF;">Paper</a>|<a href="files/slide/2024-asplos-neupims-main.pdf" style="color: #FF8C00;">Talk</a>|<a href="https://github.com/casys-kaist/NeuPIMs" style="color: #009193;">Code</a>] 
@@ -63,18 +54,6 @@ Systems**<br>
 <span style="color:#666666">Soroush Ghodrati, Sean Kinzer, Hanyang Xu, Rohan Mahapatra, Yoonsung Kim, Byung Hoon Ahn, Dong Kai Wang, Lavanya Karthikeyan, Amir Yazdanbakhsh, <u>Jongse Park</u>, Nam Sung Kim, Hadi Esmaeilzadeh</span><br>
 <em><span style="color:#770001;">ASPLOS</span>, 2024</em> [<a href="../files/paper/2024-asplos-tandem_processor.pdf" style="color: #1D90FF;">Paper</a>] <br>
 <strong><em><span style="color:#4F8F01;">Honorable Mention in IEEE Micro Top Picks</span></em></strong>
-
-**ONNXim: A Fast, Cycle-level Multi-core NPU Simulator**<br>
-<span style="color:#666666">Hyungkyu Ham*, Wonhyuk Yang*, Yunseon Shin, Okkyun Woo, Guseul Heo, Sangyeop Lee, <u>Jongse Park</u>, Gwangsun Kim</span><br>
-<em><span style="color:#770001;">IEEE Computer Architecture Letters (CAL)</span>, 2024</em> [<a href="../files/paper/2024-cal-onnxim.pdf" style="color: #1D90FF;">Paper</a>|<a href="https://github.com/PSAL-POSTECH/ONNXim" style="color: #009193;">Code</a>]
-
-**LPU: A Latency-optimized and Highly Scalable Processor for Large Language Model Inference**<br>
-<span style="color:#666666">Seungjae Moon, Jung-Hoon Kim, Junsoo Kim, Seongmin Hong, Junseo Cha, Minsu Kim, Sukbin Lim, Gyubin Choi, Dongjin Seo, Jongho Kim, Hunjong Lee, Hyunjun Park, Ryeowook Ko, Soongyu Choi, <u>Jongse Park</u>, Jinwon Lee, Joo-Young Kim</span><br>
-<em><span style="color:#770001;">IEEE Micro, </span> special issue on Contemporary Industry Products, 2024</em> [<a href="../files/paper/2024-ieee_micro-lpu.pdf" style="color: #1D90FF;">Paper</a>] 
-
-**Cerberus: Triple Mode Acceleration of Sparse Matrix and Vector Multiplication**<br>
-<span style="color:#666666">Soojin Hwang, Daehyeon Baek, <u>Jongse Park</u>, Jaehyuk Huh</span><br>
-<em><span style="color:#770001;">IEEE Transactions on Architecture and Code Optimization (TACO)</span>, 2024</em> [<a href="../files/paper/2024-taco-cerberus.pdf" style="color: #1D90FF;">Paper</a>]
 
 <span style="font-size: 0.8em;">2023</span>  
 ---
@@ -88,18 +67,6 @@ Systems**<br>
 <span style="color:#666666">Ren&eacute;e St. Amant, Amir Yazdanbakhsh, <u>Jongse Park</u>, Bradley Thwaites, Hadi Esmaeilzadeh, Arjang Hassibi, Luis Ceze, and Doug Burger</span>  
 <em><span style="color:#770001;" style="color: #1D90FF;">ISCA</span>, 2023</em>  [<a href="../files/paper/2023-isca_retrospective-anpu.pdf" style="color: #1D90FF;">Retrospective</a>]<br>
 <strong><em><span style="color:#4F8F01;">Selected for Inclusion in ISCA 25-year Retrospective 1996-2020</span></em></strong>
-
-**Hardware Hardened Sandbox Enclaves for Trusted Serverless Computing**<br>
-<span style="color:#666666">Joongun Park, Seunghyo Kang, Sanghyeon Lee, Taehoon Kim, <u>Jongse Park</u>, Youngjin Kwon, and Jaehyuk Huh</span><br>
-<em><span style="color:#770001;">IEEE Transactions on Architecture and Code Optimization (TACO)</span>, 2023</em> [<a href="../files/paper/2023-taco-cloister.pdf" style="color: #1D90FF;">Paper</a>]
-
-**FlexBlock: A Flexible DNN Training Accelerator with Multi-Mode Block Floating Point Support**<br>
-<span style="color:#666666">Seock-Hwan Noh, Jahyun Koo, Seunghyun Lee, <u>Jongse Park</u>, and Jaeha Kung</span><br>
-<em><span style="color:#770001;">IEEE Transactions on Computers (TC)</span>, 2023</em> [<a href="../files/paper/2023-tc-flexblock.pdf" style="color: #1D90FF;">Paper</a>]
-
-**HAMMER: Hardware-friendly Approximate Computing for Self-attention with Mean-redistribution and Linearization**<br>
-<span style="color:#666666">Seonho Lee, Ranggi Hwang, <u>Jongse Park</u>, and Minsoo Rhu</span><br>
-<em><span style="color:#770001;">IEEE Computer Architecture Letters (CAL)</span>, 2023</em> [<a href="../files/paper/2023-cal-hammer.pdf" style="color: #1D90FF;">Paper</a>]
 
 <span style="font-size: 0.8em;">2022</span>  
 ---
@@ -124,20 +91,12 @@ Systems**<br>
 <span style="color:#666666">Sunho Lee, Jungwoo Kim, Seonjin Na, <u>Jongse Park</u>, and Jaehyuk Huh</span><br>
 <em><span style="color:#770001;">HPCA</span>, 2022</em> [<a href="../files/paper/2022-hpca-tnpu.pdf" style="color: #1D90FF;">Paper</a>|<a href="../files/slide/2022-hpca-tnpu.pdf" style="color: #FF8C00;">Talk</a>]
 
-**Yin-Yang: Programming Abstraction for Cross-Domain Multi-Acceleration**<br>
-<span style="color:#666666">Joon Kyung Kim, Byung Hoon Ahn, Sean Kinzer, Soroush Ghodrati, Rohan Mahapatra, Brahmendra Yatham, Dohee Kim, Parisa Sarikhani, Babak Mahmoudi, Divya Mahajan, <u>Jongse Park</u>, Hadi Esmaeilzadeh</span><br>
-<em><span style="color:#770001;" style="color: #1D90FF;">IEEE Micro, </span> special issue on Compiling for Accelerators, 2022</em>  [<a href="../files/paper/2022-ieee_micro-yinyang.pdf" style="color: #1D90FF;">Paper</a>]
-
 <span style="font-size: 0.8em;">2021</span>  
 ---
 
 **Common Counters: Compressed Encryption Counters for Secure GPU Memory**<br>
 <span style="color:#666666">Seonjin Na, Sunho Lee, Yeonjae Kim, <u>Jongse Park</u>, and Jaehyuk Huh</span>   
 <em><span style="color:#770001;">HPCA</span>, 2021</em> [<a href="../files/paper/2021-hpca-commonctr.pdf" style="color: #1D90FF;">Paper</a>|<a href="../files/slide/2021-hpca-commoncounters.pdf" style="color: #FF8C00;">Talk</a>]
-
-**SLO-aware Inference Scheduler for Heterogeneous Processors in Edge Platforms**<br>
-<span style="color:#666666">Wonik Seo, Sanghoon Cha, Yeonjae Kim, Jaehyuk Huh, and <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">IEEE Transactions on Architecture and Code Optimization (TACO)</span>, 2021</em> [<a href="../files/paper/2021-taco-edgeduler.pdf" style="color: #1D90FF;">Paper</a>] 
 
 <span style="font-size: 0.8em;">2020</span>  
 ---
@@ -194,10 +153,6 @@ Systems**<br>
 <span style="color:#666666">Amir Yazdanbakhsh, Divya Mahajan, Bradley Thwaites, <u>Jongse Park</u>, Anandhavel Nagendrakumar, Sindhuja Sethuraman, Kartik Ramkrishnan, Nishanthi Ravindran, Rudra Jariwala, Abbas Rahimi, Hadi Esmaeilzadeh, and Kia Bazargan</span>   
 <em><span style="color:#770001;">DATE</span>, 2015</em>  [<a href="../files/paper/2015-date-axilog.pdf" style="color: #1D90FF;">Paper</a>|<a href="../files/slide/2015-date-axilog.pdf" style="color: #FF8C00;">Talk</a>]
 
-**Axilog: Abstractions for Approximate Hardware Design and Reuse**   
-<span style="color:#666666">Divya Mahajan,  Kartik Ramkrishnan, Rudra Jariwala, Amir Yazdanbakhsh, <u>Jongse Park</u>, Bradley Thwaites, Anandhavel Nagendrakumar, Abbas Rahimi, Hadi Esmaeilzadeh, and Kia Bazargan</span>   
-<em><span style="color:#770001;">IEEE Micro, </span>, special issue on Alternative Computing Designs and Technologies, 2015</em>  [<a href="../files/paper/2015-ieee_micro-axilog.pdf" style="color: #1D90FF;">Paper</a>]<br><br>
-
 **General-Purpose Code Acceleration with Limited-Precision Analog Computation**   
 <span style="color:#666666">Ren&eacute;e St. Amant, Amir Yazdanbakhsh, <u>Jongse Park</u>, Bradley Thwaites, Hadi Esmaeilzadeh, Arjang Hassibi, Luis Ceze, and Doug Burger</span>   
 <em><span style="color:#770001;">ISCA</span>, 2014</em>  [<a href="../files/paper/2014-isca-anpu.pdf" style="color: #1D90FF;">Paper</a>|<a href="../files/slide/2014-isca-anpu.pdf" style="color: #FF8C00;">Talk</a>]  
@@ -214,3 +169,75 @@ Systems**<br>
 **Locality-aware Dynamic VM Reconfiguration on MapReduce Clouds**   
 <span style="color:#666666"><u>Jongse Park</u>, Daewoo Lee, Bokyeong Kim, Jaehyuk Huh, and Seungryoul Maeng</span>   
 <em><span style="color:#770001;">HPDC</span>, 2012</em>  [<a href="../files/paper/2012-hpdc-drr.pdf" style="color: #1D90FF;">Paper</a>|<a href="../files/slide/2012-hpdc-drr.pdf" style="color: #FF8C00;">Talk</a>]<br><br>
+
+## **Journal**    
+---
+
+<span style="font-size: 0.8em;">2025</span>  
+---
+
+**MixDiT: Accelerating Image Diffusion Transformer Inference with Mixed-Precision MX Quantization**<br>
+<span style="color:#666666">Daeun Kim, Jinwoo Hwang, Changhun Oh, <u>Jongse Park</u></span><br>
+<em><span style="color:#770001;">IEEE Computer Architecture Letters (CAL)</span>, 2025</em> [Paper] (To Appear)
+
+<span style="font-size: 0.8em;">2024</span>  
+---
+
+**ONNXim: A Fast, Cycle-level Multi-core NPU Simulator**<br>
+<span style="color:#666666">Hyungkyu Ham*, Wonhyuk Yang*, Yunseon Shin, Okkyun Woo, Guseul Heo, Sangyeop Lee, <u>Jongse Park</u>, Gwangsun Kim</span><br>
+<em><span style="color:#770001;">IEEE Computer Architecture Letters (CAL)</span>, 2024</em> [<a href="../files/paper/2024-cal-onnxim.pdf" style="color: #1D90FF;">Paper</a>|<a href="https://github.com/PSAL-POSTECH/ONNXim" style="color: #009193;">Code</a>]
+
+**LPU: A Latency-optimized and Highly Scalable Processor for Large Language Model Inference**<br>
+<span style="color:#666666">Seungjae Moon, Jung-Hoon Kim, Junsoo Kim, Seongmin Hong, Junseo Cha, Minsu Kim, Sukbin Lim, Gyubin Choi, Dongjin Seo, Jongho Kim, Hunjong Lee, Hyunjun Park, Ryeowook Ko, Soongyu Choi, <u>Jongse Park</u>, Jinwon Lee, Joo-Young Kim</span><br>
+<em><span style="color:#770001;">IEEE Micro, </span> special issue on Contemporary Industry Products, 2024</em> [<a href="../files/paper/2024-ieee_micro-lpu.pdf" style="color: #1D90FF;">Paper</a>] 
+
+**Cerberus: Triple Mode Acceleration of Sparse Matrix and Vector Multiplication**<br>
+<span style="color:#666666">Soojin Hwang, Daehyeon Baek, <u>Jongse Park</u>, Jaehyuk Huh</span><br>
+<em><span style="color:#770001;">IEEE Transactions on Architecture and Code Optimization (TACO)</span>, 2024</em> [<a href="../files/paper/2024-taco-cerberus.pdf" style="color: #1D90FF;">Paper</a>]
+
+<span style="font-size: 0.8em;">2023</span>  
+---
+
+**Hardware Hardened Sandbox Enclaves for Trusted Serverless Computing**<br>
+<span style="color:#666666">Joongun Park, Seunghyo Kang, Sanghyeon Lee, Taehoon Kim, <u>Jongse Park</u>, Youngjin Kwon, and Jaehyuk Huh</span><br>
+<em><span style="color:#770001;">IEEE Transactions on Architecture and Code Optimization (TACO)</span>, 2023</em> [<a href="../files/paper/2023-taco-cloister.pdf" style="color: #1D90FF;">Paper</a>]
+
+**FlexBlock: A Flexible DNN Training Accelerator with Multi-Mode Block Floating Point Support**<br>
+<span style="color:#666666">Seock-Hwan Noh, Jahyun Koo, Seunghyun Lee, <u>Jongse Park</u>, and Jaeha Kung</span><br>
+<em><span style="color:#770001;">IEEE Transactions on Computers (TC)</span>, 2023</em> [<a href="../files/paper/2023-tc-flexblock.pdf" style="color: #1D90FF;">Paper</a>]
+
+**HAMMER: Hardware-friendly Approximate Computing for Self-attention with Mean-redistribution and Linearization**<br>
+<span style="color:#666666">Seonho Lee, Ranggi Hwang, <u>Jongse Park</u>, and Minsoo Rhu</span><br>
+<em><span style="color:#770001;">IEEE Computer Architecture Letters (CAL)</span>, 2023</em> [<a href="../files/paper/2023-cal-hammer.pdf" style="color: #1D90FF;">Paper</a>]
+
+<span style="font-size: 0.8em;">2022</span>  
+---
+
+**Yin-Yang: Programming Abstraction for Cross-Domain Multi-Acceleration**<br>
+<span style="color:#666666">Joon Kyung Kim, Byung Hoon Ahn, Sean Kinzer, Soroush Ghodrati, Rohan Mahapatra, Brahmendra Yatham, Dohee Kim, Parisa Sarikhani, Babak Mahmoudi, Divya Mahajan, <u>Jongse Park</u>, Hadi Esmaeilzadeh</span><br>
+<em><span style="color:#770001;" style="color: #1D90FF;">IEEE Micro, </span> special issue on Compiling for Accelerators, 2022</em>  [<a href="../files/paper/2022-ieee_micro-yinyang.pdf" style="color: #1D90FF;">Paper</a>]
+
+<span style="font-size: 0.8em;">2021 or earlier</span>  
+---
+
+**SLO-aware Inference Scheduler for Heterogeneous Processors in Edge Platforms**<br>
+<span style="color:#666666">Wonik Seo, Sanghoon Cha, Yeonjae Kim, Jaehyuk Huh, and <u>Jongse Park</u></span><br>
+<em><span style="color:#770001;">IEEE Transactions on Architecture and Code Optimization (TACO)</span>, 2021</em> [<a href="../files/paper/2021-taco-edgeduler.pdf" style="color: #1D90FF;">Paper</a>] 
+
+**Axilog: Abstractions for Approximate Hardware Design and Reuse**   
+<span style="color:#666666">Divya Mahajan,  Kartik Ramkrishnan, Rudra Jariwala, Amir Yazdanbakhsh, <u>Jongse Park</u>, Bradley Thwaites, Anandhavel Nagendrakumar, Abbas Rahimi, Hadi Esmaeilzadeh, and Kia Bazargan</span>   
+<em><span style="color:#770001;">IEEE Micro, </span>, special issue on Alternative Computing Designs and Technologies, 2015</em>  [<a href="../files/paper/2015-ieee_micro-axilog.pdf" style="color: #1D90FF;">Paper</a>]<br><br>
+
+## **Workshop**    
+---
+
+**LLMServingSim: A Simulation Infrastructure for LLM Inference Serving Systems**<br>
+<span style="color:#666666">Jaehong Cho, Minsu Kim, Hyunmin Choi, <u>Jongse Park</u></span><br>
+<em><span style="color:#770001;">ISCA Workshop on ML for Computer Architecture and Systems (MLArchSys)</span>, 2024</em> [<a href="../files/paper/2024-mlarchsys-llmservingsim.pdf" style="color: #1D90FF;">Paper</a>|<a href="../files/slide/2024-mlarchsys-llmservingsim.pdf" style="color: #FF8C00;">Talk</a>] 
+
+**LVS: A Learned Video Storage for Fast and Efficient Video Understanding**<br>
+<span style="color:#666666">Yunghee Lee, <u>Jongse Park</u></span><br>
+<em><span style="color:#770001;">CVPR Workshop on Efficient Deep Learning for Computer Vision (ECV)</span>, 2024</em> [<a href="../files/paper/2024-ecv-lvs.pdf" style="color: #1D90FF;">Paper</a>|<a href="../files/slide/2024-cvpr_ecv-lvs.pdf" style="color: #FF8C00;">Talk</a>]
+
+
+
