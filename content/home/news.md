@@ -16,7 +16,8 @@ weight = 30
 
 ### **2025**
 
-- [April 10] A paper is accepted to **IEEE CAL**. Congrats to Daeun, Jinwoo, and Changhun! 
+- [April 10] A paper is accepted to **IEEE CAL**. Congrats to Daeun, Jinwoo, and Changhun!
+- [April 8] Our proposal on **"Distributed Inference and Model Optimization for Heterogeneous AI Semiconductors"** awarded funding under the **2025 K-Cloud Technology Development Project** grant. This is a collaborative effort with **ETRI, Rebellion, Konan Technology, and Seoul National University**. 
 - [March 22] A paper is accepted to **ISCA'25**. Congrats to Minsu and our collaborators at HyperAccel. 
 - [February 7] Tandem Processor (ASPLOS'24) has been recognized as an **IEEE Micro Top Picks Honorable Mention**. Congratulations to all the authors from UCSD, UIUC, Google Deepmind, and KAIST!
 - [February 5] I have won the **Teaching Innovation Award Excellence Prize (교수학습혁신상 우수상) at KAIST** in recognition of my contributions to advancing education.
