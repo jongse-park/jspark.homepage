@@ -23,7 +23,7 @@ weight = 60
 
 **MixDiT: Accelerating Image Diffusion Transformer Inference with Mixed-Precision MX Quantization**<br>
 <span style="color:#666666">Daeun Kim, Jinwoo Hwang, Changhun Oh, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">IEEE Computer Architecture Letters (CAL)</span>, 2025</em> [Paper] (To Appear)
+<em><span style="color:#770001;">IEEE Computer Architecture Letters (CAL)</span>, 2025</em> [<a href="https://arxiv.org/abs/2504.08398"  style="color: #1D90FF;">Paper</a>] (To Appear)
 
 <span style="font-size: 0.8em;">2024</span>  
 ---
