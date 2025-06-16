@@ -17,6 +17,10 @@ weight = 60
 <span style="font-size: 0.8em;">2025</span>  
 ---
 
+**Déjà Vu: Efficient Video-Language Query Engine with Learning-based Inter-Frame Computation Reuse**<br>
+<span style="color:#666666">Jinwoo Hwang, Daeun Kim, Sangyeop Lee, Yoonsung Kim, Guseul Heo, Hojoon Kim, Yunseok Jeong, Tadiwos Meaza, Eunhyeok Park, Jeongseob Ahn, <u>Jongse Park</u></span><br>
+<em><span style="color:#770001;">VLDB</span>, 2025</em> [Paper] (To Appear)
+
 **Oaken: Fast and Efficient LLM Serving with Online-Offline Hybrid KV Cache Quantization**<br>
 <span style="color:#666666">Minsu Kim, Seongmin Hong, RyeoWook Ko, Soongyu Choi, Hunjong Lee, Junsoo Kim, Joo-Young Kim, <u>Jongse Park</u></span><br>
 <em><span style="color:#770001;">ISCA</span>, 2025</em> [<a href="../files/paper/2025-isca-oaken.pdf" style="color: #1D90FF;">Paper</a>] (To Appear)

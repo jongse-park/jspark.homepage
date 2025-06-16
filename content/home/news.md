@@ -16,6 +16,7 @@ weight = 30
 
 ### **2025**
 
+- [June 16] Our paper has been accepted to **VLDB 2025**! Congratulations to Jinwoo and all collaborators from Korea University, POSTECH, and the many contributing students from KAIST!
 - [April 10] A paper is accepted to **IEEE CAL**. Congrats to Daeun, Jinwoo, and Changhun!
 - [April 8] Our proposal on **"Distributed Inference and Model Optimization for Heterogeneous AI Semiconductors"** awarded funding under the **K-Cloud Project** grant. This is a collaborative effort with **ETRI, Rebellion, Konan Technology, and Seoul National University**. 
 - [March 22] A paper is accepted to **ISCA'25**. Congrats to Minsu and our collaborators at HyperAccel. 
