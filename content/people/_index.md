@@ -23,7 +23,7 @@ weight = 40
 - 	<a href="https://kimdaeun00.github.io">Daeun Kim</a>
 -	<a href="https://sangyeop-lee.github.io">Sangyeop Lee</a>
 -	<a href="https://cp.kaist.ac.kr/shuangshuang.zhao/">Shuangshuang Zhao</a>
--	Janggun Lee
+-	<a href="https://lee-janggun.github.io/">Janggun Lee</a>
 -	Minseong Jang
 -	Jungin Rhee
 
@@ -39,12 +39,10 @@ weight = 40
 -   <a href="https://kimddong0069.github.io/">Dongha Kim</a>
 -	<a href="https://anhaechan.github.io/">Haechan An</a>
 -	Gieun Jeong
--	<a href="https://cp.kaist.ac.kr/jeonghyeon.kim/">Jeonghyeon Kim</a>
--	Woojin Lee
+-	<a href="https://jhyeon.kim">Jeonghyeon Kim</a>
+-	<a href="https://woojinlee.github.io/">Woojin Lee</a>
 
 ##### Undergraduate Students
--   Aziz Huseynov (Spring 2024)
--	Tadiwos Meaza (Fall 2024)
 -	Hyeonbin Bae (Winter 2024)
 -	Yoonhyeong Lee (Winter 2024)
 - 	Yeongwook Kim (Winter 2024)
