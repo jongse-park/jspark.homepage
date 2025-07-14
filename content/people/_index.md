@@ -22,7 +22,7 @@ weight = 40
 -	<a href="https://milchstra3e.github.io">Changhun Oh</a>
 - 	<a href="https://kimdaeun00.github.io">Daeun Kim</a>
 -	<a href="https://sangyeop-lee.github.io">Sangyeop Lee</a>
--	Shuangshuang Zhao
+-	<a href="https://cp.kaist.ac.kr/shuangshuang.zhao/">Shuangshuang Zhao</a>
 -	Janggun Lee
 -	Minseong Jang
 -	Jungin Rhee
@@ -37,7 +37,7 @@ weight = 40
 -   <a href="https://jiyong-j.github.io/">Jiyong Jung</a>
 -   <a href="https://hymin13.github.io/about.html">Yeongmin Hwang</a>
 -   <a href="https://kimddong0069.github.io/">Dongha Kim</a>
--	Haechan An
+-	<a href="https://anhaechan.github.io/">Haechan An</a>
 -	Gieun Jeong
 -	Jeonghyeon Kim
 -	Woojin Lee
