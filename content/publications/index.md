@@ -17,17 +17,13 @@ weight = 60
 <span style="font-size: 0.8em;">2025</span>  
 ---
 
-<!--
 **Pimba: A Processing-in-Memory Acceleration for Post-Transformer Large Language Model Serving**<br>
 <span style="color:#666666">Wonung Kim, Yubin Lee, Yoonsung Kim, Jinwoo Hwang, Seongryong Oh, Jiyong Jung, Aziz Huseynov, Woong Gyu Park, Chang Hyun Park, Divya Mahajan, <u>Jongse Park</u></span><br>
 <em><span style="color:#770001;">MICRO</span>, 2025</em> [Paper] (To Appear)
--->
 
-<!--
 **PyTorchSim: A Comprehensive, Fast, and Accurate NPU Simulation Framework**<br>
 <span style="color:#666666">Wonhyuk Yang, Yunseon Shin, Okkyun Woo, Geonwoo Park, Hyungkyu Ham, Jeehoon Kang, <u>Jongse Park</u>, Gwangsun Kim</span><br>
 <em><span style="color:#770001;">MICRO</span>, 2025</em> [Paper] (To Appear)
--->
 
 **Déjà Vu: Efficient Video-Language Query Engine with Learning-based Inter-Frame Computation Reuse**<br>
 <span style="color:#666666">Jinwoo Hwang, Daeun Kim, Sangyeop Lee, Yoonsung Kim, Guseul Heo, Hojoon Kim, Yunseok Jeong, Tadiwos Meaza, Eunhyeok Park, Jeongseob Ahn, <u>Jongse Park</u></span><br>
