@@ -39,7 +39,7 @@ weight = 40
 -   <a href="https://kimddong0069.github.io/">Dongha Kim</a>
 -	<a href="https://anhaechan.github.io/">Haechan An</a>
 -	Gieun Jeong
--	Jeonghyeon Kim
+-	<a href="https://cp.kaist.ac.kr/jeonghyeon.kim/">Jeonghyeon Kim</a>
 -	Woojin Lee
 
 ##### Undergraduate Students
