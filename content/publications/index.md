@@ -35,7 +35,7 @@ weight = 60
 
 **Oaken: Fast and Efficient LLM Serving with Online-Offline Hybrid KV Cache Quantization**<br>
 <span style="color:#666666">Minsu Kim, Seongmin Hong, RyeoWook Ko, Soongyu Choi, Hunjong Lee, Junsoo Kim, Joo-Young Kim, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">ISCA</span>, 2025</em> [<a href="../files/paper/2025-isca-oaken.pdf" style="color: #1D90FF;">Paper</a>] (To Appear)
+<em><span style="color:#770001;">ISCA</span>, 2025</em> [<a href="../files/paper/2025-isca-oaken.pdf" style="color: #1D90FF;">Paper</a>] 
 
 **MixDiT: Accelerating Image Diffusion Transformer Inference with Mixed-Precision MX Quantization**<br>
 <span style="color:#666666">Daeun Kim, Jinwoo Hwang, Changhun Oh, <u>Jongse Park</u></span><br>
