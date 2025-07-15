@@ -24,8 +24,8 @@ weight = 40
 -	<a href="https://sangyeop-lee.github.io">Sangyeop Lee</a>
 -	<a href="https://poppindouble.github.io/">Shuangshuang Zhao</a>
 -	<a href="https://lee-janggun.github.io/">Janggun Lee</a>
--	Minseong Jang
--	Jungin Rhee
+-	<a href="https://minseongg.github.io/">Minseong Jang</a>
+-	<a href="https://jirheee.github.io/jirheee/">Jungin Rhee</a>
 
 #####	M.S. Students	
 -   <a href="https://waneon.me/">Wonung Kim</a>
