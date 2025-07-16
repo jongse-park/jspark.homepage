@@ -19,7 +19,7 @@ weight = 60
 
 **Pimba: A Processing-in-Memory Acceleration for Post-Transformer Large Language Model Serving**<br>
 <span style="color:#666666">Wonung Kim, Yubin Lee, Yoonsung Kim, Jinwoo Hwang, Seongryong Oh, Jiyong Jung, Aziz Huseynov, Woong Gyu Park, <br>Chang Hyun Park, Divya Mahajan, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">MICRO</span>, 2025</em> [Paper] (To Appear)
+<em><span style="color:#770001;">MICRO</span>, 2025</em> [<a href="https://arxiv.org/abs/2507.10178?context=cs.AR" style="color: #1D90FF;">Paper</a>] (To Appear)
 
 **PyTorchSim: A Comprehensive, Fast, and Accurate NPU Simulation Framework**<br>
 <span style="color:#666666">Wonhyuk Yang, Yunseon Shin, Okkyun Woo, Geonwoo Park, Hyungkyu Ham, Jeehoon Kang, <u>Jongse Park</u>, Gwangsun Kim</span><br>
@@ -27,7 +27,7 @@ weight = 60
 
 **Déjà Vu: Efficient Video-Language Query Engine with Learning-based Inter-Frame Computation Reuse**<br>
 <span style="color:#666666">Jinwoo Hwang, Daeun Kim, Sangyeop Lee, Yoonsung Kim, Guseul Heo, Hojoon Kim, Yunseok Jeong, Tadiwos Meaza, Eunhyeok Park, Jeongseob Ahn, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">VLDB</span>, 2025</em> [<a href="https://arxiv.org/pdf/2506.14107" style="color: #1D90FF;">Paper</a>] (To Appear)
+<em><span style="color:#770001;">VLDB</span>, 2025</em> [<a href="../files/paper/2025-vldb-dejavu.pdf" style="color: #1D90FF;">Paper</a>] (To Appear)
 
 **Oaken: Fast and Efficient LLM Serving with Online-Offline Hybrid KV Cache Quantization**<br>
 <span style="color:#666666">Minsu Kim, Seongmin Hong, RyeoWook Ko, Soongyu Choi, Hunjong Lee, Junsoo Kim, Joo-Young Kim, <u>Jongse Park</u></span><br>
