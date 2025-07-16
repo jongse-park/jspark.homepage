@@ -40,7 +40,7 @@ weight = 40
 -	<a href="https://anhaechan.github.io/">Haechan An</a>
 -	<a href="https://gieune.github.io">Gieun Jeong</a>
 -	<a href="https://jhyeon.kim">Jeonghyeon Kim</a>
--	<a href="https://woojinlee.github.io/">Woojin Lee</a>
+-	<a href="https://woojinnn.github.io/">Woojin Lee</a>
 
 ##### Undergraduate Students
 -	Hyeonbin Bae (Winter 2024)
