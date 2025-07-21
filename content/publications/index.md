@@ -18,7 +18,7 @@ weight = 60
 ---
 
 **Pimba: A Processing-in-Memory Acceleration for Post-Transformer Large Language Model Serving**<br>
-<span style="color:#666666">Wonung Kim, Yubin Lee, Yoonsung Kim, Jinwoo Hwang, Seongryong Oh, Jiyong Jung, Aziz Huseynov, Woong Gyu Park, <br>Chang Hyun Park, Divya Mahajan, <u>Jongse Park</u></span><br>
+<span style="color:#666666">Wonung Kim, Yubin Lee, Yoonsung Kim, Jinwoo Hwang, Seongryong Oh, Jiyong Jung, Aziz Huseynov, Woong Gyu Park, Chang Hyun Park, Divya Mahajan, <u>Jongse Park</u></span><br>
 <em><span style="color:#770001;">MICRO</span>, 2025</em> [<a href="https://arxiv.org/abs/2507.10178?context=cs.AR" style="color: #1D90FF;">Paper</a>] (To Appear)
 
 **PyTorchSim: A Comprehensive, Fast, and Accurate NPU Simulation Framework**<br>
