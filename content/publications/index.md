@@ -69,7 +69,7 @@ Systems**<br>
 
 **NeuPIMs: NPU-PIM Heterogeneous Acceleration for Batched LLM Inferencing**<br>
 <span style="color:#666666">Guseul Heo, Sangyeop Lee, Jaehong Cho, Hyunmin Choi, Sanghyeon Lee, Hyungkyu Ham, Gwangsun Kim, Divya Mahajan, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">ASPLOS</span>, 2024</em> [<a href="../files/paper/2024-asplos-neupims.pdf" style="color: #1D90FF;">Paper</a>|<a href="files/slide/2024-asplos-neupims-main.pdf" style="color: #FF8C00;">Talk</a>|<a href="https://github.com/casys-kaist/NeuPIMs" style="color: #009193;">Code</a>] 
+<em><span style="color:#770001;">ASPLOS</span>, 2024</em> [<a href="../files/paper/2024-asplos-neupims.pdf" style="color: #1D90FF;">Paper</a>|<a href="../files/slide/2024-asplos-neupims-main.pdf" style="color: #FF8C00;">Talk</a>|<a href="https://github.com/casys-kaist/NeuPIMs" style="color: #009193;">Code</a>] 
 
 **Tandem Processor: Grappling with Emerging Operators in Neural Networks**<br>
 <span style="color:#666666">Soroush Ghodrati, Sean Kinzer, Hanyang Xu, Rohan Mahapatra, Yoonsung Kim, Byung Hoon Ahn, Dong Kai Wang, Lavanya Karthikeyan, Amir Yazdanbakhsh, <u>Jongse Park</u>, Nam Sung Kim, Hadi Esmaeilzadeh</span><br>
