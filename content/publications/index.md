@@ -47,16 +47,16 @@ Systems**<br>
 
 **LLMServingSim: A HW/SW Co-Simulation Infrastructure for LLM Inference Serving at Scale**<br>
 <span style="color:#666666">Jaehong Cho, Minsu Kim, Hyunmin Choi, Guseul Heo, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">IISWC</span>, 2024</em> [<a href="../files/paper/2024-iiswc-llmservingsim.pdf"  style="color: #1D90FF;">Paper</a>|<a href="files/paper/2024-iiswc-llmservingsim.pdf" style="color: #FF8C00;">Talk</a>|<a href="https://github.com/casys-kaist/LLMServingSim" style="color: #009193;">Code</a>] <br>
+<em><span style="color:#770001;">IISWC</span>, 2024</em> [<a href="../files/paper/2024-iiswc-llmservingsim.pdf"  style="color: #1D90FF;">Paper</a>|<a href="../files/paper/2024-iiswc-llmservingsim.pdf" style="color: #FF8C00;">Talk</a>|<a href="https://github.com/casys-kaist/LLMServingSim" style="color: #009193;">Code</a>] <br>
 <strong><em><span style="color:#4F8F01;"><b>Best Paper Award &amp; Distinguished Artifact Award</b></span></em></strong> <br>
 
 **Accelerating String-key Learned Index Structures via Memoization-based Incremental Training**<br>
 <span style="color:#666666">Minsu Kim, Jinwoo Hwang, Guseul Heo, Seiyeon Cho, Divya Mahajan, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">VLDB</span>, 2024</em> [<a href="../files/paper/2024-vldb-sia.pdf" style="color: #1D90FF;">Paper</a>|<a href="files/slide/2024-vldb-sia.pdf" style="color: #FF8C00;">Talk</a>|<a href="https://github.com/casys-kaist/sia" style="color: #009193;">Code</a>] 
+<em><span style="color:#770001;">VLDB</span>, 2024</em> [<a href="../files/paper/2024-vldb-sia.pdf" style="color: #1D90FF;">Paper</a>|<a href="../files/slide/2024-vldb-sia.pdf" style="color: #FF8C00;">Talk</a>|<a href="https://github.com/casys-kaist/sia" style="color: #009193;">Code</a>] 
 
 **DaCapo: Accelerating Continuous Learning in Autonomous Systems for Video Analytics**<br>
 <span style="color:#666666">Yoonsung Kim, Changhun Oh, Jinwoo Hwang, Wonung Kim, Seongryong Oh, Yubin Lee, Hardik Sharma, Amir Yazdanbakhsh, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">ISCA</span>, 2024</em> [<a href="../files/paper/2024-isca-dacapo.pdf" style="color: #1D90FF;">Paper</a>|<a href="files/slide/2024-isca-dacapo.pdf" style="color: #FF8C00;">Talk</a>|<a href="https://github.com/casys-kaist/DaCapo" style="color: #009193;">Code</a>]<br>
+<em><span style="color:#770001;">ISCA</span>, 2024</em> [<a href="../files/paper/2024-isca-dacapo.pdf" style="color: #1D90FF;">Paper</a>|<a href="../files/slide/2024-isca-dacapo.pdf" style="color: #FF8C00;">Talk</a>|<a href="https://github.com/casys-kaist/DaCapo" style="color: #009193;">Code</a>]<br>
 <strong><em><span style="color:#4F8F01;">Distinguished Artifact Award</span></em></strong>
 
 **LLMServingSim: A Simulation Infrastructure for LLM Inference Serving Systems**<br>
