@@ -82,7 +82,7 @@ Systems**<br>
 
 **LPU: A Latency-optimized and Highly Scalable Processor for Large Language Model Inference**<br>
 <span style="color:#666666">Seungjae Moon, Jung-Hoon Kim, Junsoo Kim, Seongmin Hong, Junseo Cha, Minsu Kim, Sukbin Lim, Gyubin Choi, Dongjin Seo, Jongho Kim, Hunjong Lee, Hyunjun Park, Ryeowook Ko, Soongyu Choi, <u>Jongse Park</u>, Jinwon Lee, Joo-Young Kim</span><br>
-<em><span style="color:#770001;">IEEE Micro, </span> special issue on Contemporary Industry Products, 2024</em> [<a href="../files/paper/2024-ieee_micro-lpu.pdf" style="color: #1D90FF;">Paper</a>] 
+<em><span style="color:#770001;">IEEE Micro, </span> special issue on Contemporary Industry Products, 2024</em> [<a href="../files/paper/2024-ieee_micro-lpu.pdf" style="color: #1D90FF;">Paper</a>] <br>
 <strong><em><span style="color:#4F8F01;"><b>Best Paper Award</b></span></em></strong> <br>
 
 **Cerberus: Triple Mode Acceleration of Sparse Matrix and Vector Multiplication**<br>
