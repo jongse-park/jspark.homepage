@@ -24,7 +24,8 @@ interests:
 - <i>Generative AI Serving</i>
 - <i>On-Device Physical AI</i>
 - <i>Processing-in-Memory (PIM) Acceleration</i>
-- <i>Compiler, Runtime, and Framework for AI</i> 
+- <i>AI Compiler, Runtime, and Framework</i> 
+- <i>RISC-V Architectures</i>
 
 education:
   courses:
