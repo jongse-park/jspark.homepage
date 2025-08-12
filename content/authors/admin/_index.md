@@ -21,10 +21,10 @@ organizations:
 bio:  
 
 interests:
-- <i>Accelerating AI Serving Systems</i>
-- <i>Enabling On-Device AI Systems</i>
-- <i>Leveraging Processing-in-Memory for AI Systems</i>
-- <i>Designing Flexible AI Compiler Frameworks</i> 
+- <i>Generative AI Serving</i>
+- <i>On-Device Physical AI</i>
+- <i>Processing-in-Memory Acceleration</i>
+- <i>Compilers, Runtimes, and Frameworks for AI</i> 
 
 education:
   courses:
@@ -75,7 +75,15 @@ user_groups:
 - Visitors
 ---
 
-I am an associate professor in the <a href="https://cs.kaist.ac.kr/">School of Computing (SoC)</a> at <a href="https://www.kaist.ac.kr/">KAIST</a> and a faculty member of <a href="http://casys.kaist.ac.kr/">Computer Architecture and Systems Laboratory (CASYS)</a>. I am co-affiliated with <a href="https://ee.kaist.ac.kr/">School of Electrical Engineering</a>, <a href="https://aisemi.kaist.ac.kr/">Graduate School of AI Semiconductor</a>, <a href="https://gssa.kaist.ac.kr/">Graduate School of System Architect</a>, <a href="https://gsai.kaist.ac.kr/?lang=ko">Graduate School of AI</a>, and <a href="https://sse.kaist.ac.kr/">Department of Semiconductor System Engineering (SSE)</a>. I am very much looking forward to working with talented students on exciting projects. If you're interested in joining my research group, please contact me via email introducing yourself (with your CV and transcripts if available).<br><br>
-<u><b>I am currently on sabbatical, visiting the Pervasive Parallelism Lab at Stanford University.</b></u>
+I am an associate professor in the <a href="https://cs.kaist.ac.kr/">School of Computing (SoC)</a> at <a href="https://www.kaist.ac.kr/">KAIST</a> and a faculty member of <a href="http://casys.kaist.ac.kr/">Computer Architecture and Systems Laboratory (CASYS)</a>. I am co-affiliated with: <br>
+<ul>
+  <li><a href="https://gsai.kaist.ac.kr/?lang=ko">Kim Jaechul Graduate School of AI</a></li>
+  <li><a href="https://ee.kaist.ac.kr/">School of Electrical Engineering</a></li>
+  <li><a href="https://aisemi.kaist.ac.kr/">Graduate School of AI Semiconductor</a></li>
+  <li><a href="https://gssa.kaist.ac.kr/">Graduate School of System Architect</a></li>
+  <li><a href="https://sse.kaist.ac.kr/">Department of Semiconductor System Engineering</a></li>
+</ul>
+I am very much looking forward to working with talented students on exciting projects. If you're interested in joining my research group, please contact me via email introducing yourself (with your CV and transcripts if available).<br><br>
+<u><b>I am currently on sabbatical, visiting the <a href="https://ppl.stanford.edu/">Pervasive Parallelism Lab</a> at Stanford University.</b></u>
 <!-- <a href="files/statements/research.pdf">Research Statement</a><br> -->
 <!-- <a href="files/statements/teaching.pdf">Teaching Statement</a> -->
