@@ -74,7 +74,7 @@ Systems**<br>
 **Tandem Processor: Grappling with Emerging Operators in Neural Networks**<br>
 <span style="color:#666666">Soroush Ghodrati, Sean Kinzer, Hanyang Xu, Rohan Mahapatra, Yoonsung Kim, Byung Hoon Ahn, Dong Kai Wang, Lavanya Karthikeyan, Amir Yazdanbakhsh, <u>Jongse Park</u>, Nam Sung Kim, Hadi Esmaeilzadeh</span><br>
 <em><span style="color:#770001;">ASPLOS</span>, 2024</em> [<a href="../files/paper/2024-asplos-tandem_processor.pdf" style="color: #1D90FF;">Paper</a>] <br>
-<strong><em><span style="color:#4F8F01;">Honorable Mention in IEEE Micro Top Picks</span></em></strong>
+<strong><em><span style="color:#4F8F01;">Honorable Mention in IEEE Micro Top Picks 2024</span></em></strong>
 
 **ONNXim: A Fast, Cycle-level Multi-core NPU Simulator**<br>
 <span style="color:#666666">Hyungkyu Ham*, Wonhyuk Yang*, Yunseon Shin, Okkyun Woo, Guseul Heo, Sangyeop Lee, <u>Jongse Park</u>, Gwangsun Kim</span><br>
