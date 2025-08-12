@@ -22,9 +22,9 @@ bio:
 
 interests:
 - <i>Generative AI Serving</i>
-- <i>On-Device Physical AI</i>
+- <i>On-Device AI</i>
 - <i>Processing-in-Memory (PIM) Acceleration</i>
-- <i>Compilers, Runtimes, and Frameworks for AI</i> 
+- <i>Compiler, Runtime, and Framework for AI</i> 
 
 education:
   courses:
