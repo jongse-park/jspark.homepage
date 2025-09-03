@@ -61,11 +61,11 @@ Systems**<br>
 
 **LLMServingSim: A Simulation Infrastructure for LLM Inference Serving Systems**<br>
 <span style="color:#666666">Jaehong Cho, Minsu Kim, Hyunmin Choi, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">ISCA Workshop on ML for Computer Architecture and Systems (MLArchSys)</span>, 2024</em> [<a href="../files/paper/2024-mlarchsys-llmservingsim.pdf" style="color: #1D90FF;">Paper</a>|<a href="../files/slide/2024-mlarchsys-llmservingsim.pdf" style="color: #FF8C00;">Talk</a>] 
+<em><span style="color:#770001;">MLArchSys</span>, 2024</em> [<a href="../files/paper/2024-mlarchsys-llmservingsim.pdf" style="color: #1D90FF;">Paper</a>|<a href="../files/slide/2024-mlarchsys-llmservingsim.pdf" style="color: #FF8C00;">Talk</a>] 
 
 **LVS: A Learned Video Storage for Fast and Efficient Video Understanding**<br>
 <span style="color:#666666">Yunghee Lee, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">CVPR Workshop on Efficient Deep Learning for Computer Vision (ECV)</span>, 2024</em> [<a href="../files/paper/2024-ecv-lvs.pdf" style="color: #1D90FF;">Paper</a>|<a href="../files/slide/2024-cvpr_ecv-lvs.pdf" style="color: #FF8C00;">Talk</a>]
+<em><span style="color:#770001;">ECV</span>, 2024</em> [<a href="../files/paper/2024-ecv-lvs.pdf" style="color: #1D90FF;">Paper</a>|<a href="../files/slide/2024-cvpr_ecv-lvs.pdf" style="color: #FF8C00;">Talk</a>]
 
 **NeuPIMs: NPU-PIM Heterogeneous Acceleration for Batched LLM Inferencing**<br>
 <span style="color:#666666">Guseul Heo, Sangyeop Lee, Jaehong Cho, Hyunmin Choi, Sanghyeon Lee, Hyungkyu Ham, Gwangsun Kim, Divya Mahajan, <u>Jongse Park</u></span><br>
