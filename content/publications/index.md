@@ -27,7 +27,7 @@ weight = 60
 
 **Déjà Vu: Efficient Video-Language Query Engine with Learning-based Inter-Frame Computation Reuse**<br>
 <span style="color:#666666">Jinwoo Hwang, Daeun Kim, Sangyeop Lee, Yoonsung Kim, Guseul Heo, Hojoon Kim, Yunseok Jeong, Tadiwos Meaza, Eunhyeok Park, Jeongseob Ahn, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">VLDB</span>, 2025</em> [<a href="../files/paper/2025-vldb-dejavu.pdf" style="color: #1D90FF;">Paper</a>] (To Appear)
+<em><span style="color:#770001;">VLDB</span>, 2025</em> [<a href="../files/paper/2025-vldb-dejavu.pdf" style="color: #1D90FF;">Paper</a>]
 
 **Oaken: Fast and Efficient LLM Serving with Online-Offline Hybrid KV Cache Quantization**<br>
 <span style="color:#666666">Minsu Kim, Seongmin Hong, RyeoWook Ko, Soongyu Choi, Hunjong Lee, Junsoo Kim, Joo-Young Kim, <u>Jongse Park</u></span><br>
