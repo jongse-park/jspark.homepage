@@ -26,9 +26,9 @@ weight = 40
 -	<a href="https://lee-janggun.github.io/">Janggun Lee</a>
 -	<a href="https://minseongg.github.io/">Minseong Jang</a>
 -	<a href="https://jirheee.github.io/jirheee/">Jungin Rhee</a>
+-   <a href="https://waneon.me/">Wonung Kim</a>
 
 #####	M.S. Students	
--   <a href="https://waneon.me/">Wonung Kim</a>
 -	<a href="https://seongryong0726.github.io/">Seongryong Oh</a> 
 -	<a href="http://yblee.site/">Yubin Lee</a> 
 - 	<a href="https://jaehongcs20.github.io/">Jaehong Cho</a> 
