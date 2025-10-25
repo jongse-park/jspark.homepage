@@ -14,16 +14,23 @@ weight = 60
 
 +++
 
+<span style="font-size: 0.8em;">2026</span>  
+---
+
+**Neo: Real-Time On-Device 3D Gaussian Splatting with Reuse-and-Update Sorting Acceleration**<br>
+<span style="color:#666666">Changhun Oh, Seongryong Oh, Jinwoo Hwang, Yoonsung Kim, Hardik Sharma, <u>Jongse Park</u></span><br>
+<em><span style="color:#770001;">ASPLOS</span>, 2026</em> [Paper] (To Appear)
+
 <span style="font-size: 0.8em;">2025</span>  
 ---
 
 **Pimba: A Processing-in-Memory Acceleration for Post-Transformer Large Language Model Serving**<br>
 <span style="color:#666666">Wonung Kim, Yubin Lee, Yoonsung Kim, Jinwoo Hwang, Seongryong Oh, Jiyong Jung, Aziz Huseynov, Woong Gyu Park, Chang Hyun Park, Divya Mahajan, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">MICRO</span>, 2025</em> [<a href="https://arxiv.org/abs/2507.10178?context=cs.AR" style="color: #1D90FF;">Paper</a>] (To Appear)
+<em><span style="color:#770001;">MICRO</span>, 2025</em> [<a href="../files/paper/2025-micro-pimba.pdf" style="color: #1D90FF;">Paper</a>] 
 
 **PyTorchSim: A Comprehensive, Fast, and Accurate NPU Simulation Framework**<br>
 <span style="color:#666666">Wonhyuk Yang, Yunseon Shin, Okkyun Woo, Geonwoo Park, Hyungkyu Ham, Jeehoon Kang, <u>Jongse Park</u>, Gwangsun Kim</span><br>
-<em><span style="color:#770001;">MICRO</span>, 2025</em> [Paper] (To Appear)
+<em><span style="color:#770001;">MICRO</span>, 2025</em> [<a href="../files/paper/2025-micro-pytorchsim.pdf" style="color: #1D90FF;">Paper</a>] 
 
 **Déjà Vu: Efficient Video-Language Query Engine with Learning-based Inter-Frame Computation Reuse**<br>
 <span style="color:#666666">Jinwoo Hwang, Daeun Kim, Sangyeop Lee, Yoonsung Kim, Guseul Heo, Hojoon Kim, Yunseok Jeong, Tadiwos Meaza, Eunhyeok Park, Jeongseob Ahn, <u>Jongse Park</u></span><br>
