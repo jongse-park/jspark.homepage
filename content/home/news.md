@@ -16,6 +16,7 @@ weight = 30
 
 ### **2025**
 
+- [October 28] A paper is accepted to **IEEE CAL**. Congrats to Jaehong and Hyunmin!
 - [October 24] Our paper has been accepted to **ASPLOS 2026**. Congratulations to Changhun, Seongryong, Jinwoo, Yoonsung, and our collaborator Hardik from Meta Reality Labs!
 - [August 11] Our **IEEE Micro** paper has received the **2024 Best Paper Award**! Congratulations to Seungjae Moon, Joo-Young Kim, and all co-authors from HyperAccel and KAIST!
 - [July 14] Two papers have been accepted to **MICRO 2025**! One led by our team and the other led by POSTECH PSAL team. Congrats to Wonung, the CASYS team, and all collaborators from POSTECH, Uppsala University, and Georgia Tech!
