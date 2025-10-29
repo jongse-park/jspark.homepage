@@ -34,7 +34,7 @@ weight = 60
 
 **PyTorchSim: A Comprehensive, Fast, and Accurate NPU Simulation Framework**<br>
 <span style="color:#666666">Wonhyuk Yang, Yunseon Shin, Okkyun Woo, Geonwoo Park, Hyungkyu Ham, Jeehoon Kang, <u>Jongse Park</u>, Gwangsun Kim</span><br>
-<em><span style="color:#770001;">MICRO</span>, 2025</em> [<a href="../files/paper/2025-micro-pytorchsim.pdf" style="color: #1D90FF;">Paper</a>] 
+<em><span style="color:#770001;">MICRO</span>, 2025</em> [<a href="../files/paper/2025-micro-pytorchsim.pdf" style="color: #1D90FF;">Paper</a>|<a href="../files/slide/2025-micro-pytorchsim.pdf" style="color: #FF8C00;">Talk</a>|<a href="https://github.com/PSAL-POSTECH/PyTorchSim/" style="color: #009193;">Code</a>] 
 
 **Déjà Vu: Efficient Video-Language Query Engine with Learning-based Inter-Frame Computation Reuse**<br>
 <span style="color:#666666">Jinwoo Hwang, Daeun Kim, Sangyeop Lee, Yoonsung Kim, Guseul Heo, Hojoon Kim, Yunseok Jeong, Tadiwos Meaza, Eunhyeok Park, Jeongseob Ahn, <u>Jongse Park</u></span><br>
