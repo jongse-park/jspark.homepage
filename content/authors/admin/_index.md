@@ -21,11 +21,11 @@ organizations:
 bio:  
 
 interests:
-- <i>Generative AI Serving</i>
-- <i>On-Device Physical AI</i>
+- <i>Computer Architecture and Systems</i>
+- <i>Generative AI Serving Systems</i>
+- <i>On-Device Physical AI Systems</i>
 - <i>Processing-in-Memory (PIM) Acceleration</i>
 - <i>AI Compiler, Runtime, and Framework</i> 
-- <i>RISC-V Architectures</i>
 
 education:
   courses:
