@@ -46,6 +46,7 @@ weight = 40
 -	<a href="">Hyunsu Ye</a>
 
 ##### Undergraduate Students
+-	Yoonhyeong Lee (Winter 2024)
 -	Hyungju Ahn (Fall 2025)
 -	Chihyun Ahn (Winter 2025)
 
