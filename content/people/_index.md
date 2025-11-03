@@ -1,5 +1,5 @@
-+++
 # Custom widget.
++++
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"  # Do not modify this line!
@@ -40,7 +40,6 @@ weight = 40
 -	<a href="https://anhaechan.github.io/">Haechan An</a>
 -	<a href="https://gieune.github.io">Gieun Jeong</a>
 -	<a href="https://jhyeon.kim">Jeonghyeon Kim</a>
--	<a href="https://woojinnn.github.io/">Woojin Lee</a>
 -	<a href="https://woojinnn.github.io/">Woojin Lee</a>
 -	<a href="">Yeongwook Kim</a>
 -	<a href="">Hyunsu Ye</a>
