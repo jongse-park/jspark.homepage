@@ -26,7 +26,7 @@ weight = 60
 
 **LLMServingSim2.0: A Unified Simulator for Heterogeneous Hardware and Serving Techniques in LLM Infrastructure**<br>
 <span style="color:#666666">Jaehong Cho, Hyunmin Choi, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">IEEE Computer Architecture Letters (CAL)</span>, 2025</em> [Paper] (To Appear) 
+<em><span style="color:#770001;">IEEE Computer Architecture Letters (CAL)</span>, 2025</em> [<a href="../files/paper/2025-cal-llmservingsim2.0.pdf" style="color: #1D90FF;">Paper</a>] 
 
 **Pimba: A Processing-in-Memory Acceleration for Post-Transformer Large Language Model Serving**<br>
 <span style="color:#666666">Wonung Kim, Yubin Lee, Yoonsung Kim, Jinwoo Hwang, Seongryong Oh, Jiyong Jung, Aziz Huseynov, Woong Gyu Park, Chang Hyun Park, Divya Mahajan, <u>Jongse Park</u></span><br>
