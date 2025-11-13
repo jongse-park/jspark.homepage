@@ -45,6 +45,7 @@ weight = 40
 -	<a href="">Hyunsu Ye</a>
 
 ##### Undergraduate Students
+-	Tadiwos Meaza (Fall 2024)
 -	Yoonhyeong Lee (Winter 2024)
 -	Hyungju Ahn (Fall 2025)
 -	Chihyun Ahn (Winter 2025)
