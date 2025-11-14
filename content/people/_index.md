@@ -49,6 +49,7 @@ weight = 40
 -	Yoonhyeong Lee (Winter 2024)
 -	Hyungju Ahn (Fall 2025)
 -	Chihyun Ahn (Winter 2025)
+-	Seungwuk Eun (Winter 2025)	
 
 ##### Alumni (M.S.)
 -	Dohee Kim (Gradudated in Spring 2022)
