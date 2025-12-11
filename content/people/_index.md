@@ -43,6 +43,7 @@ weight = 40
 -	<a href="https://woojinnn.github.io/">Woojin Lee</a>
 -	<a href="">Yeongwook Kim</a>
 -	<a href="">Hyunsu Ye</a>
+-	<a href="">Sangin Jeon</a>
 
 ##### Undergraduate Students
 -	Tadiwos Meaza (Fall 2024)
