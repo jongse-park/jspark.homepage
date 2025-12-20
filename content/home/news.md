@@ -17,7 +17,7 @@ weight = 30
 ### **2025**
 
 - [December 17] Prof. Park received *two* honors from the 2025 KAIST College of Engineering: **Impact Research Award** and **Technology Innovation Award**.
-- [December 16] A paper is accepted to **IEEE CAL**. Congrats to Jinwoo, Yeongmin, Tadiwos, and Hyunbin!  
+- [December 16] A paper is accepted to **IEEE CAL**. Congrats to Jinwoo, Yeongmin, Tadiwos, and Hyeonbin!  
 - [October 28] A paper is accepted to **IEEE CAL**. Congrats to Jaehong and Hyunmin!
 - [October 24] A paper is accepted to **ASPLOS 2026**. Congratulations to Changhun, Seongryong, Jinwoo, Yoonsung, and our collaborator Hardik from Meta Reality Labs!
 - [August 11] Our **IEEE Micro** paper has received the **2024 Best Paper Award**! Congratulations to Seungjae Moon, Joo-Young Kim, and all co-authors from HyperAccel and KAIST!
