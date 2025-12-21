@@ -16,7 +16,7 @@ weight = 30
 
 ### **2025**
 
-- [December 17] Prof. Park received *two* honors from the 2025 KAIST College of Engineering: **Impact Research Award** and **Technology Innovation Award**.
+- [December 17] I have received *two* honors from the 2025 KAIST College of Engineering: **Impact Research Award** and **Technology Innovation Award**.
 - [December 16] A paper is accepted to **IEEE CAL**. Congrats to Jinwoo, Yeongmin, Tadiwos, and Hyeonbin!  
 - [October 28] A paper is accepted to **IEEE CAL**. Congrats to Jaehong and Hyunmin!
 - [October 24] A paper is accepted to **ASPLOS 2026**. Congratulations to Changhun, Seongryong, Jinwoo, Yoonsung, and our collaborator Hardik from Meta Reality Labs!
@@ -27,7 +27,7 @@ weight = 30
 - [April 8] Our proposal on **"Distributed Inference and Model Optimization for Heterogeneous AI Semiconductors"** awarded funding under the **K-Cloud Project** grant. This is a collaborative effort with **ETRI, Rebellion, Konan Technology, and Seoul National University**. 
 - [March 22] A paper is accepted to **ISCA'25**. Congrats to Minsu and our collaborators at HyperAccel. 
 - [February 7] Tandem Processor (ASPLOS'24) has been recognized as an **IEEE Micro Top Picks Honorable Mention**. Congratulations to all the authors from UCSD, UIUC, Google Deepmind, and KAIST!
-- [February 5] Prof. Park has won the **Teaching Innovation Award Excellence Prize** at KAIST.
+- [February 5] I have won the **Teaching Innovation Award Excellence Prize** at KAIST.
 - [January 24] Our group has won the **Gold Prize (1st place in the Computer Science and Engineering track)** in the prestigious **Samsung Humantech Paper Award**. Congratulations Wonung, Yubin, Yoonsung, Jinwoo, Seongryong, and Jiyong!
 - [January 21] I have joined **Pervasive Parallelism Lab, Stanford EECS** as a **Visiting Associate Professor**. 
 
