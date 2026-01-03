@@ -27,20 +27,16 @@ weight = 40
 -	<a href="https://minseongg.github.io/">Minseong Jang</a>
 -	<a href="https://jirheee.github.io/jirheee/">Jungin Rhee</a>
 -   <a href="https://waneon.me/">Wonung Kim</a>
-
-#####	M.S. Students	
 -	<a href="https://seongryong0726.github.io/">Seongryong Oh</a> 
 -	<a href="http://yblee.site/">Yubin Lee</a> 
+
+#####	M.S. Students	
 - 	<a href="https://jaehongcs20.github.io/">Jaehong Cho</a> 
 - 	<a href="https://hyuenmin-choi.github.io/">Hyunmin Choi</a> 
 -   <a href="https://tr2-k.github.io/">Namwoo Kim</a>
 -   <a href="https://jiyong-j.github.io/">Jiyong Jung</a>
 -   <a href="https://hymin13.github.io/about.html">Yeongmin Hwang</a>
 -   <a href="https://kimddong0069.github.io/">Dongha Kim</a>
--	<a href="https://anhaechan.github.io/">Haechan An</a>
--	<a href="https://gieune.github.io">Gieun Jeong</a>
--	<a href="https://jhyeon.kim">Jeonghyeon Kim</a>
--	<a href="https://woojinnn.github.io/">Woojin Lee</a>
 -	<a href="">Yeongwook Kim</a>
 -	<a href="">Hyunsu Ye</a>
 -	<a href="">Sangin Jeon</a>
@@ -54,6 +50,10 @@ weight = 40
 
 ##### Alumni (M.S.)
 -	Dohee Kim (Gradudated in Spring 2022)
+-	Haechan An (Gradudated in Spring 2026)
+-	Gieun Jeong (Gradudated in Spring 2026)
+-	Jeonghyeon Kim (Gradudated in Spring 2026)
+-	Woojin Lee (Gradudated in Spring 2026)
 
 
 
