@@ -43,10 +43,10 @@ weight = 40
 
 ##### Undergraduate Students
 -	Tadiwos Meaza (Fall 2024)
--	Yoonhyeong Lee (Winter 2024)
 -	Hyungju Ahn (Fall 2025)
 -	Chihyun Ahn (Winter 2025)
--	Seungwuk Eun (Winter 2025)	
+-	Seungwuk Eun (Winter 2025)
+-	Geonwoo Han (Spring 2026)	
 
 ##### Alumni (M.S.)
 -	Dohee Kim (Gradudated in Spring 2022)
