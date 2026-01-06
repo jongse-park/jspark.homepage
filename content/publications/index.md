@@ -15,16 +15,15 @@ weight = 60
 +++
 
 <span style="font-size: 0.8em;">2026</span>  
----
-
-**Understanding the Performance Behaviors of End-to-End Protein Design Pipelines on GPUs**<br>
-<span style="color:#666666">Jinwoo Hwang, Yeongmin Hwang, Tadiwos Meaza, Hyeonbin Bae, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">IEEE Computer Architecture Letters (CAL)</span>, 2026</em> [Paper] (To Appear)
-
+--- 
 
 **Neo: Real-Time On-Device 3D Gaussian Splatting with Reuse-and-Update Sorting Acceleration**<br>
 <span style="color:#666666">Changhun Oh, Seongryong Oh, Jinwoo Hwang, Yoonsung Kim, Hardik Sharma, <u>Jongse Park</u></span><br>
 <em><span style="color:#770001;">ASPLOS</span>, 2026</em> [<a href="https://arxiv.org/pdf/2511.12930" style="color: #1D90FF;">Paper</a>] (To Appear)
+
+**Understanding the Performance Behaviors of End-to-End Protein Design Pipelines on GPUs**<br>
+<span style="color:#666666">Jinwoo Hwang, Yeongmin Hwang, Tadiwos Meaza, Hyeonbin Bae, <u>Jongse Park</u></span><br>
+<em><span style="color:#770001;">IEEE Computer Architecture Letters (CAL)</span>, 2026</em> [<a href="../files/paper/2026-cal-protein.pdf" style="color: #1D90FF;">Paper</a>]
 
 <span style="font-size: 0.8em;">2025</span>  
 ---
