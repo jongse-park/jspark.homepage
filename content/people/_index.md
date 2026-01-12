@@ -38,7 +38,7 @@ weight = 40
 -   <a href="https://hymin13.github.io/about.html">Yeongmin Hwang</a>
 -   <a href="https://kimddong0069.github.io/">Dongha Kim</a>
 -	<a href="">Yeongwook Kim</a>
--	<a href="">Hyunsu Ye</a>
+-	<a href="https://hyunsuyee.github.io/">Hyunsu Ye</a>
 -	<a href="">Sangin Jeon</a>
 
 ##### Undergraduate Students
