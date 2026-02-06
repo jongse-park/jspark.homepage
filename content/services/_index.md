@@ -14,6 +14,7 @@ weight = 100
 
 +++
 ##### Program Committee
+- MICRO 2026
 - ASPLOS 2025/2026
 - HPCA 2023/2025/2026
 - ISCA 2021/2023/2024/2025
