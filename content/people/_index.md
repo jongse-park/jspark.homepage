@@ -27,7 +27,6 @@ weight = 40
 -	<a href="https://minseongg.github.io/">Minseong Jang</a>
 -	<a href="https://jirheee.github.io/jirheee/">Jungin Rhee</a>
 -   <a href="https://waneon.me/">Wonung Kim</a>
--	<a href="https://seongryong0726.github.io/">Seongryong Oh</a> 
 -	<a href="http://yblee.site/">Yubin Lee</a> 
 
 #####	M.S. Students	
@@ -50,6 +49,7 @@ weight = 40
 
 ##### Alumni (M.S.)
 -	Dohee Kim (Gradudated in Spring 2022)
+-	Seongryong Oh (Graduated in Spring 2026)
 -	Haechan An (Gradudated in Spring 2026)
 -	Gieun Jeong (Gradudated in Spring 2026)
 -	Jeonghyeon Kim (Gradudated in Spring 2026)
