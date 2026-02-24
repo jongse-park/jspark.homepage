@@ -38,7 +38,7 @@ weight = 30
 ### **2024**
 
 - [October 13] A paper is accepted to **IEEE CAL**. Congrats to all the authors at POSTECH and KAIST!
-- [October 12] LLMServingSim (IISWC'24) has been covered by multiple media outlets (Articles: <a href="https://www.yna.co.kr/view/AKR20241011046900063">1</a>, <a href="https://heraldk.com/2024/10/10/kaist-%EB%B0%95%EC%A2%85%EC%84%B8-%EA%B5%90%EC%88%98%ED%8C%80-%EC%84%B8%EA%B3%84-%EC%B5%9C%EA%B3%A0-%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AD%EC%A0%9C%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C-%EC%84%9D/">2</a>, <a href="https://www.asiae.co.kr/article/2024101108375346322">3</a>).
+- [October 12] **LLMServingSim** (IISWC'24) has been covered by multiple media outlets (Articles: <a href="https://www.yna.co.kr/view/AKR20241011046900063">1</a>, <a href="https://heraldk.com/2024/10/10/kaist-%EB%B0%95%EC%A2%85%EC%84%B8-%EA%B5%90%EC%88%98%ED%8C%80-%EC%84%B8%EA%B3%84-%EC%B5%9C%EA%B3%A0-%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AD%EC%A0%9C%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C-%EC%84%9D/">2</a>, <a href="https://www.asiae.co.kr/article/2024101108375346322">3</a>).
 - [October 2] I am elevated to **IEEE Senior Member**.
 - [September 17] Our IISWC paper has received **Both the Best Paper Award and Distinguished Artifact Award!** Congratulations to all involved! 
 - [August 19] Our proposal on **"ML Compiler Framework for On-Device AI"** awarded funding under the **IITP Core Technology Development for the Software Computing Industry** grant. This is a collaborative effort with **ETRI, POSTECH, RTST, Rainbow Robotics, and Aei Robot**. 
