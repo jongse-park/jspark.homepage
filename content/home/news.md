@@ -14,6 +14,10 @@ weight = 30
 
 +++
 
+### **2026**
+
+- [February 24] A paper is accepted to **ISPASS'26**. Congrats to Jaehong, Hyunmin, and Guseul!
+
 ### **2025**
 
 - [December 17] I have received *two* honors, **Impact Research Award** and **Technology Innovation Award**, from the KAIST College of Engineering.
