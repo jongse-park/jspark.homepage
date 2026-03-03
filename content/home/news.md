@@ -16,6 +16,7 @@ weight = 30
 
 ### **2026**
 
+- [February 27] I am appointed as an **Associate Editor for IEEE Computer Architecture Letters (CAL)**.
 - [February 24] A paper is accepted to **ISPASS'26**. Congrats to Jaehong, Hyunmin, and Guseul!
 
 ### **2025**
