@@ -16,8 +16,9 @@ weight = 30
 
 ### **2026**
 
+- [March 6] A paper is accepted to **PLDI’26**! Congratulations to Jeonghyeon. This work was done in collaboration with FuriosaAI.
 - [February 27] I am appointed as an **Associate Editor for IEEE Computer Architecture Letters (CAL)**.
-- [February 24] A paper is accepted to **ISPASS'26**. Congrats to Jaehong, Hyunmin, and Guseul!
+- [February 24] A paper is accepted to **ISPASS'26**! Congrats to Jaehong, Hyunmin, and Guseul!
 
 ### **2025**
 
