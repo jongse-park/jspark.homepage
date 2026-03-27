@@ -17,6 +17,10 @@ weight = 60
 <span style="font-size: 0.8em;">2026</span>  
 --- 
 
+**Cocoon: A System Architecture for Differentially Private Training with Correlated Noises**<br>
+<span style="color:#666666">Donghwan Kim, Xin Gu, Jinho Baek, Timothy Lo, Younghoon Min, Kwangsik Shin, Jongryool Kim, <u>Jongse Park</u>, Kiwan Maeng</span><br>
+<em><span style="color:#770001;">OSDI</span>, 2026</em> [<a href="" style="color: #1D90FF;">Paper</a>] (To Appear)
+
 **Revisiting Partial Tracing for Safe, Efficient, and Concurrent Garbage Collection in Unmanaged Languages**<br>
 <span style="color:#666666">Jeonghyeon Kim, <u>Jongse Park</u>, Youngjin Kwon, Jeehoon Kang</span><br>
 <em><span style="color:#770001;">PLDI</span>, 2026</em> [<a href="" style="color: #1D90FF;">Paper</a>] (To Appear)

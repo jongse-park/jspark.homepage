@@ -16,7 +16,7 @@ weight = 30
 
 ### **2026**
 
-- [March 6] A paper is accepted to **PLDI’26**! Congratulations to Jeonghyeon. This work was done in collaboration with FuriosaAI.
+- [March 6] A paper is accepted to **PLDI'26**! Congratulations to Jeonghyeon. This work was done in collaboration with FuriosaAI.
 - [February 27] I am appointed as an **Associate Editor for IEEE Computer Architecture Letters (CAL)**.
 - [February 24] A paper is accepted to **ISPASS'26**! Congrats to Jaehong, Hyunmin, and Guseul!
 
@@ -25,10 +25,10 @@ weight = 30
 - [December 17] I have received *two* honors, **Impact Research Award** and **Technology Innovation Award**, from the KAIST College of Engineering.
 - [December 16] A paper is accepted to **IEEE CAL**. Congrats to Jinwoo, Yeongmin, Tadiwos, and Hyeonbin!  
 - [October 28] A paper is accepted to **IEEE CAL**. Congrats to Jaehong and Hyunmin!
-- [October 24] A paper is accepted to **ASPLOS 2026**. Congratulations to Changhun, Seongryong, Jinwoo, Yoonsung, and our collaborator Hardik from Meta Reality Labs!
+- [October 24] A paper is accepted to **ASPLOS'26**. Congratulations to Changhun, Seongryong, Jinwoo, Yoonsung, and our collaborator Hardik from Meta Reality Labs!
 - [August 11] Our **IEEE Micro** paper has received the **2024 Best Paper Award**! Congratulations to Seungjae Moon, Joo-Young Kim, and all co-authors from HyperAccel and KAIST!
-- [July 14] Two papers have been accepted to **MICRO 2025**! One led by our team and the other led by POSTECH PSAL team. Congrats to Wonung, the CASYS team, and all collaborators from POSTECH, Uppsala University, and Georgia Tech!
-- [June 16] Our paper has been accepted to **VLDB 2025**! Congratulations to Jinwoo, many contributing students from CASYS, and all collaborators from Korea University and POSTECH!
+- [July 14] Two papers have been accepted to **MICRO'25**! One led by our team and the other led by POSTECH PSAL team. Congrats to Wonung, the CASYS team, and all collaborators from POSTECH, Uppsala University, and Georgia Tech!
+- [June 16] Our paper has been accepted to **VLDB'25**! Congratulations to Jinwoo, many contributing students from CASYS, and all collaborators from Korea University and POSTECH!
 - [April 10] A paper is accepted to **IEEE CAL**. Congrats to Daeun, Jinwoo, and Changhun!
 - [April 8] Our proposal on **"Distributed Inference and Model Optimization for Heterogeneous AI Semiconductors"** awarded funding under the **K-Cloud Project** grant. This is a collaborative effort with **ETRI, Rebellion, Konan Technology, and Seoul National University**. 
 - [March 22] A paper is accepted to **ISCA'25**. Congrats to Minsu and our collaborators at HyperAccel. 
@@ -44,7 +44,7 @@ weight = 30
 - [October 2] I am elevated to **IEEE Senior Member**.
 - [September 17] Our IISWC paper has received **Both the Best Paper Award and Distinguished Artifact Award!** Congratulations to all involved! 
 - [August 19] Our proposal on **"ML Compiler Framework for On-Device AI"** awarded funding under the **IITP Core Technology Development for the Software Computing Industry** grant. This is a collaborative effort with **ETRI, POSTECH, RTST, Rainbow Robotics, and Aei Robot**. 
-- [August 2] A paper is accepted to **ICCD**. Congrats to all the authors!
+- [August 2] A paper is accepted to **ICCD'24**. Congrats to all the authors!
 - [August 1] DaCapo (ISCA'24) has been featured in various media channels (Articles: <a href="https://www.yna.co.kr/view/AKR20240801068900063">1</a>, <a href="https://digitalchosun.dizzo.com/site/data/html_dir/2024/08/02/2024080280244.html">2</a>).
 - [July 26] A paper is accepted to **IEEE Micro**. Congrats to all the authors at KAIST and HyperAccel!
 - [July 2] Our ISCA paper has received the **Distinguished Artifact Award**. Kudos to all the authors!
