@@ -16,23 +16,24 @@ weight = 30
 
 ### **2026**
 
-- [March 27]  A paper is accepted at **OSDI’26**! This work was done in collaboration with Penn State University and SK Hynix. Congratulations Donghwan!
+- [March 28]  A paper is accepted to **ISCA’26**! This work was done in collaboration with UCSD. Congratulations to Yubin, Seongryong, and all the collaborators at UCSD!
+- [March 27]  A paper is accepted at **OSDI’26**! This work was done in collaboration with PSU and SK Hynix. 
 - [March 6] A paper is accepted at **PLDI'26**! Congratulations to Jeonghyeon. This work was done in collaboration with FuriosaAI.
 - [February 27] I am appointed as an **Associate Editor for IEEE Computer Architecture Letters (CAL)**.
-- [February 24] A paper is accepted at **ISPASS'26**! Congrats to Jaehong, Hyunmin, and Guseul!
+- [February 24] A paper is accepted to **ISPASS'26**! Congrats to Jaehong, Hyunmin, and Guseul!
 
 ### **2025**
 
 - [December 17] I have received *two* honors, **Impact Research Award** and **Technology Innovation Award**, from the KAIST College of Engineering.
 - [December 16] A paper is accepted at **IEEE CAL**. Congrats to Jinwoo, Yeongmin, Tadiwos, and Hyeonbin!  
-- [October 28] A paper is accepted at **IEEE CAL**. Congrats to Jaehong and Hyunmin!
-- [October 24] A paper is accepted at **ASPLOS'26**. Congratulations to Changhun, Seongryong, Jinwoo, Yoonsung, and our collaborator Hardik from Meta Reality Labs!
+- [October 28] A paper is accepted to **IEEE CAL**. Congrats to Jaehong and Hyunmin!
+- [October 24] A paper is accepted to **ASPLOS'26**. Congratulations to Changhun, Seongryong, Jinwoo, Yoonsung, and our collaborator Hardik from Meta Reality Labs!
 - [August 11] Our **IEEE Micro** paper has received the **2024 Best Paper Award**! Congratulations to Seungjae Moon, Joo-Young Kim, and all co-authors from HyperAccel and KAIST!
 - [July 14] Two papers have been accepted at **MICRO'25**! One led by our team and the other led by POSTECH PSAL team. Congrats to Wonung, the CASYS team, and all collaborators from POSTECH, Uppsala University, and Georgia Tech!
-- [June 16] Our paper has been accepted at **VLDB'25**! Congratulations to Jinwoo, many contributing students from CASYS, and all collaborators from Korea University and POSTECH!
-- [April 10] A paper is accepted at **IEEE CAL**. Congrats to Daeun, Jinwoo, and Changhun!
+- [June 16] Our paper has been accepted to **VLDB'25**! Congratulations to Jinwoo, many contributing students from CASYS, and all collaborators from Korea University and POSTECH!
+- [April 10] A paper is accepted to **IEEE CAL**. Congrats to Daeun, Jinwoo, and Changhun!
 - [April 8] Our proposal on **"Distributed Inference and Model Optimization for Heterogeneous AI Semiconductors"** awarded funding under the **K-Cloud Project** grant. This is a collaborative effort with **ETRI, Rebellion, Konan Technology, and Seoul National University**. 
-- [March 22] A paper is accepted at **ISCA'25**. Congrats to Minsu and our collaborators at HyperAccel. 
+- [March 22] A paper is accepted to **ISCA'25**. Congrats to Minsu and our collaborators at HyperAccel. 
 - [February 7] Tandem Processor (ASPLOS'24) has been recognized as an **IEEE Micro Top Picks Honorable Mention**. Congratulations to all the authors from UCSD, UIUC, Google Deepmind, and KAIST!
 - [February 5] I have received the **Excellence Prize in KAIST’s Teaching Innovation Award**.
 - [January 24] Our group has won the **Gold Prize (1st place in the Computer Science and Engineering track)** in the prestigious **Samsung Humantech Paper Award**. Congratulations Wonung, Yubin, Yoonsung, Jinwoo, Seongryong, and Jiyong!
@@ -40,7 +41,7 @@ weight = 30
 
 ### **2024**
 
-- [October 13] A paper is accepted at **IEEE CAL**. Congrats to all the authors at POSTECH and KAIST!
+- [October 13] A paper is accepted to **IEEE CAL**. Congrats to all the authors at POSTECH and KAIST!
 - [October 12] **LLMServingSim** (IISWC'24) has been covered by multiple media outlets (Articles: <a href="https://www.yna.co.kr/view/AKR20241011046900063">1</a>, <a href="https://heraldk.com/2024/10/10/kaist-%EB%B0%95%EC%A2%85%EC%84%B8-%EA%B5%90%EC%88%98%ED%8C%80-%EC%84%B8%EA%B3%84-%EC%B5%9C%EA%B3%A0-%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AD%EC%A0%9C%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C-%EC%84%9D/">2</a>, <a href="https://www.asiae.co.kr/article/2024101108375346322">3</a>).
 - [October 2] I am elevated to **IEEE Senior Member**.
 - [September 17] Our IISWC paper has received **Both the Best Paper Award and Distinguished Artifact Award!** Congratulations to all involved! 
