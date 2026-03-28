@@ -31,7 +31,7 @@ weight = 60
 
 **Neo: Real-Time On-Device 3D Gaussian Splatting with Reuse-and-Update Sorting Acceleration**<br>
 <span style="color:#666666">Changhun Oh, Seongryong Oh, Jinwoo Hwang, Yoonsung Kim, Hardik Sharma, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">ASPLOS</span>, 2026</em> [<a href="https://arxiv.org/pdf/2511.12930" style="color: #1D90FF;">Paper</a>]
+<em><span style="color:#770001;">ASPLOS</span>, 2026</em> [<a href="https://arxiv.org/pdf/2511.12930" style="color: #1D90FF;">Paper</a>|<a href="../files/slide/2026-asplos-neo.pdf" style="color: #FF8C00;">Talk</a>]
 
 **Understanding the Performance Behaviors of End-to-End Protein Design Pipelines on GPUs**<br>
 <span style="color:#666666">Jinwoo Hwang, Yeongmin Hwang, Tadiwos Meaza, Hyeonbin Bae, <u>Jongse Park</u></span><br>
