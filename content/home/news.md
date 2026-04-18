@@ -17,6 +17,7 @@ weight = 30
 ### **2026**
 
 <!-- - [March 28]  A paper is accepted to **ISCA’26**! This work was done in collaboration with UCSD. Congratulations to Yubin, Seongryong, and all the collaborators at UCSD! -->
+- [April 18] Our LLMServingSim 2.0 paper is nominated for **Best Paper Award at ISPASS'26**! Congrats Jaehong, Hyunmin, and Guseul!
 - [March 27]  A paper is accepted to **OSDI’26**! This work was done in collaboration with PSU and SK Hynix. 
 - [March 6] A paper is accepted at **PLDI'26**! Congratulations to Jeonghyeon. This work was done in collaboration with FuriosaAI.
 - [February 27] I am appointed as an **Associate Editor for IEEE Computer Architecture Letters (CAL)**.
