@@ -25,7 +25,7 @@ weight = 60
 
 **A Simulator for LLM inference systems exploiting CXL memory pools**<br>
 <span style="color:#666666">Jinghan Huang, Hongkun Zeng, Mike Montano, Jaehong Cho, Hyunmin Choi, Jinin So, Junhyeok Im, Handeok Lee, <u>Jongse Park</u>, Nam Sung Kim</span><br>
-<em><span style="color:#770001;">IEEE Computer Architecture Letters (CAL)</span>, 2026</em> [<a href="" style="color: #1D90FF;">Paper</a>]
+<em><span style="color:#770001;">IEEE Computer Architecture Letters (CAL)</span>, 2026</em> [<a href="" style="color: #1D90FF;">Paper</a>] (To Appear)
 
 **Cocoon: A System Architecture for Differentially Private Training with Correlated Noises**<br>
 <span style="color:#666666">Donghwan Kim, Xin Gu, Jinho Baek, Timothy Lo, Younghoon Min, Kwangsik Shin, Jongryool Kim, <u>Jongse Park</u>, Kiwan Maeng</span><br>
