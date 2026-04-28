@@ -32,7 +32,7 @@ weight = 60
  
 **Revisiting Partial Tracing for Safe, Efficient, and Concurrent Garbage Collection in Unmanaged Languages**<br>
 <span style="color:#666666">Jeonghyeon Kim, <u>Jongse Park</u>, Youngjin Kwon, Jeehoon Kang</span><br>
-<em><span style="color:#770001;">PLDI</span>, 2026</em> [<a href="" style="color: #1D90FF;">Paper</a>] (To Appear)
+<em><span style="color:#770001;">PLDI</span>, 2026</em> [<a href="https://jhyeon.kim/papers/pldi26.pdf" style="color: #1D90FF;">Paper</a>] (To Appear)
 
 **LLMServingSim 2.0: A Unified Simulator for Heterogeneous and  Disaggregated LLM Serving Infrastructure**<br>
 <span style="color:#666666">Jaehong Cho*, Hyunmin Choi*, Guseul Heo, <u>Jongse Park</u></span><br>
