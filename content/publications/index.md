@@ -22,7 +22,6 @@ weight = 60
 <em><span style="color:#770001;">ISCA</span>, 2026</em> [<a href="" style="color: #1D90FF;">Paper</a>] (To Appear)
 -->
 
-
 **A Simulator for LLM inference systems exploiting CXL memory pools**<br>
 <span style="color:#666666">Jinghan Huang, Hongkun Zeng, Mike Montano, Jaehong Cho, Hyunmin Choi, Jinin So, Junhyeok Im, Handeok Lee, <u>Jongse Park</u>, Nam Sung Kim</span><br>
 <em><span style="color:#770001;">IEEE Computer Architecture Letters (CAL)</span>, 2026</em> [<a href="" style="color: #1D90FF;">Paper</a>] (To Appear)
@@ -37,7 +36,7 @@ weight = 60
 
 **LLMServingSim 2.0: A Unified Simulator for Heterogeneous and  Disaggregated LLM Serving Infrastructure**<br>
 <span style="color:#666666">Jaehong Cho*, Hyunmin Choi*, Guseul Heo, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">ISPASS</span>, 2026</em> [<a href="" style="color: #1D90FF;">Paper</a>|<a href="https://github.com/casys-kaist/LLMServingSim" style="color: #009193;">Code</a>] <br>
+<em><span style="color:#770001;">ISPASS</span>, 2026</em> [<a href="../files/paper/2026-ispass-llmservingsim2.0.pdf" style="color: #1D90FF;">Paper</a>|<a href="https://github.com/casys-kaist/LLMServingSim" style="color: #009193;">Code</a>|<a href="../files/slide/2026-ispass-llmservingsim2.0.pdf" style="color: #FF8C00;">Talk</a>] <br>
 <strong><em><span style="color:#4F8F01;"><b>Best Paper Award Nominee</b></span></em></strong> <br>
 
 **Neo: Real-Time On-Device 3D Gaussian Splatting with Reuse-and-Update Sorting Acceleration**<br>
