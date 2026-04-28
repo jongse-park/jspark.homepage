@@ -37,7 +37,7 @@ weight = 60
 **LLMServingSim 2.0: A Unified Simulator for Heterogeneous and  Disaggregated LLM Serving Infrastructure**<br>
 <span style="color:#666666">Jaehong Cho*, Hyunmin Choi*, Guseul Heo, <u>Jongse Park</u></span><br>
 <em><span style="color:#770001;">ISPASS</span>, 2026</em> [<a href="../files/paper/2026-ispass-llmservingsim2.0.pdf" style="color: #1D90FF;">Paper</a>|<a href="https://github.com/casys-kaist/LLMServingSim" style="color: #009193;">Code</a>|<a href="../files/slide/2026-ispass-llmservingsim2.0.pdf" style="color: #FF8C00;">Talk</a>] <br>
-<strong><em><span style="color:#4F8F01;"><b>Best Paper Award Nominee</b></span></em></strong> <br>
+<strong><em><span style="color:#4F8F01;"><b>Best Paper Award</b></span></em></strong> <br>
 
 **Neo: Real-Time On-Device 3D Gaussian Splatting with Reuse-and-Update Sorting Acceleration**<br>
 <span style="color:#666666">Changhun Oh, Seongryong Oh, Jinwoo Hwang, Yoonsung Kim, Hardik Sharma, <u>Jongse Park</u></span><br>
