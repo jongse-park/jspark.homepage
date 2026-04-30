@@ -22,7 +22,7 @@ weight = 60
 <em><span style="color:#770001;">ISCA</span>, 2026</em> [<a href="" style="color: #1D90FF;">Paper</a>] (To Appear)
 -->
 
-**A Simulator for LLM inference systems exploiting CXL memory pools**<br>
+**A Simulator for LLM Inference Systems Exploiting CXL Memory Pools**<br>
 <span style="color:#666666">Jinghan Huang, Hongkun Zeng, Mike Montano, Jaehong Cho, Hyunmin Choi, Jinin So, Junhyeok Im, Handeok Lee, <u>Jongse Park</u>, Nam Sung Kim</span><br>
 <em><span style="color:#770001;">IEEE Computer Architecture Letters (CAL)</span>, 2026</em> [<a href="https://arxiv.org/pdf/2510.07304" style="color: #1D90FF;">Paper</a>] (To Appear)
 
