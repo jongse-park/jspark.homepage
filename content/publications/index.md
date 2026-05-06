@@ -17,7 +17,7 @@ weight = 60
 <span style="font-size: 0.8em;">2026</span>  
 --- 
 
-**Transcending Domain-Specific Architectures for End-to-End Acceleration of Robotics**<br>
+**Accelerator Polymorphism: Transcending Domain-Specific Architectures with Robotics**<br>
 <span style="color:#666666">Hanyang Xu, SeongRyong Oh, Yubin Lee, Ashwin Rohit Alagiri Rajan, Rohan Mahapatra, Om Patil, Yuchuan Li, <u>Jongse Park</u>, Hadi Esmaeilzadeh</span><br>
 <em><span style="color:#770001;">ISCA</span>, 2026</em> [<a href="" style="color: #1D90FF;">Paper</a>] (To Appear)
 
