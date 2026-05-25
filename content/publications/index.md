@@ -23,11 +23,11 @@ weight = 60
 
 **A Simulator for LLM Inference Systems Exploiting CXL Memory Pools**<br>
 <span style="color:#666666">Jinghan Huang, Hongkun Zeng, Mike Montano, Jaehong Cho, Hyunmin Choi, Jinin So, Junhyeok Im, Handeok Lee, <u>Jongse Park</u>, Nam Sung Kim</span><br>
-<em><span style="color:#770001;">IEEE Computer Architecture Letters (CAL)</span>, 2026</em> [<a href="https://arxiv.org/pdf/2510.07304" style="color: #1D90FF;">Paper</a>] (To Appear)
+<em><span style="color:#770001;">IEEE Computer Architecture Letters (CAL)</span>, 2026</em> [<a href="" style="color: #1D90FF;">Paper</a>] (To Appear)
 
 **Cocoon: A System Architecture for Differentially Private Training with Correlated Noises**<br>
 <span style="color:#666666">Donghwan Kim, Xin Gu, Jinho Baek, Timothy Lo, Younghoon Min, Kwangsik Shin, Jongryool Kim, <u>Jongse Park</u>, Kiwan Maeng</span><br>
-<em><span style="color:#770001;">OSDI</span>, 2026</em> [<a href="" style="color: #1D90FF;">Paper</a>] (To Appear)
+<em><span style="color:#770001;">OSDI</span>, 2026</em> [<a href="https://arxiv.org/pdf/2510.07304" style="color: #1D90FF;">Paper</a>] (To Appear)
  
 **Revisiting Partial Tracing for Safe, Efficient, and Concurrent Garbage Collection in Unmanaged Languages**<br>
 <span style="color:#666666">Jeonghyeon Kim, <u>Jongse Park</u>, Youngjin Kwon, Jeehoon Kang</span><br>
@@ -35,7 +35,7 @@ weight = 60
 
 **LLMServingSim 2.0: A Unified Simulator for Heterogeneous and  Disaggregated LLM Serving Infrastructure**<br>
 <span style="color:#666666">Jaehong Cho*, Hyunmin Choi*, Guseul Heo, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">ISPASS</span>, 2026</em> [<a href="../files/paper/2026-ispass-llmservingsim2.0.pdf" style="color: #1D90FF;">Paper</a>|<a href="https://github.com/casys-kaist/LLMServingSim" style="color: #009193;">Code</a>|<a href="../files/slide/2026-ispass-llmservingsim2.0.pdf" style="color: #FF8C00;">Talk</a>] <br>
+<em><span style="color:#770001;">ISPASS</span>, 2026</em> [<a href="../files/paper/2026-ispass-llmservingsim2.0.pdf" style="color: #1D90FF;">Paper</a>|<a href="https://llmservingsim.ai/" style="color: #7A3EFF;">Website</a>|<a href="https://github.com/casys-kaist/LLMServingSim" style="color: #009193;">Code</a>|<a href="../files/slide/2026-ispass-llmservingsim2.0.pdf" style="color: #FF8C00;">Talk</a>] <br>
 <strong><em><span style="color:#4F8F01;"><b>Best Paper Award</b></span></em></strong> <br>
 
 **Neo: Real-Time On-Device 3D Gaussian Splatting with Reuse-and-Update Sorting Acceleration**<br>
