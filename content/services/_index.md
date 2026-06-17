@@ -52,6 +52,9 @@ weight = 100
 - Web chair of HPCA 2020
 - Publication chair of PACT 2020
 
+##### Associate Editor
+- IEEE Computer Architecture Letters (CAL), 2026 - date
+
 ##### Guest Editor
 - IEEE Micro Special Issue on Machine Learning Acceleration, 2019
 
