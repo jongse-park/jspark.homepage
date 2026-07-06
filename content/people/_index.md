@@ -38,14 +38,13 @@ weight = 40
 -   <a href="https://kimddong0069.github.io/">Dongha Kim</a>
 -	<a href="https://young6666.github.io/">Yeongwook Kim</a>
 -	<a href="https://hyunsuyee.github.io/">Hyunsu Ye</a>
--	<a href="">Sangin Jeon</a>
+-	<a href="https://snow-jeon.github.io/sangin/">Sangin Jeon</a>
+-	<a href="">Seungwuk Eun</a>
 
 ##### Undergraduate Students
--	Tadiwos Meaza (Fall 2024)
--	Hyungju Ahn (Fall 2025)
 -	Chihyun Ahn (Winter 2025)
--	Seungwuk Eun (Winter 2025)
--	Geonwoo Han (Spring 2026)	
+-	Geonwoo Han (Spring 2026)
+-	Jaeseo Lee (Fall 2026)	
 
 ##### Alumni (M.S.)
 -	Dohee Kim (Gradudated in Spring 2022)
