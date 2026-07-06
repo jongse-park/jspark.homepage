@@ -28,10 +28,10 @@ weight = 40
 -	<a href="https://jirheee.github.io/jirheee/">Jungin Rhee</a>
 -   <a href="https://waneon.me/">Wonung Kim</a>
 -	<a href="http://yblee.site/">Yubin Lee</a> 
-
-#####	M.S. Students	
 - 	<a href="https://jaehongcs20.github.io/">Jaehong Cho</a> 
 - 	<a href="https://hyuenmin-choi.github.io/">Hyunmin Choi</a> 
+
+#####	M.S. Students	
 -   <a href="https://tr2-k.github.io/">Namwoo Kim</a>
 -   <a href="https://jiyong-j.github.io/">Jiyong Jung</a>
 -   <a href="https://hymin13.github.io/about.html">Yeongmin Hwang</a>
