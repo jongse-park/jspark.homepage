@@ -39,7 +39,7 @@ weight = 40
 -	<a href="https://young6666.github.io/">Yeongwook Kim</a>
 -	<a href="https://hyunsuyee.github.io/">Hyunsu Ye</a>
 -	<a href="https://snow-jeon.github.io/sangin/">Sangin Jeon</a>
--	<a href="">Seungwuk Eun</a>
+-	<a href="https://seungwuk98.github.io/resume/">Seungwuk Eun</a>
 
 ##### Undergraduate Students
 -	Chihyun Ahn (Winter 2025)
