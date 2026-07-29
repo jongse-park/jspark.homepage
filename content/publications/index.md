@@ -17,6 +17,18 @@ weight = 60
 <span style="font-size: 0.8em;">2026</span>  
 --- 
 
+**Understanding and Exploiting Diagonal Attention Sparsity in Autoregressive Image Generation**<br>
+<span style="color:#666666">Daeun Kim, Junwha Hong, Changhun Oh, Yoonsung Kim, Yoonhyeong Lee, <u>Jongse Park</u></span><br>
+<em><span style="color:#770001;">IISWC</span>, 2026</em> [<a href="" style="color: #1D90FF;">Paper</a>] (To Appear)
+
+**Compute-Communication Overlap Is Not Free: A Cross-Layer Characterization in GPU LLM Workloads**<br>
+<span style="color:#666666">Jihwan Oh, Junkyum Kim, Seokjin Go, <u>Jongse Park</u>, Divya Mahajan</span><br>
+<em><span style="color:#770001;">IISWC</span>, 2026</em> [<a href="" style="color: #1D90FF;">Paper</a>] (To Appear)
+
+**Characterizing How Complex Agentic AI Systems Handle General Tasks: A Trace-Based Simulation Study**<br>
+<span style="color:#666666">Donghwan Kim, Prakhar Singh, Younghoon Min, Jongryool Kim, <u>Jongse Park</u>, Kiwan Maeng</span><br>
+<em><span style="color:#770001;">IISWC</span>, 2026</em> [<a href="" style="color: #1D90FF;">Paper</a>] (To Appear)
+
 **NELSSA: A GPU–PNM Heterogeneous System for Mixed-Length LLM Serving via Length–based Request Placement**<br>
 <span style="color:#666666">Sookyung Choi, Seungyong Lee, Kangkyu Park, Yunseo Chun, Junseok Lee, Hyeongseok Gwak, Myunghyun Rhee, Euiseok Kim, Donguk Moon, Kwangsik Shin, Guseul Heo, Youngpyo Joo, Hoshik Kim, <u>Jongse Park</u></span><br>
 <em><span style="color:#770001;">MICRO</span>, 2026</em> [<a href="" style="color: #1D90FF;">Paper</a>] (To Appear)
