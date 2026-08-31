@@ -16,7 +16,7 @@ weight = 30
 
 ### **2026**
 
-- [July 28] Three papers are accepted to **IISWC’26**! Congratulations to all the students and collaborators from KAIST, Georgia Tech, Penn State, ADD, and SK hynix!
+- [July 28] Four papers are accepted to **IISWC’26**! Congratulations to all the students and collaborators from KAIST, Georgia Tech, Penn State, ADD, and SK hynix!
 - [July 8] Our collaborative work with SK hynix has been accepted to **MICRO’26**! Congratulations to Guseul and all the collaborators at SK hynix! 
 - [May 19] Our proposal on “**Development of Adaptive System Software Technology for AI Ecosystems Enabling Continuous Performance Optimization of AI Semiconductors**” awarded funding under the **K-Cloud Project grant**. This is a collaborative effort with HyperAccel, Modulabs (모두의연구소), Sqeezebits, and Seoul National University.
 - [May 2]  A paper is accepted to **ISCA’26**! This work was done in collaboration with UCSD. Congratulations to Yubin, Seongryong, and all the collaborators at UCSD! 
