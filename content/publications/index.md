@@ -37,7 +37,7 @@ weight = 60
 
 **NELSSA: A GPU–PNM Heterogeneous System for Mixed-Length LLM Serving via Length–based Request Placement**<br>
 <span style="color:#666666">Sookyung Choi, Seungyong Lee, Kangkyu Park, Yunseo Chun, Junseok Lee, Hyeongseok Gwak, Myunghyun Rhee, Euiseok Kim, Donguk Moon, Kwangsik Shin, Guseul Heo, Youngpyo Joo, Hoshik Kim, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">MICRO</span>, 2026</em> [<a href="" style="color: #1D90FF;">Paper</a>] (To Appear)
+<em><span style="color:#770001;">MICRO</span>, 2026</em> [<a href="../files/paper/2026-micro-nelssa.pdf" style="color: #1D90FF;">Paper</a>] (To Appear)
 
 **Accelerator Polymorphism: Transcending Domain-Specific Architectures with Robotics**<br>
 <span style="color:#666666">Hanyang Xu, SeongRyong Oh, Yubin Lee, Ashwin Rohit Alagiri Rajan, Rohan Mahapatra, Om Patil, Yuchuan Li, <u>Jongse Park</u>, Hadi Esmaeilzadeh</span><br>
