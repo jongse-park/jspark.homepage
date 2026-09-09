@@ -19,20 +19,20 @@ weight = 60
 
 **How Far Can PIMs Replace GPUs in Energy-Efficient Multi-Turn Agent Serving? (Short paper)**<br>
 <span style="color:#666666">Junwha Hong, Guseul Heo, Hyunsu Ye, <u>Jongse Park</u>, Olivia Hsu</span><br>
-<em><span style="color:#770001;">IISWC</span>, 2026</em> [<a href="" style="color: #1D90FF;">Paper</a>] (To Appear)
+<em><span style="color:#770001;">IISWC</span>, 2026</em> [Paper] (To Appear)
 
 **Understanding and Exploiting Diagonal Attention Sparsity in Autoregressive Image Generation**<br>
 <span style="color:#666666">Daeun Kim, Junwha Hong, Changhun Oh, Yoonsung Kim, Yoonhyeong Lee, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">IISWC</span>, 2026</em> [<a href="" style="color: #1D90FF;">Paper</a>] (To Appear)
+<em><span style="color:#770001;">IISWC</span>, 2026</em> [<a href="../files/paper/2026-iiswc-sparseimagegen.pdf" style="color: #1D90FF;">Paper</a>] (To Appear)
 
 **Compute-Communication Overlap Is Not Free: A Cross-Layer Characterization in GPU LLM Workloads**<br>
 <span style="color:#666666">Jihwan Oh, Junkyum Kim, Seokjin Go, <u>Jongse Park</u>, Divya Mahajan</span><br>
-<em><span style="color:#770001;">IISWC</span>, 2026</em> [<a href="" style="color: #1D90FF;">Paper</a>] (To Appear) <br>
+<em><span style="color:#770001;">IISWC</span>, 2026</em> [Paper] (To Appear) <br>
 <strong><em><span style="color:#4F8F01;"><b>Best Paper Finalist</b></span></em></strong> <br>
 
 **Characterizing How Complex Agentic AI Systems Handle General Tasks: A Trace-Based Simulation Study**<br>
 <span style="color:#666666">Donghwan Kim, Prakhar Singh, Younghoon Min, Jongryool Kim, <u>Jongse Park</u>, Kiwan Maeng</span><br>
-<em><span style="color:#770001;">IISWC</span>, 2026</em> [<a href="" style="color: #1D90FF;">Paper</a>] (To Appear) <br>
+<em><span style="color:#770001;">IISWC</span>, 2026</em> [Paper] (To Appear) <br>
 <strong><em><span style="color:#4F8F01;"><b>Best Paper Finalist</b></span></em></strong> <br>
 
 **NELSSA: A GPU–PNM Heterogeneous System for Mixed-Length LLM Serving via Length–based Request Placement**<br>
