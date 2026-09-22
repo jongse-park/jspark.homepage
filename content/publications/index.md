@@ -36,7 +36,7 @@ weight = 60
 
 **Characterizing How Complex Agentic AI Systems Handle General Tasks: A Trace-Based Simulation Study**<br>
 <span style="color:#666666">Donghwan Kim, Prakhar Singh, Younghoon Min, Jongryool Kim, <u>Jongse Park</u>, Kiwan Maeng</span><br>
-<em><span style="color:#770001;">IISWC</span>, 2026</em> [Paper] (To Appear) <br>
+<em><span style="color:#770001;">IISWC</span>, 2026</em> [<a href="https://arxiv.org/pdf/2606.01725">Paper</a>] (To Appear) <br>
 <strong><em><span style="color:#4F8F01;"><b>Best Paper Finalist</b></span></em></strong> <br>
 
 **NELSSA: A GPU–PNM Heterogeneous System for Mixed-Length LLM Serving via Length–based Request Placement**<br>
