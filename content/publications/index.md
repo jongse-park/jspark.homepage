@@ -27,7 +27,7 @@ weight = 60
 
 **How Far Can PIMs Replace GPUs in Energy-Efficient Multi-Turn Agent Serving? (Short paper)**<br>
 <span style="color:#666666">Junwha Hong, Guseul Heo, Hyunsu Ye, <u>Jongse Park</u>, Olivia Hsu</span><br>
-<em><span style="color:#770001;">IISWC</span>, 2026</em> [Paper] (To Appear)
+<em><span style="color:#770001;">IISWC</span>, 2026</em> [<a href="../files/paper/2026-iiswc-howfar.pdf" style="color: #1D90FF;">Paper</a>] (To Appear)
 
 **Understanding and Exploiting Diagonal Attention Sparsity in Autoregressive Image Generation**<br>
 <span style="color:#666666">Daeun Kim, Junwha Hong, Changhun Oh, Yoonsung Kim, Yoonhyeong Lee, <u>Jongse Park</u></span><br>
