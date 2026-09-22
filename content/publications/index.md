@@ -17,6 +17,10 @@ weight = 60
 <span style="font-size: 0.8em;">2026</span>  
 --- 
 
+**Toward Agent-Driven Pathfinding for Heterogeneous LLM Serving System**<br>
+<span style="color:#666666">Wonung Kim, Hyunmin Choi, <u>Jongse Park</u></span><br>
+<em><span style="color:#770001;">CHASM</span>, 2026</em> [Paper] (To Appear)
+
 **How Far Can PIMs Replace GPUs in Energy-Efficient Multi-Turn Agent Serving? (Short paper)**<br>
 <span style="color:#666666">Junwha Hong, Guseul Heo, Hyunsu Ye, <u>Jongse Park</u>, Olivia Hsu</span><br>
 <em><span style="color:#770001;">IISWC</span>, 2026</em> [Paper] (To Appear)
