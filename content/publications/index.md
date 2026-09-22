@@ -21,6 +21,10 @@ weight = 60
 <span style="color:#666666">Wonung Kim, Hyunmin Choi, <u>Jongse Park</u></span><br>
 <em><span style="color:#770001;">CHASM</span>, 2026</em> [Paper] (To Appear)
 
+**NELSSA: A GPU–PNM Heterogeneous System for Mixed-Length LLM Serving via Length–based Request Placement**<br>
+<span style="color:#666666">Sookyung Choi, Seungyong Lee, Kangkyu Park, Yunseo Chun, Junseok Lee, Hyeongseok Gwak, Myunghyun Rhee, Euiseok Kim, Donguk Moon, Kwangsik Shin, Guseul Heo, Youngpyo Joo, Hoshik Kim, <u>Jongse Park</u></span><br>
+<em><span style="color:#770001;">MICRO</span>, 2026</em> [<a href="../files/paper/2026-micro-nelssa.pdf" style="color: #1D90FF;">Paper</a>] (To Appear)
+
 **How Far Can PIMs Replace GPUs in Energy-Efficient Multi-Turn Agent Serving? (Short paper)**<br>
 <span style="color:#666666">Junwha Hong, Guseul Heo, Hyunsu Ye, <u>Jongse Park</u>, Olivia Hsu</span><br>
 <em><span style="color:#770001;">IISWC</span>, 2026</em> [Paper] (To Appear)
@@ -36,12 +40,8 @@ weight = 60
 
 **Characterizing How Complex Agentic AI Systems Handle General Tasks: A Trace-Based Simulation Study**<br>
 <span style="color:#666666">Donghwan Kim, Prakhar Singh, Younghoon Min, Jongryool Kim, <u>Jongse Park</u>, Kiwan Maeng</span><br>
-<em><span style="color:#770001;">IISWC</span>, 2026</em> [<a href="https://arxiv.org/pdf/2606.01725">Paper</a>] (To Appear) <br>
+<em><span style="color:#770001;">IISWC</span>, 2026</em> [<a href="https://arxiv.org/pdf/2606.01725" style="color: #1D90FF;">Paper</a>] (To Appear) <br>
 <strong><em><span style="color:#4F8F01;"><b>Best Paper Finalist</b></span></em></strong> <br>
-
-**NELSSA: A GPU–PNM Heterogeneous System for Mixed-Length LLM Serving via Length–based Request Placement**<br>
-<span style="color:#666666">Sookyung Choi, Seungyong Lee, Kangkyu Park, Yunseo Chun, Junseok Lee, Hyeongseok Gwak, Myunghyun Rhee, Euiseok Kim, Donguk Moon, Kwangsik Shin, Guseul Heo, Youngpyo Joo, Hoshik Kim, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">MICRO</span>, 2026</em> [<a href="../files/paper/2026-micro-nelssa.pdf" style="color: #1D90FF;">Paper</a>] (To Appear)
 
 **Accelerator Polymorphism: Transcending Domain-Specific Architectures with Robotics**<br>
 <span style="color:#666666">Hanyang Xu, SeongRyong Oh, Yubin Lee, Ashwin Rohit Alagiri Rajan, Rohan Mahapatra, Om Patil, Yuchuan Li, <u>Jongse Park</u>, Hadi Esmaeilzadeh</span><br>
