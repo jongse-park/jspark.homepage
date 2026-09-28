@@ -16,7 +16,7 @@ weight = 30
 
 ### **2026**
 
-- [September 29] Our collaborative work with **Penn State University and SK hynix** has received **both Best Paper Award and Best Artifact Award at IISWC 2026**! Congratulations to all involved!
+- [September 29] Our collaborative work with **Penn State University and SK hynix** has received **BOTH Best Paper Award and Best Artifact Award at IISWC 2026**! Congratulations to all involved!
 - [September 29] Our collaborative work with **Georgia Tech** was selected as a **Best Paper Award Finalist at IISWC 2026**! Congratulations to all involved!
 - [July 28] **Four papers** are accepted to **IISWC’26**! Congratulations to all the students and collaborators from KAIST, CMU, Georgia Tech, Penn State, ADD, and SK hynix!
 - [July 8] Our collaborative work with **SK hynix** has been accepted to **MICRO’26**! Congratulations to Guseul and all the collaborators at SK hynix! 
