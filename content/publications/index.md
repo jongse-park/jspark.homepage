@@ -25,23 +25,23 @@ weight = 60
 <span style="color:#666666">Sookyung Choi, Seungyong Lee, Kangkyu Park, Yunseo Chun, Junseok Lee, Hyeongseok Gwak, Myunghyun Rhee, Euiseok Kim, Donguk Moon, Kwangsik Shin, Guseul Heo, Youngpyo Joo, Hoshik Kim, <u>Jongse Park</u></span><br>
 <em><span style="color:#770001;">MICRO</span>, 2026</em> [<a href="../files/paper/2026-micro-nelssa.pdf" style="color: #1D90FF;">Paper</a>] (To Appear)
 
-**How Far Can PIMs Replace GPUs in Energy-Efficient Multi-Turn Agent Serving? (Short paper)**<br>
-<span style="color:#666666">Junwha Hong, Guseul Heo, Hyunsu Ye, <u>Jongse Park</u>, Olivia Hsu</span><br>
-<em><span style="color:#770001;">IISWC</span>, 2026</em> [<a href="../files/paper/2026-iiswc-howfar.pdf" style="color: #1D90FF;">Paper</a>] (To Appear)
-
-**Understanding and Exploiting Diagonal Attention Sparsity in Autoregressive Image Generation**<br>
-<span style="color:#666666">Daeun Kim, Junwha Hong, Changhun Oh, Yoonsung Kim, Yoonhyeong Lee, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">IISWC</span>, 2026</em> [<a href="../files/paper/2026-iiswc-sparseimagegen.pdf" style="color: #1D90FF;">Paper</a>] (To Appear)
+**Characterizing How Complex Agentic AI Systems Handle General Tasks: A Trace-Based Simulation Study**<br>
+<span style="color:#666666">Donghwan Kim, Prakhar Singh, Younghoon Min, Jongryool Kim, <u>Jongse Park</u>, Kiwan Maeng</span><br>
+<em><span style="color:#770001;">IISWC</span>, 2026</em> [<a href="https://arxiv.org/pdf/2606.01725" style="color: #1D90FF;">Paper</a>] <br>
+<strong><em><span style="color:#4F8F01;"><b>Best Paper Award &amp; Best Artifact Award</b></span></em></strong> <br>
 
 **Compute-Communication Overlap Is Not Free: A Cross-Layer Characterization in GPU LLM Workloads**<br>
 <span style="color:#666666">Jihwan Oh, Junkyum Kim, Seokjin Go, <u>Jongse Park</u>, Divya Mahajan</span><br>
 <em><span style="color:#770001;">IISWC</span>, 2026</em> [Paper] (To Appear) <br>
 <strong><em><span style="color:#4F8F01;"><b>Best Paper Finalist</b></span></em></strong> <br>
 
-**Characterizing How Complex Agentic AI Systems Handle General Tasks: A Trace-Based Simulation Study**<br>
-<span style="color:#666666">Donghwan Kim, Prakhar Singh, Younghoon Min, Jongryool Kim, <u>Jongse Park</u>, Kiwan Maeng</span><br>
-<em><span style="color:#770001;">IISWC</span>, 2026</em> [<a href="https://arxiv.org/pdf/2606.01725" style="color: #1D90FF;">Paper</a>] (To Appear) <br>
-<strong><em><span style="color:#4F8F01;"><b>Best Paper Finalist</b></span></em></strong> <br>
+**Understanding and Exploiting Diagonal Attention Sparsity in Autoregressive Image Generation**<br>
+<span style="color:#666666">Daeun Kim, Junwha Hong, Changhun Oh, Yoonsung Kim, Yoonhyeong Lee, <u>Jongse Park</u></span><br>
+<em><span style="color:#770001;">IISWC</span>, 2026</em> [<a href="../files/paper/2026-iiswc-sparseimagegen.pdf" style="color: #1D90FF;">Paper</a>] 
+
+**How Far Can PIMs Replace GPUs in Energy-Efficient Multi-Turn Agent Serving? (Short paper)**<br>
+<span style="color:#666666">Junwha Hong, Guseul Heo, Hyunsu Ye, <u>Jongse Park</u>, Olivia Hsu</span><br>
+<em><span style="color:#770001;">IISWC</span>, 2026</em> [<a href="../files/paper/2026-iiswc-howfar.pdf" style="color: #1D90FF;">Paper</a>] 
 
 **Accelerator Polymorphism: Transcending Domain-Specific Architectures with Robotics**<br>
 <span style="color:#666666">Hanyang Xu, SeongRyong Oh, Yubin Lee, Ashwin Rohit Alagiri Rajan, Rohan Mahapatra, Om Patil, Yuchuan Li, <u>Jongse Park</u>, Hadi Esmaeilzadeh</span><br>
@@ -110,7 +110,7 @@ Systems**<br>
 **LLMServingSim: A HW/SW Co-Simulation Infrastructure for LLM Inference Serving at Scale**<br>
 <span style="color:#666666">Jaehong Cho, Minsu Kim, Hyunmin Choi, Guseul Heo, <u>Jongse Park</u></span><br>
 <em><span style="color:#770001;">IISWC</span>, 2024</em> [<a href="../files/paper/2024-iiswc-llmservingsim.pdf"  style="color: #1D90FF;">Paper</a>|<a href="../files/slide/2024-iiswc-llmservingsim.pdf" style="color: #FF8C00;">Talk</a>|<a href="https://github.com/casys-kaist/LLMServingSim" style="color: #009193;">Code</a>] <br>
-<strong><em><span style="color:#4F8F01;"><b>Best Paper Award &amp; Distinguished Artifact Award</b></span></em></strong> <br>
+<strong><em><span style="color:#4F8F01;"><b>Best Paper Award &amp; Best Artifact Award</b></span></em></strong> <br>
 
 **Accelerating String-key Learned Index Structures via Memoization-based Incremental Training**<br>
 <span style="color:#666666">Minsu Kim, Jinwoo Hwang, Guseul Heo, Seiyeon Cho, Divya Mahajan, <u>Jongse Park</u></span><br>
