@@ -17,9 +17,13 @@ weight = 60
 <span style="font-size: 0.8em;">2026</span>  
 --- 
 
+<!-- **Toward Agent-Driven Pathfinding for Heterogeneous LLM Serving Systems**<br>
+<span style="color:#666666">Wonung Kim, Hyunmin Choi, <u>Jongse Park</u></span><br>
+<em><span style="color:#770001;">CHASM</span>, 2026</em> [<a href="../files/paper/2026-chasm-pathfinding.pdf" style="color: #1D90FF;">Paper</a>] (To Appear) -->
+
 **Toward Agent-Driven Pathfinding for Heterogeneous LLM Serving Systems**<br>
 <span style="color:#666666">Wonung Kim, Hyunmin Choi, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">CHASM</span>, 2026</em> [<a href="../files/paper/2026-chasm-pathfinding.pdf" style="color: #1D90FF;">Paper</a>] (To Appear)
+<em><span style="color:#770001;">CHASM</span>, 2026</em> [Paper] (To Appear)
 
 **NELSSA: A GPU–PNM Heterogeneous System for Mixed-Length LLM Serving via Length–based Request Placement**<br>
 <span style="color:#666666">Sookyung Choi, Seungyong Lee, Kangkyu Park, Yunseo Chun, Junseok Lee, Hyeongseok Gwak, Myunghyun Rhee, Euiseok Kim, Donguk Moon, Kwangsik Shin, Guseul Heo, Youngpyo Joo, Hoshik Kim, <u>Jongse Park</u></span><br>
@@ -27,7 +31,7 @@ weight = 60
 
 **Characterization of Multi-Model Agentic AI Systems on General Tasks via Trace-Driven Simulation**<br>
 <span style="color:#666666">Donghwan Kim, Prakhar Singh, Younghoon Min, Jongryool Kim, <u>Jongse Park</u>, Kiwan Maeng</span><br>
-<em><span style="color:#770001;">IISWC</span>, 2026</em> [<a href="https://arxiv.org/pdf/2606.01725" style="color: #1D90FF;">Paper</a>] <br>
+<em><span style="color:#770001;">IISWC</span>, 2026</em> [<a href="https://arxiv.org/pdf/2606.01725" style="color: #1D90FF;">Paper</a>|<a href="https://github.com/psu-paws/Vidur-Agent" style="color: #009193;">Code</a>|] <br>
 <strong><em><span style="color:#4F8F01;"><b>Best Paper Award &amp; Best Artifact Award</b></span></em></strong> <br>
 
 **Compute-Communication Overlap Is Not Free: A Cross-Layer Characterization in GPU LLM Workloads**<br>
