@@ -17,7 +17,7 @@ weight = 60
 <span style="font-size: 0.8em;">2026</span>  
 --- 
 
-**Toward Agent-Driven Pathfinding for Heterogeneous LLM Serving System**<br>
+**Toward Agent-Driven Pathfinding for Heterogeneous LLM Serving Systems**<br>
 <span style="color:#666666">Wonung Kim, Hyunmin Choi, <u>Jongse Park</u></span><br>
 <em><span style="color:#770001;">CHASM</span>, 2026</em> [<a href="../files/paper/2026-chasm-pathfinding.pdf" style="color: #1D90FF;">Paper</a>] (To Appear)
 
