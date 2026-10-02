@@ -19,7 +19,7 @@ weight = 60
 
 **Toward Agent-Driven Pathfinding for Heterogeneous LLM Serving System**<br>
 <span style="color:#666666">Wonung Kim, Hyunmin Choi, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">CHASM</span>, 2026</em> [Paper] (To Appear)
+<em><span style="color:#770001;">CHASM</span>, 2026</em> [<a href="../files/paper/2026-chasm-pathfinding.pdf" style="color: #1D90FF;">Paper</a>] (To Appear)
 
 **NELSSA: A GPU–PNM Heterogeneous System for Mixed-Length LLM Serving via Length–based Request Placement**<br>
 <span style="color:#666666">Sookyung Choi, Seungyong Lee, Kangkyu Park, Yunseo Chun, Junseok Lee, Hyeongseok Gwak, Myunghyun Rhee, Euiseok Kim, Donguk Moon, Kwangsik Shin, Guseul Heo, Youngpyo Joo, Hoshik Kim, <u>Jongse Park</u></span><br>
