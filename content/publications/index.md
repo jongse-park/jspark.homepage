@@ -31,7 +31,7 @@ weight = 60
 
 **Characterization of Multi-Model Agentic AI Systems on General Tasks via Trace-Driven Simulation**<br>
 <span style="color:#666666">Donghwan Kim, Prakhar Singh, Younghoon Min, Jongryool Kim, <u>Jongse Park</u>, Kiwan Maeng</span><br>
-<em><span style="color:#770001;">IISWC</span>, 2026</em> [<a href="https://arxiv.org/pdf/2606.01725" style="color: #1D90FF;">Paper</a>|<a href="https://github.com/psu-paws/Vidur-Agent" style="color: #009193;">Code</a>|] <br>
+<em><span style="color:#770001;">IISWC</span>, 2026</em> [<a href="https://arxiv.org/pdf/2606.01725" style="color: #1D90FF;">Paper</a>|<a href="https://github.com/psu-paws/Vidur-Agent" style="color: #009193;">Code</a>] <br>
 <strong><em><span style="color:#4F8F01;"><b>Best Paper Award &amp; Best Artifact Award</b></span></em></strong> <br>
 
 **Compute-Communication Overlap Is Not Free: A Cross-Layer Characterization in GPU LLM Workloads**<br>
