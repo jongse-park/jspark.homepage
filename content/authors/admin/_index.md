@@ -22,9 +22,9 @@ bio:
 
 interests:
 - <i>Computer Architecture and Systems</i>
-- <i>Generative AI Serving Systems</i>
-- <i>On-Device Physical AI Systems</i>
-- <i>Processing-in-Memory (PIM) Acceleration</i>
+- <i>LLM and Agent Serving Systems</i>
+- <i>Physical AI Systems</i>
+- <i>Processing-in-Memory (PIM) and Processing-near-Memory (PNM) Acceleration</i>
 - <i>AI Compiler, Runtime, and Framework</i> 
 
 education:
