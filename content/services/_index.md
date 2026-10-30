@@ -13,6 +13,9 @@ subtitle = ""
 weight = 100 
 
 +++
+##### Associate Editor
+- IEEE Computer Architecture Letters (CAL), 2026 - date
+
 ##### Program Committee
 - HPCA 2023/2025/2026/2027
 - MICRO 2025/2026
@@ -51,9 +54,6 @@ weight = 100
 - Publicity chair of HPCA 2021/2022
 - Web chair of HPCA 2020
 - Publication chair of PACT 2020
-
-##### Associate Editor
-- IEEE Computer Architecture Letters (CAL), 2026 - date
 
 ##### Guest Editor
 - IEEE Micro Special Issue on Machine Learning Acceleration, 2019
