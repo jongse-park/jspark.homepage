@@ -14,6 +14,13 @@ weight = 60
 
 +++
 
+<!-- <span style="font-size: 0.8em;">2027</span>  
+--- 
+
+**Simthesizer: An Agent-Driven Simulation Framework for LLM Serving Systems**<br>
+<span style="color:#666666">Wonung Kim, Hyunmin Choi, Minsu Kim, Jaehong Cho, Yeongwook Kim, <u>Jongse Park</u></span><br>
+<em><span style="color:#770001;">HPCA</span>, 2027</em> [Paper] (To Appear)  -->
+
 <span style="font-size: 0.8em;">2026</span>  
 --- 
 
