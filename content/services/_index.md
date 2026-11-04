@@ -16,6 +16,9 @@ weight = 100
 ##### Associate Editor
 - IEEE Computer Architecture Letters (CAL), 2026 - date
 
+<!-- ##### Area Chair
+- ISCA 2027 -->
+
 ##### Program Committee
 - HPCA 2023/2025/2026/2027
 - MICRO 2025/2026
