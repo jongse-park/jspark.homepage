@@ -19,7 +19,7 @@ weight = 60
 
 **Simthesizer: An Agent-Driven Simulation Framework for LLM Serving Systems**<br>
 <span style="color:#666666">Wonung Kim, Hyunmin Choi, Minsu Kim, Jaehong Cho, Yeongwook Kim, <u>Jongse Park</u></span><br>
-<em><span style="color:#770001;">HPCA</span>, 2027</em> [<a href="../files/paper/2027-hpca-simthesizer.pdf" style="color: #1D90FF;">Paper</a>|<a href="https://llmservingsim.ai/" style="color: #009193;">Code</a>] (To Appear) 
+<em><span style="color:#770001;">HPCA</span>, 2027</em> [<a href="../files/paper/2027-hpca-simthesizer.pdf" style="color: #1D90FF;">Paper</a>] (To Appear) 
 
 <span style="font-size: 0.8em;">2026</span>  
 --- 
