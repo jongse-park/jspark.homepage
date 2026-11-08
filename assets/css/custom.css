@@ -16,17 +16,14 @@
 body.dark .article-style a {
   color: #66E3FF;
 }
-body:not(.dark) #news li a {
-  color: #0079b3;
+
+body:not(.dark) #news a[href] {
+  color: #1D90FF;
   text-decoration: underline;
   text-underline-offset: 0.15em;
 }
 
-body:not(.dark) #news li a[href="https://simthesizer.ai/"] {
-  color: #1D90FF;
-}
-
-body:not(.dark) #news li a:hover,
-body:not(.dark) #news li a:focus-visible {
+body:not(.dark) #news a[href]:hover,
+body:not(.dark) #news a[href]:focus-visible {
   color: #006a9c;
 }
