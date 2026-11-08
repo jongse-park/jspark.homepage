@@ -5,3 +5,14 @@
 .article-container {
   max-width: 1200px;
 }
+
+.article-style a {
+  color: #006B8F;
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+/* 어두운 모드에서는 형광빛 하늘색 */
+body.dark .article-style a {
+  color: #66E3FF;
+}
