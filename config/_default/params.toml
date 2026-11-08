@@ -183,4 +183,5 @@ sharing = true
     show_logo = false
 
 [marketing]
-    google_analytics = "UA-50373934-1"
+    # GA4 web stream measurement ID (G-...).
+    google_analytics = "G-6E7F49SC90"
