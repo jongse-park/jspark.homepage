@@ -23,9 +23,9 @@ weight = 30
 - [July 8] Our collaborative work with **SK hynix** has been accepted to **MICRO’26**! Congratulations to Guseul and all the collaborators at SK hynix! 
 - [May 19] Our proposal on “**Development of Adaptive System Software Technology for AI Ecosystems Enabling Continuous Performance Optimization of AI Semiconductors**” awarded funding under the **K-Cloud Project grant**. This is a collaborative effort with HyperAccel, Modulabs (모두의연구소), Sqeezebits, and Seoul National University.
 - [May 2]  A paper is accepted to **ISCA’26**! This work was done in collaboration with UCSD. Congratulations to Yubin, Seongryong, and all the collaborators at UCSD! 
-- [April 28] Our LLMServingSim 2.0 paper has received **Best Paper Award from ISPASS 2026**! Congratulations to Jaehong, Hyunmin, and Guseul!
+- [April 28] Our LLMServingSim 2.0 paper has received **Best Paper Award from ISPASS 2026**! Check out our heterogeneous LLM serving system simulator at [llmservingsim.ai](https://llmservingsim.ai/).
 - [April 28] A paper is accepted at **IEEE CAL**. This work was done in collaboration with UIUC and Samsung.
-- [April 18] Our LLMServingSim 2.0 paper is a **Best Paper Award Nominee at ISPASS'26**! Check out our heterogeneous LLM serving system simulator at [llmservingsim.ai](https://llmservingsim.ai/). Congrats Jaehong, Hyunmin, and Guseul!
+- [April 18] Our LLMServingSim 2.0 paper is a **Best Paper Award Nominee at ISPASS'26**! Congrats Jaehong, Hyunmin, and Guseul!
 - [March 27]  A paper is accepted to **OSDI’26**! This work was done in collaboration with PSU and SK Hynix. 
 - [March 6] A paper is accepted at **PLDI'26**! Congratulations to Jeonghyeon. This work was done in collaboration with FuriosaAI.
 - [February 27] I am appointed as an **Associate Editor for IEEE Computer Architecture Letters (CAL)**.
