@@ -18,11 +18,13 @@ weight = 40
 -	*KAIST*
 	-	Mar. 2024 - present: Associate Professor, CASYS Lab, SoC
 	-	Dec. 2019 - Feb. 2024: Assistant Professor, CASYS Lab, SoC
+
 -	*Stanford University*
 	-	Jan. 2025 - Jan. 2026: Visiting Associate Professor, Pervasive Parallelism Lab, EECS
 
-#####	Engineer
--	Aug. 2018 - Nov. 2019: Acceleration Solution Architect, Bigstream Solution, Inc.
+#####	Industry
+-	May. 2026 - present: Founder & CEO, AnyBridge Inc.
+-	Aug. 2018 - Nov. 2019: AI System Architect, Bigstream Solution, Inc.
 
 #####	Research Assistant
 -	Jan. 2018 - Aug. 2018: Visiting Researcher, ACT Lab, CSE, UCSD
