@@ -22,6 +22,10 @@ body:not(.dark) #news li a {
   text-underline-offset: 0.15em;
 }
 
+body:not(.dark) #news li a[href="https://simthesizer.ai/"] {
+  color: #1D90FF;
+}
+
 body:not(.dark) #news li a:hover,
 body:not(.dark) #news li a:focus-visible {
   color: #006a9c;
