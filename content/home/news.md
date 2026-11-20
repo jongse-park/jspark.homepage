@@ -16,6 +16,7 @@ weight = 30
 
 ### **2026**
 
+- [November 12] I have joined the [OECD-GPAI Expert Group on AI Compute](https://oecd.ai/en/site/ai-compute/experts), which helps policymakers measure and benchmark national AI compute capacity.
 - [November 2] Our Simthesizer paper has been accepted to **HPCA’27**! Check out our agent-driven LLM serving **sim**ulator syn**thesizer** at [simthesizer.ai](https://simthesizer.ai/). Congratulations to all the authors! 
 - [September 29] Our collaborative work with **Penn State University** and **SK hynix** has received **BOTH Best Paper Award and Best Artifact Award at IISWC 2026**! Congratulations to all involved!
 - [September 29] Our collaborative work with **Georgia Tech** was selected as a **Best Paper Award Finalist at IISWC 2026**! Congratulations to all involved!
